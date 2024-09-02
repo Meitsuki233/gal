@@ -1,0 +1,54 @@
+---
+title: 公告／発表／announcement
+abbrlink: announcement
+tags:
+  - 公告
+  - 発表
+  - announcement
+categories:
+  - Other
+sticky: 10
+comments: false
+date: 2024-04-04 19:40:00
+updated: 2024-08-30 00:00:00
+---
+
+![Moe-Counter](https://count.getloli.com/get/@Moe-Counter?theme=rule34)
+
+## 基本帮助
+
+1. 本站将从 `24.6.4` 起进入长间隔不定时更新资源索引，届时将只保证本站基本正常运行，站长跟生活对线去了..
+2. 如果有能力请去作品官网支持正版！请不要过度宣扬盗版！
+3. 如遇下载问题请施展 `魔法` 再重试，如还是不行请使用 `高阶魔法`，如还还还是不行，那就换条 `下载分流` 再尝试..
+4. 请善用 <kbd>Ctrl</kbd> + <kbd>F</kbd> 页面查找（浏览器自带功能），网站自带搜索需加载完毕，搜索才会有结果
+5. 请不要用网盘的在线解压功能，在线解压会封文件。这样会导致文件被封，对你也没好处！！！
+6. 汉化补丁有概率被 `Windows` 自带的病毒查杀功能隔离，要手动允许存在
+7. 想玩 `Windows PC` 的 `Android 安卓` 可以用模拟电脑环境的模拟器 [Mobox](https://github.com/olegos2/mobox/blob/main/README-zh_CN.md)、[Winlator](https://winlator.org/)、[JoiPlay](https://joiplay.org/)
+8. 想玩 `PSP` 的 `Windows PC`、`Android 安卓`、`Apple iOS`、`Apple macOS` 可以用模拟 `PSP` 环境的模拟器 [PPSSPP](https://www.ppsspp.org/)
+9. 请不要使用国产浏览器，推荐使用 [Chrome](https://www.google.com/intl/zh-CN/chrome/)、[Firefox](https://www.mozilla.org/zh-CN/firefox/)，免得被拦截。
+10. 如遇问题，请自行使用相关关键词[百度](https://www.baidu.com/)、[必应](https://www.bing.com/)、[谷歌](https://www.google.com/)搜索解决。
+11. `Windows PC` 请用 [7-Zip](https://sparanoid.com/lab/7z/) 或 [Bandizip](https://www.bandisoft.com/bandizip/)、[WinRAR](https://www.win-rar.com/) 等专业解压缩工具解压资源，不然极有可能导致解压失败。
+12. `Android 安卓` 推荐这些解压缩软件解压资源：[MT管理器](https://mt2.cn/)、[ZA](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&pcampaignid=web_share)、[ES文件浏览器](http://www.estrongs.com/)
+13. `BT`、`PT`、`磁力` 等链接请使用 `Windows PC` 端的 [qBittorrent](https://github.com/c0re100/qBittorrent-Enhanced-Edition) 或 `Android 安卓` 端的 [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&pcampaignid=web_share) 软件工具下载
+
+## 问卷调查
+
+> 如需对本站提出建议与想法，请点击下方链接即可参与本站的问卷调查~
+> 请认真作答，你的回答对本站今后的发展很重要！ 所以.. 拜托啦~
+> <https://wjx.cn/vm/Pp44mSC.aspx>
+
+## 加入我们
+
+寻找数名想 **无偿用爱发电** 的小伙伴..
+干活时间随心不固定，想什么时候开始干活都可以~
+有意愿可通过 [关于本站](/about/) 或 **侧边栏 > 站点概览 > 头像下方图标** 里留下的通讯方式与我们联系！
+
+- **写手**
+  要求：会寻找资源链接、图片、描述文本与写 `Markdown` 文档等，写作格式参考本站已有文章的大概格式..
+  已招：`秋生GE`、`WTY`、`searvee`、`OT63`
+- **校对**
+  要求：能细心的`校验资源索引文章内容`、资源链接与标签分类的正确性等..
+  已招：暂无
+- **测试**
+  要求：下载资源运行，检查是生肉或熟肉，汉化组名，版本，以及有无 `BUG` 出现等..
+  已招：暂无

@@ -1,0 +1,94 @@
+<link rel="stylesheet" href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css">
+<script async src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js"></script>
+<p><span id="timeDate">天数载入中..</span><span id="times">时分秒载入中..</span></p>
+<script>
+// Aplayer默认关闭歌词
+function removelrc() {
+  // 检测是否存在歌词按钮
+  const lrcIcon = document.querySelector(".aplayer-icon-lrc");
+  if (!lrcIcon) {
+    return;
+  }
+
+  // 触发以后立刻移除监听
+  observer.disconnect();
+
+  // 稍作延时保证触发函数时存在按钮
+  setTimeout(() => {
+    // 以触发按钮的方式隐藏歌词，防止在点击显示歌词按钮时需要点击两次才能出现的问题
+    lrcIcon.click();
+  }, 1);
+}
+
+const observer = new MutationObserver((mutationsList, observer) => {
+  for (let mutation of mutationsList) {
+    if (mutation.type === "childList") {
+      removelrc();
+    }
+  }
+});
+
+const observerConfig = {
+  childList: true, // 观察子节点的变化
+  subtree: true, // 观察所有后代节点的变化
+};
+
+observer.observe(document, observerConfig); // 开始观察document节点的变化
+
+// 页脚运行时长
+!(function () {
+  /** 计时起始时间，自行修改 **/
+  var start = new Date("2024/01/27 21:52:00");
+
+  function update() {
+    var now = new Date();
+    now.setTime(now.getTime() + 250);
+    days = (now - start) / 1000 / 60 / 60 / 24;
+    dnum = Math.floor(days);
+    hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;
+    hnum = Math.floor(hours);
+    if (String(hnum).length === 1) {
+      hnum = "0" + hnum;
+    }
+    minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;
+    mnum = Math.floor(minutes);
+    if (String(mnum).length === 1) {
+      mnum = "0" + mnum;
+    }
+    seconds =
+      (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;
+    snum = Math.round(seconds);
+    if (String(snum).length === 1) {
+      snum = "0" + snum;
+    }
+    document.getElementById("timeDate").innerHTML =
+      "本站居然运行了&nbsp" + dnum + "&nbsp天&nbsp";
+    document.getElementById("times").innerHTML =
+      hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒！";
+  }
+
+  update();
+  setInterval(update, 1000);
+})();
+
+const copyrightAuthor = document
+  .querySelector(".copyright")
+  .querySelector(".author");
+
+copyrightAuthor.addEventListener("click", (event) => {
+  window.open("https://ciallo.cc/");
+});
+
+copyrightAuthor.addEventListener("mouseover", (event) => {
+  copyrightAuthor.style.textDecoration = "underline";
+  copyrightAuthor.style.cursor = "pointer";
+});
+
+copyrightAuthor.addEventListener("mouseout", (event) => {
+  copyrightAuthor.style.textDecoration = "none";
+});
+</script>
+<link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css">
+<div class="aplayer" data-id="8464409595" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true" data-order="random" data-volume="0.3" data-mutex="true" data-listMaxHeight="36vh"></div>
+<script async src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js"></script>
+<script async src="https://cdn.staticfile.net/meting/1.2.0/Meting.min.js"></script>
