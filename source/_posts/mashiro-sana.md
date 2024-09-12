@@ -16,8 +16,6 @@ tags:
   - 2011
   - 2023
   - 2024
-  - 绿茶汉化组
-  - 熊喵守护协会
 categories:
   - - Windows
   - - KRKR

@@ -5,7 +5,6 @@ tags:
   - Palette
   - 调色板
   - ぱれっと
-  - 官中
   - 恋爱
   - 异能
   - 奇幻
@@ -16,7 +15,6 @@ tags:
   - 2020
   - 2021
   - 2022
-  - 樱空汉化组
 categories:
   - - Windows
   - - KRKR

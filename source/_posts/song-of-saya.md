@@ -3,7 +3,6 @@ title: 沙耶之歌／沙耶の唄／the song of saya
 abbrlink: 23102
 tags:
   - Nitro+
-  - 官中
   - 感人
   - 猎奇
   - 黑暗

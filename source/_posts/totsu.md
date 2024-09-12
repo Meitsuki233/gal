@@ -11,9 +11,8 @@ tags:
   - 喜剧
   - 可爱
   - 治愈
-  - 2022
-  - 白井木学园汉化组
   - 废萌
+  - 2022
 categories:
   - - Windows
   - - Tyranor
