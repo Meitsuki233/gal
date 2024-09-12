@@ -7,7 +7,6 @@ tags:
   - TYPE-MOON
   - 型月
   - 月世界
-  - ADV
   - 推土机
   - 奈须蘑菇
   - 奈須きのこ
@@ -17,7 +16,7 @@ tags:
   - 妹
   - 悬疑
   - 氛围
-  - 2000年
+  - 2000
 categories:
   - - Windows
   - - ONS

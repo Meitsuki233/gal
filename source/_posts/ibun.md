@@ -4,7 +4,6 @@ abbrlink: 24138
 tags:
   - ωstar
   - オメガスター
-  - ADV
   - 恋爱
   - 拔作
   - 动态CG
@@ -14,7 +13,7 @@ tags:
   - 巨乳
   - 奇幻
   - 雪女
-  - 2024年
+  - 2024
 categories:
   - Windows
 date: 2024-05-11 03:17:30

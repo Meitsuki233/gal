@@ -2,13 +2,13 @@
 title: 星光咖啡馆与死神之蝶／星巴克与扑棱蛾子／喫茶ステラと死神の蝶／Cafe Stella and the Reapers' Butterflies
 abbrlink: 59607
 tags:
-  - Yuzu-Soft（柚子社）
-  - ADV
+  - Yuzu-Soft
+  - 柚子社
   - 纯爱
   - 恋爱
   - 官中
-  - 2019年
-  - 2022年
+  - 2019
+  - 2022
   - 校园
   - 青梅竹马
   - 制服
@@ -16,8 +16,6 @@ tags:
   - 工作
   - 废萌
   - 喜剧
-  - 弥生月汉化组
-  - 天之圣杯汉化组
 categories:
   - - Windows
   - - KRKR

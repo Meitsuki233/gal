@@ -2,8 +2,7 @@
 title: 献给神明般的你 EX扩展版／神様のような君へ Extended Edition
 abbrlink: 46827
 tags:
-  - ADV
-  - CUBE社
+  - CUBE
   - 恋爱
   - 喜剧
   - 机器人
@@ -18,9 +17,9 @@ tags:
   - 御宅族
   - 近未来
   - 年上
-  - 2020年
-  - 2021年
-  - 2022年
+  - 2020
+  - 2021
+  - 2022
 categories:
   - - Windows
   - - KRKR

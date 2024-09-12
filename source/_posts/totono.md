@@ -3,21 +3,16 @@ title: 你和她和她的恋爱。／君与彼女与彼女之恋／君と彼女�
 abbrlink: 1107
 tags:
   - Nitro+
-  - Nitro+社
   - NITRO PLUS
   - ニトロプラス
   - n+
   - 氮正
-  - ADV
-  - 次元囚笼
   - 校园
   - 官中
   - 十二神器
-  - 12神器
-  - 18禁
-  - 2013年
-  - 2020年
-  - 2021年
+  - 2013
+  - 2020
+  - 2021
 categories:
   - - Windows
   - - Android

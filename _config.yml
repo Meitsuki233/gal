@@ -133,10 +133,10 @@ tag_generator:
   enable_index_page: false
 
 search:
-  path: search.xml
+  path: search.json
   field: post
   content: true
-  format: html
+  format: striptags
 
 feed:
   enable: true

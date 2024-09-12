@@ -4,15 +4,13 @@ abbrlink: 48468
 tags:
   - バグシステム
   - BUG-SYSTEM
-  - BUG-SYSTEM社
-  - ADV
   - 重口
   - 猎奇
   - 血腥
   - 百合
   - 和泉万夜
   - 过激
-  - 2019年
+  - 2019
 categories:
   - - Windows
   - - KRKR

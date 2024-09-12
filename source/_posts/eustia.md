@@ -3,7 +3,6 @@ title: 秽翼的尤斯蒂娅／穢翼のユースティア／Eustia of the Tarni
 abbrlink: 19213
 tags:
   - AUGUST
-  - ADV
   - 架空世界
   - 生存
   - 人性
@@ -21,10 +20,10 @@ tags:
   - 奇幻
   - 催泪
   - 治愈
-  - 2011年
-  - 2014年
-  - 2016年
-  - 2022年
+  - 2011
+  - 2014
+  - 2016
+  - 2022
 categories:
   - - Windows
   - - ONS

@@ -4,7 +4,6 @@ abbrlink: 30206
 tags:
   - 脳内彼女
   - 脑内彼女
-  - ADV
   - 校园
   - 伪娘
   - 拔作
@@ -12,7 +11,7 @@ tags:
   - 女装
   - 后宫
   - 精神污染
-  - 2014年
+  - 2014
 categories:
   - - Windows
   - - ONS

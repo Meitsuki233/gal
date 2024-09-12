@@ -1,10 +1,6 @@
 ---
 title: 公告／発表／announcement
 abbrlink: announcement
-tags:
-  - 公告
-  - 発表
-  - announcement
 categories:
   - Other
 sticky: 10

@@ -2,15 +2,15 @@
 title: RIDDLE JOKER／リドルジョーカー／密命王牌
 abbrlink: 63577
 tags:
-  - Yuzu-Soft（柚子社）
-  - ADV
+  - Yuzu-Soft
+  - 柚子社
   - 恋爱
   - 校园
   - 超能力
   - 纯爱
   - 官中
-  - 2018年
-  - 2020年
+  - 2018
+  - 2020
 categories:
   - - Windows
   - - KRKR

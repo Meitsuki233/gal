@@ -7,7 +7,6 @@ tags:
   - 橘子社
   - 近月社
   - 臍橙社
-  - ADV
   - 校园
   - 恋爱
   - 女装
@@ -23,8 +22,8 @@ tags:
   - 萌作
   - 近月
   - KIDFansClub
-  - 2014年
-  - 2017年
+  - 2014
+  - 2017
 categories:
   - - Windows
   - - ONS

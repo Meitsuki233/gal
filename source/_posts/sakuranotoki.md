@@ -3,14 +3,13 @@ title: 樱之刻 －在樱花之森下漫步－／サクラノ刻 －櫻の森�
 abbrlink: 18125
 tags:
   - 枕
-  - ADV
   - 神作
   - 有生之年
   - 艺术
   - 业界黎明
   - 哲学
   - 纯爱
-  - 2023年
+  - 2023
 categories:
   - - Windows
   - - Tyranor

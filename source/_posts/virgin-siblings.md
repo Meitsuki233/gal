@@ -5,10 +5,7 @@ title: >-
 abbrlink: 13818
 tags:
   - Sister Position
-  - Sister Position社
   - Whisp
-  - Whisp社
-  - ADV
   - 纯爱
   - 可爱
   - 官中
@@ -19,10 +16,9 @@ tags:
   - 妹控
   - 实妹
   - 废萌
-  - 18禁
   - 萌
   - 实用
-  - 2022年
+  - 2022
 categories:
   - - Windows
   - - KRKR

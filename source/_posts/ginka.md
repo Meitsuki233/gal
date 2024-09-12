@@ -2,8 +2,8 @@
 title: GINKA／银花
 abbrlink: 769
 tags:
-  - FrontWing（前翼社）
-  - ADV
+  - FrontWing
+  - 前翼社
   - 短篇
   - 治愈
   - 幼驯染
@@ -19,8 +19,7 @@ tags:
   - 巫女
   - 枕
   - 枕社
-  - 全年龄
-  - 2023年
+  - 2023
 categories:
   - - Windows
   - - KRKR

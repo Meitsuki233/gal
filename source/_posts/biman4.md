@@ -4,7 +4,6 @@ abbrlink: 46920
 tags:
   - ωstar
   - オメガスター
-  - ADV
   - 恋爱
   - 拔作
   - 伪娘
@@ -18,7 +17,7 @@ tags:
   - 实用
   - 日系
   - 校园
-  - 2017年
+  - 2017
 categories:
   - - Windows
   - - ONS

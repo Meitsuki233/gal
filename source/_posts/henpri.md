@@ -2,8 +2,7 @@
 title: 变态监狱／ヘンタイ・プリズン／Hentai Prison
 abbrlink: 41666
 tags:
-  - ADV
-  - 2022年
+  - 2022
   - 越狱
   - 变态
   - 监狱
@@ -13,7 +12,6 @@ tags:
   - 人渣
   - 惩罚
   - Qruppo
-  - Qruppo社
 categories:
   - - Windows
   - - Tyranor

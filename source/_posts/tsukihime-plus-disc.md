@@ -5,14 +5,13 @@ tags:
   - TYPE-MOON
   - 型月
   - 月世界
-  - ADV
   - FD
   - 奈须蘑菇
   - 奈須きのこ
   - 武内崇
   - 奇幻
   - 短篇
-  - 2001年
+  - 2001
 categories:
   - - Windows
   - - ONS

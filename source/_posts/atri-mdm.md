@@ -2,18 +2,17 @@
 title: ATRI -My Dear Moments-／亚托莉 -我挚爱的时光-／アトリ マイ ディア モーメンツ
 abbrlink: 12715
 tags:
-  - ADV
-  - 2020年
+  - 2020
   - 机器人
   - 官中
-  - 全年龄
   - 致郁
   - 未来
   - 亚托莉
   - 感人
   - 枕
   - 枕社
-  - FrontWing（前翼社）
+  - 前翼社
+  - FrontWing
 categories:
   - - Windows
   - - KRKR

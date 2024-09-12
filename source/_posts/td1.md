@@ -3,13 +3,12 @@ title: Tiny Dungeon ~BLACK and WHITE~／微小地牢－黑白羽翼 魔族篇／
 abbrlink: 64868
 tags:
   - Rosebleu
-  - ADV
   - 后宫
   - 推土机
-  - 2010年
-  - 2011年
-  - 2012年
-  - 2014年
+  - 2010
+  - 2011
+  - 2012
+  - 2014
 categories:
   - - Windows
   - - ONS

@@ -2,13 +2,12 @@
 title: 缘之空／ヨスガノソラ／亲缘的天空／Yosuga no Sora
 abbrlink: 4883
 tags:
-  - ADV
   - 恋爱
-  - 2008年
-  - 2010年
+  - 2008
+  - 2010
   - 校园
   - 兄妹
-  - Sphere社
+  - Sphere
   - 穹妹
   - 妹妹
   - 妹控

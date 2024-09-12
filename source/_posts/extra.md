@@ -3,7 +3,6 @@ title: EXTRAVAGANZA 爱虫的少女／虫爱少女／～蟲愛でる少女～／
 abbrlink: 4256
 tags:
   - Black-Cyc
-  - ADV
   - 和泉万夜
   - 纯爱
   - 百合
@@ -14,12 +13,11 @@ tags:
   - 感动
   - 拔作
   - 凌辱
-  - 12魔器
   - 十二魔器
-  - 2006年
-  - 2008年
-  - 2009年
-  - 2016年
+  - 2006
+  - 2008
+  - 2009
+  - 2016
 categories:
   - Windows
 author: OT63

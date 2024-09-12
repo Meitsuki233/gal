@@ -4,7 +4,6 @@ abbrlink: 37443
 tags:
   - 脳内彼女
   - 脑内彼女
-  - ADV
   - 伪娘
   - 拔作
   - 男の娘
@@ -12,7 +11,7 @@ tags:
   - 巫女
   - 冒险
   - 精神污染
-  - 2013年
+  - 2013
 categories:
   - - Windows
   - - ONS

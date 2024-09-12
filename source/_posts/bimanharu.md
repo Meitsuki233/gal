@@ -6,7 +6,6 @@ abbrlink: 58632
 tags:
   - ωstar
   - オメガスター
-  - ADV
   - 恋爱
   - 拔作
   - 动态CG
@@ -14,7 +13,7 @@ tags:
   - 年上
   - 短篇
   - 实用
-  - 2014年
+  - 2014
 categories:
   - - Windows
   - - ONS

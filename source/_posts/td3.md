@@ -3,13 +3,12 @@ title: Tiny Dungeon ~BIRTH for YOURS~／微小地牢－为你而生 神族篇／
 abbrlink: 56304
 tags:
   - Rosebleu
-  - ADV
   - 后宫
   - 推土机
-  - 2010年
-  - 2011年
-  - 2012年
-  - 2014年
+  - 2010
+  - 2011
+  - 2012
+  - 2014
 categories:
   - - Windows
   - - ONS

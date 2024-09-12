@@ -6,7 +6,6 @@ tags:
   - UGUISU-KAGURA
   - 莺神乐
   - 纸魔社
-  - ADV
   - 恋爱
   - 校园
   - 妹控
@@ -16,7 +15,7 @@ tags:
   - 悬疑
   - 催泪
   - 桐葉
-  - 2014年
+  - 2014
 categories:
   - - Windows
   - - KRKR

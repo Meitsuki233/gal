@@ -4,8 +4,6 @@ abbrlink: 52145
 tags:
   - バグシステム
   - BUG-SYSTEM
-  - BUG-SYSTEM社
-  - ADV
   - 重口
   - 猎奇
   - 血腥
@@ -14,7 +12,7 @@ tags:
   - 凌辱
   - 致郁
   - 调教
-  - 2016年
+  - 2016
 categories:
   - - Windows
   - - KRKR

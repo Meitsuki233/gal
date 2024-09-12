@@ -1,11 +1,8 @@
 ---
-title: >-
-  Fate/hollow ataraxia／フェイト/ホロウアタラクシア／Fate/stay night Fan
-  disc／命运／停驻之夜／命运之夜／命运守护夜／命运长夜／虚空明镜
+title: Fate/hollow ataraxia／fha／命运／停驻之夜／命运之夜／命运守护夜／命运长夜／虚空明镜／FD
 abbrlink: 25624
 tags:
   - TYPE-MOON
-  - ADV
   - 奇幻
   - 战斗
   - 燃
@@ -29,8 +26,8 @@ tags:
   - 奈須きのこ
   - 武内崇
   - 无修正
-  - 2005年
-  - 2014年
+  - 2005
+  - 2014
 categories:
   - - Windows
   - - KRKR

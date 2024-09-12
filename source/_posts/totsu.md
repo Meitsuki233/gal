@@ -2,15 +2,16 @@
 title: 常轨脱离Creative凸／灵感满溢的甜蜜创想FD-凸／ハミダシクリエイティブ凸／富婆妹
 abbrlink: 37056
 tags:
-  - Madosoft（まどそふと社）
-  - ADV
+  - Madosoft
+  - まどそふと
+  - 窗社
   - 纯爱
   - 恋爱
   - 校园
   - 喜剧
   - 可爱
   - 治愈
-  - 2022年
+  - 2022
   - 白井木学园汉化组
   - 废萌
 categories:

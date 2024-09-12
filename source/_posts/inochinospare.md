@@ -3,8 +3,6 @@ title: 生命的备件／生命的备份／生命のスペア／I was born for y
 abbrlink: 1091
 tags:
   - AKABEiSOFT3
-  - AKABEiSOFT3社
-  - ADV
   - 恋爱
   - 爱情
   - 正剧
@@ -12,8 +10,7 @@ tags:
   - 感悟
   - 青梅竹马
   - 制服
-  - 枫江汉化组
-  - 2016年
+  - 2016
 categories:
   - - Windows
   - - KRKR

@@ -3,7 +3,6 @@ title: 樱之诗 －在樱花之森上飞舞－／サクラノ詩－櫻の森の
 abbrlink: 60360
 tags:
   - 枕
-  - ADV
   - 神作
   - 有生之年
   - 艺术
@@ -14,7 +13,7 @@ tags:
   - 百合
   - 文艺
   - 纯爱
-  - 2015年
+  - 2015
 categories:
   - - Windows
   - - Android

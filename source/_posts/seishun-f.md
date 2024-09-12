@@ -4,11 +4,10 @@ abbrlink: 42695
 tags:
   - Purple-software
   - 紫社
-  - ADV
   - 妹
   - 妹妹
   - 黑长直
-  - 2020年
+  - 2020
 categories:
   - Windows
 date: 2024-09-09 18:45:00

@@ -4,8 +4,6 @@ abbrlink: 53454
 tags:
   - バグシステム
   - BUG-SYSTEM
-  - BUG-SYSTEM社
-  - ADV
   - 和泉万夜
   - 猎奇
   - 重口
@@ -17,7 +15,7 @@ tags:
   - 科幻
   - 扶她
   - 恐怖
-  - 2024年
+  - 2024
 categories:
   - - Windows
   - - KRKR

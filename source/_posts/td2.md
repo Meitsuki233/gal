@@ -3,13 +3,12 @@ title: Tiny Dungeon ~BLESS of DRAGON~／微小地牢－金龙祝福 龙族篇／
 abbrlink: 12038
 tags:
   - Rosebleu
-  - ADV
   - 后宫
   - 推土机
-  - 2010年
-  - 2011年
-  - 2012年
-  - 2014年
+  - 2010
+  - 2011
+  - 2012
+  - 2014
 categories:
   - - Windows
   - - ONS

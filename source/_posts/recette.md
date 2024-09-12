@@ -2,14 +2,12 @@
 title: 甜糖热恋！／糖调！-sugarfull tempering-／しゅがてん！-sugarfull tempering-
 abbrlink: 24395
 tags:
-  - ADV
   - 恋爱
   - 奇幻
   - 治愈
   - 可爱
-  - 2017年
-  - 2023年
-  - Recette社
+  - 2017
+  - 2023
   - Recette
 categories:
   - - Windows

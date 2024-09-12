@@ -6,7 +6,6 @@ abbrlink: 29064
 tags:
   - ωstar
   - オメガスター
-  - ADV
   - 恋爱
   - 拔作
   - 动态CG
@@ -21,8 +20,8 @@ tags:
   - 科幻
   - 后宫
   - 短篇
-  - 2015年
-  - 2017年
+  - 2015
+  - 2017
 categories:
   - - Windows
   - - ONS

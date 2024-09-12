@@ -6,14 +6,13 @@ abbrlink: 28320
 tags:
   - 黒鳥
   - 黒鳥社
-  - ADV
   - 病娇
   - 悬疑
   - 疯狂
   - 凌辱
   - 拔作
-  - 2013年
-  - 2016年
+  - 2013
+  - 2016
 categories:
   - - Windows
   - - KRKR

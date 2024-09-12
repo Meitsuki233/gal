@@ -3,21 +3,15 @@ title: 沙耶之歌／沙耶の唄／the song of saya
 abbrlink: 23102
 tags:
   - Nitro+
-  - Nitro+社
-  - ADV
   - 官中
   - 感人
   - 猎奇
   - 黑暗
   - 恋爱
-  - 绝望爱恋
   - 十二神器
-  - 12神器
-  - 18禁
-  - VN
-  - 2003年
-  - 2014年
-  - 2019年
+  - 2003
+  - 2014
+  - 2019
 categories:
   - - Windows
   - - ONS

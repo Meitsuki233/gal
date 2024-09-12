@@ -6,7 +6,6 @@ abbrlink: 23180
 tags:
   - ωstar
   - オメガスター
-  - ADV
   - 恋爱
   - 拔作
   - 动态CG
@@ -17,7 +16,7 @@ tags:
   - 催泪
   - 中篇
   - 奇幻
-  - 2020年
+  - 2020
 categories:
   - - Windows
   - - ONS

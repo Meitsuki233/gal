@@ -6,7 +6,6 @@ abbrlink: 22443
 tags:
   - ωstar
   - オメガスター
-  - ADV
   - 恋爱
   - 拔作
   - 幼驯染
@@ -15,8 +14,8 @@ tags:
   - 实用
   - 悬疑
   - 短篇
-  - 2012年
-  - 2017年
+  - 2012
+  - 2017
 categories:
   - - Windows
   - - ONS

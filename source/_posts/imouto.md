@@ -2,8 +2,7 @@
 title: 妹之形／イモウトノカタチ／Imokata
 abbrlink: 5280
 tags:
-  - Sphere社
-  - ADV
+  - Sphere
   - 恋爱
   - 实妹
   - 妹系
@@ -11,7 +10,7 @@ tags:
   - 妹
   - 妹妹
   - 兄妹
-  - 2012年
+  - 2012
 categories:
   - Windows
 date: 2024-05-26 03:12:00

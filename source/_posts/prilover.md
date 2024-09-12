@@ -4,15 +4,14 @@ abbrlink: 41843
 tags:
   - Ricotta
   - 奶酪社
-  - ADV
   - 公主
   - 骑士
   - 纯爱
   - 恋爱
   - 校园
   - 足交
-  - 2008年
-  - 2010年
+  - 2008
+  - 2010
 categories:
   - - Windows
   - - ONS

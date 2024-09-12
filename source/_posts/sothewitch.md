@@ -2,8 +2,8 @@
 title: 魔女的夜宴／サノバウィッチ／魔宴／Sabbat of the Witch
 abbrlink: 61936
 tags:
-  - Yuzu-Soft（柚子社）
-  - ADV
+  - Yuzu-Soft
+  - 柚子社
   - 纯爱
   - 恋爱
   - 官中
@@ -12,11 +12,9 @@ tags:
   - 废萌
   - 喜剧
   - 魔法少女
-  - 暗鸽汉化组
-  - X’moe-汉化（女装学院）组
-  - 2015年
-  - 2018年
-  - 2023年
+  - 2015
+  - 2018
+  - 2023
 categories:
   - - Windows
   - - KRKR

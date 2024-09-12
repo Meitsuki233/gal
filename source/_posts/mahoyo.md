@@ -3,7 +3,6 @@ title: 魔法使之夜／魔法使いの夜／魔法师之夜／Witch on the Hol
 abbrlink: 36858
 tags:
   - TYPE-MOON
-  - ADV
   - 型月
   - 奈须蘑菇
   - 奈須きのこ
@@ -16,10 +15,9 @@ tags:
   - 氛围
   - 剧情
   - 架空世界
-  - 全年龄
-  - 2012年
-  - 2022年
-  - 2013年
+  - 2012
+  - 2022
+  - 2013
 categories:
   - - Windows
   - - KRKR

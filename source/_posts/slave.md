@@ -4,20 +4,17 @@ abbrlink: 16642
 tags:
   - Underground-Campaign
   - UGCP
-  - ADV
   - BL
   - 重口
   - 暖人心田
   - 基
-  - 12神器
   - 十二神器
-  - 地狱深渊
   - 拔作
   - 猎奇
   - 感人
   - 萝莉
   - 社保
-  - 2010年
+  - 2010
 categories:
   - - Windows
   - - KRKR

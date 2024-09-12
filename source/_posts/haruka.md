@@ -2,12 +2,11 @@
 title: 悠之空／ハルカナソラ／Yosuga no Sora
 abbrlink: 55333
 tags:
-  - ADV
   - 恋爱
-  - 2008年
+  - 2008
   - 校园
   - 兄妹
-  - Sphere社
+  - Sphere
   - 穹妹
   - 妹妹
   - 妹控
