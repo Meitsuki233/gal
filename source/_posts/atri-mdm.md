@@ -17,48 +17,28 @@ categories:
   - - KRKR
   - - Android
 date: 2024-02-04 05:00:00
-updated: 2024-09-13 03:35:30
+updated: 2024-09-13 05:03:00
 ---
 
 ![atri-mdm](https://unpkg.com/galgame/img/atri-mdm.webp)
 
-《**ATRI -My Dear Moments-**》是由 [ANIPLEX.EXE](https://zh.moegirl.org.cn/ANIPLEX.EXE) 和 [Frontwing](https://zh.moegirl.org.cn/Frontwing)、[枕社(The pillow)](https://zh.moegirl.org.cn/枕) 共同制作，并由 [ANIPLEX.EXE](https://zh.moegirl.org.cn/ANIPLEX.EXE) 发行的一部[视觉小说](https://zh.moegirl.org.cn/视觉小说)游戏。于2020年6月19日在[Steam](https://zh.moegirl.org.cn/Steam)平台和[DMM](https://zh.moegirl.org.cn/DMM)平台上同步发售，售价2000日元+税（Steam平台售价73元人民币）；并于2020年12月28日在[DLsite](https://zh.moegirl.org.cn/DLsite)平台发售，售价2200日元。
+《**ATRI -My Dear Moments-**》是由[FrontWing](https://zh.wikipedia.org/wiki/FrontWing)和[枕](https://zh.wikipedia.org/wiki/枕_(遊戲品牌))制作、[ANIPLEX.EXE](https://zh.wikipedia.org/wiki/Aniplex)发行的一款[视觉小说](https://zh.wikipedia.org/wiki/视觉小说)，本作于2020年6月19日在[Windows](https://zh.wikipedia.org/wiki/Windows)平台发售。
 
 <!-- more -->
 
-## 简介
+本作是动画巨头[Aniplex](https://zh.wikipedia.org/wiki/Aniplex)旗下新创立的视觉小说品牌ANIPLEX.EXE发行的两款[处女作](https://zh.wikipedia.org/wiki/處女作)之一（另一部同日发售的处女作为《[徒花异谭](https://zh.wikipedia.org/w/index.php?title=徒花异谭&action=edit&redlink=1)》）。制作人兼ANIPLEX.EXE的创始人岛田纮希希望以本作为契机将该类型的游戏向全世界传达。游戏推出后获得欢迎，获移植至[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)、[Android](https://zh.wikipedia.org/wiki/Android)和[iOS](https://zh.wikipedia.org/wiki/IOS)平台，更获改编为漫画和动画。
 
-这颗星球正在沉没——
-海平面因不明原因急速上升，海洋吞没了大部分沿海地区，如今也在不断蚕食着陆地。
-人类的栖息地被迫收缩，处于巅峰时期的科学技术不断流失。
-这是逐渐迈向灭亡的平静时代。
+本作被改编为漫画和动画的消息于2022年9月24日举行的Aniplex Online Fest上公布。漫画自2022年10月7日发售的《[Comptiq](https://zh.wikipedia.org/wiki/Comptiq)》2022年11月号开始连载；[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)由[TROYCA](https://zh.wikipedia.org/wiki/TROYCA)制作，于2024年7月14日播出。
 
-游戏设计画质为720P，UI系统没有针对更高画质进行适配（最高可以开到1600×900像素~~，但这样就跟开了全屏模糊滤镜一样体验很差~~）
+## 故事
 
-相对一般的视觉小说UI增添了一些新功能，例如对于触屏设备进行支持的手势操作，可以同时进行双语显示的文本界面~~（可以用来学日语）~~以及剧场模式（播放语音的时候隐藏文本界面以达到“沉浸式体验”~~可以用来练听力~~）。~~然而没了文本框根本听不懂谈何体验。~~
+本作设定于[海平面上升](https://zh.wikipedia.org/wiki/海平面上升)淹没了大量土地，威胁人类生存的世界。主人公斑鸠夏生在8岁时因一场隧道事故失去右腿，在游戏开场时与就读的科学院老师产生矛盾而休学，移居到了已故祖母所居住的海边小镇与青梅竹马神白水菜萌重逢。夏生在某天早上醒来时遇见一自称是讨债人的凯瑟琳，凯瑟琳要求夏生找到他已故祖母的遗产用以还债。夏生下潜至海中的祖母故居打捞起了[机器人少女](https://zh.wikipedia.org/wiki/女性人形機器人)亚托莉。亚托莉自称在45天后便要与夏生分别。她希望夏生在45天后卖掉自己换取一条新的义肢，在这45天内则与夏生同居，担负起作为夏生“腿”的职责，并希望夏生协助自己执行前主人给她下达的“最后的命令”。夏生在亚托莉的陪伴下，于当地一所一半已沉入海中的学校交到了许多知心朋友，并造出了微型[漩涡发电机](https://zh.wikipedia.org/wiki/水輪發電機)解决了学校的供电问题。在与亚托莉的同居生活中夏生对亚托莉产生好感，同时也知道了祖母留下了名为“伊甸”的人工岛作为人类生存问题的解决方案。但之后夏生却无意间读到了亚托莉的工作日志簿，以为亚托莉对自己的感情全是机器演算出来的，为此大受打击并要求亚托莉停止假装自己拥有感情。
 
-## 剧情
+亚托莉拥有不幸的过去。她实际上拥有自我意识和情感，是[技术奇点](https://zh.wikipedia.org/wiki/技術奇點)。她先前的主人是夏生的母亲八千草诗菜，诗菜幼年遭到同学的欺凌，无法接受主人遭受如此对待的亚托莉在某日冲入学校殴打欺凌者，导致同型号机器人被判定为含有重大缺陷全部遭到回收，唯独亚托莉逃了出来。亚托莉随后在暗处继续保护诗菜，并最终在导致诗菜死亡、夏生断腿的隧道事故中接获了诗菜弥留时下达的命令，将夏生作为自己的新主人并将其救出，自己后来在夏生祖母的安排下进入休眠。在被主人公夏生打捞时，她距离自己的设计运作寿命极限仅剩45天。
 
-在不远的未来，海平面原因不明地急速上升，导致了地表多数都沉入海中。
-小时候因为事故而失去一条腿的少年：[斑鸠夏生](https://zh.moegirl.org.cn/斑鸠夏生)，
-厌倦了都市的生活，移居到了海边的乡村小镇。
+亚托莉打人的事故导致她的创作者身败名裂含恨而终，他的学生安田为了替恩师报仇闻讯找到了亚托莉意图将她摧毁报仇，二人在学校的天台对峙。取决于玩家在游戏中的选择，玩家可能进入游戏的坏结局：夏生未能及时赶上制止亚托莉，导致安田被亚托莉杀死，之后亚托莉因自责选择自行坠楼失去所有与夏生等人的记忆，两天后停止了机能；或者游戏的好结局：夏生及时制止了亚托莉，要求她不必假装自己没有情感。事情平息后，夏生带亚托莉前往执行“最后的命令”，于亚托莉停止机能的前一天将亚托莉带到人工生态岛“伊甸”，让亚托莉休眠于主控室中成为岛上的系统管理员。在亚托莉原定的停止机能之日，夏生与朋友们共同观看了其父斑鸠宗司主持研发的火箭的发射，这也代表了人类对[太空探索](https://zh.wikipedia.org/wiki/太空探索)的重启。
 
-曾经身为海洋地质学家的祖母留给他的，
-就只有船、潜水艇还有债务。
-
-夏生为了取回“失去的未来”，与迷之讨债人[凯瑟琳](https://zh.moegirl.org.cn/凯瑟琳(ATRI))一起，
-潜海前往据说保存着祖母遗产的海底仓库。
-
-在那里，
-他遇到了一位沉睡在如同棺材一般装置中不可思议的少女――[亚托莉](https://zh.moegirl.org.cn/亚托莉)。
-她是一位构造精密到与人类别无二致，而有着又丰富感情的机器人。
-
-「我想完成主人留给我的最后的命令。
-　在此之前，我会成为夏生先生的腿！」
-从海底被打捞起来的亚托莉如是说到。
-
-在一个逐渐沉入海中的平和小镇，
-少年和机器人少女的难忘夏日就这么开始了——
+当玩家完成了上述两个结局后，游戏解锁真结局。设定于60年后，名为诺亚的超巨大浮体都市早已于太空探索重启大约30年后建成，部分人类移居于这类浮体都市。亚托莉在沉眠前将夏生托付给他青梅竹马水菜萌，夏生与水菜萌之后结为夫妻，但二人仍一直牵挂沉睡的亚托莉。夏生重新拾起过去的机器人技术，让世界迎来技术奇点，机器人不再作为劳力而是被当作朋友被人类接受。夏生当年的朋友也各有建树。在夏生弥留之时，“伊甸”完成了使命，被定于第二日沉没。夏生通过自己一部分已被电脑化的大脑将意识连接到通往“伊甸”的网络上，随即唤醒已沉睡60年的亚托莉。最后夏生与亚托莉在电脑模拟出的海边悬崖上度过了各自最后的一日时光。
 
 ## 画面
 
@@ -79,6 +59,7 @@ updated: 2024-09-13 03:35:30
 - [DMM商店界面](https://dlsoft.dmm.com/detail/aniplex_0001/)
 - [DLsite商店界面](https://www.dlsite.com/soft/work/=/product_id/VJ014002.html/)
 - [动画官网](https://atri-anime.com/)
+- [动画推特](https://twitter.com/ATRI_anime)
 
 ## 注意事项
 
@@ -86,8 +67,8 @@ updated: 2024-09-13 03:35:30
 
 ## 下载地址
 
-1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GXwUX)，密码：`Vosd`
-2. [TouchGAL](https://www.touchgal.com/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/GXwUX)，密码：`YaRUa`
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Vosd)，密码：`touchgal`
+2. [TouchGAL](https://touchgal.net/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/YaRUa)，密码：`touchgal`
 3. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/ATRI%20-My%20Dear%20Moments-%20v1.3.7z)
 4. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/ATRI%20-My%20Dear%20Moments-.7z)
 5. [绮梦](https://acgs.one/) & `Windows` + `Tyranor` + `KRKR` + `Android`：[点击下载](https://acgs.one/game/26.html)，密码：`acgs`、`绮梦`
