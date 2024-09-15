@@ -17,7 +17,7 @@ tags:
   - 未来
   - 机娘
   - 致郁
-  - 泣系
+  - 泣
   - 2016
 categories:
   - Windows

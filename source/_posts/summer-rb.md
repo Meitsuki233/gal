@@ -17,7 +17,7 @@ tags:
   - 2022
   - 白毛
   - 青春
-  - 泣系
+  - 泣
 categories:
   - - Windows
   - - Android
