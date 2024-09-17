@@ -36,7 +36,7 @@ categories:
   - - PSP
 author: OT63
 date: 2024-09-16 03:50:00
-updated: 2024-09-16 03:50:00
+updated: 2024-09-16 23:33:30
 ---
 
 ![higurashi](https://unpkg.com/galgame/img/higurashi.webp)
@@ -128,7 +128,7 @@ updated: 2024-09-16 03:50:00
 2. [TouchGAL](https://touchgal.net/) & `Windows` 【解题】：[点击下载](https://pan.touchgal.net/s/kgjQcg)，密码：`touchgal`
 3. [TouchGAL](https://touchgal.net/) & `Windows` 【礼】：[点击下载](https://pan.touchgal.net/s/nGboiY)，密码：`touchgal`
 4. [TouchGAL](https://touchgal.net/) & `Windows` 【虚崩编】：[点击下载](https://pan.touchgal.net/s/BJBNsw)，密码：`touchgal`
-5. [绮梦](https://acgs.one/) & `Windows` + `ONS` 【出题 解题（原版与萌化）+ 礼】：[点击下载](https://acgs.one/game/21.html)，密码：`绮梦`
+5. [绮梦](https://acgs.one/) & `Windows` + `ONS` 【出题 解题（原版与萌化）+ 礼】：[点击下载](https://acgs.one/game/230.html)，密码：`绮梦`
 6. [量子ACG](https://lzacg.org/) & `Windows` 【鬼隐篇 礼 绵流篇 祟杀篇 暇溃篇 罪灭篇 目明篇 皆杀篇】：[点击下载](https://lzacg.org/7104)，密码：`量子acg`、`lzacg.top`
 7. [NekoGAL](https://www.shinnku.com/) & `Windows` 【出题】：[点击下载](https://pan.nekogal.top/s/72ncw)
 8. [NekoGAL](https://www.shinnku.com/) & `Windows` 【解题】：[点击下载](https://pan.nekogal.top/s/XRnUJ)

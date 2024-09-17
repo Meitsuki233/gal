@@ -135,7 +135,7 @@ tag_generator:
 search:
   path: search.json
   field: post
-  content: true
+  content: false
   format: striptags
 
 feed:
@@ -635,3 +635,6 @@ valine:
       "柏田-file_6574899": "baitian/file_6574899.webp",
     }
   enableQQ: true
+
+fireworks:
+  enable: true
