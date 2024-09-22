@@ -12,8 +12,9 @@ tags:
 categories:
   - - Windows
   - - KRKR
+  - - Android
 date: 2024-02-02 02:30:00
-updated: 2024-02-02 02:30:00
+updated: 2024-09-23 01:50:00
 author: WTY
 ---
 
@@ -86,14 +87,25 @@ author: WTY
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
-[稻荷ACG](https://sakustar.moe/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=944&index=0&i=0)
-
-[稻荷ACG](https://sakustar.moe/) & KRKR下载分流2：[点击下载](https://sakustar.moe/download?post_id=11086&index=0&i=0)
-
-[青桔网](https://post.qingjuacg.top/) & Windows下载分流3：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/EdoltCGyLKlIq6TMLrGIjigBWit13DyRZHitPb8Wp2_gIA?e=IBUiP7)，密码：qingju
-
-[青桔网](https://post.qingjuacg.top/) & KRKR下载分流4：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/ERmL9CcvO7NCqFOzpkfHvKABckocCIDdu4vZBhs8augYoQ?e=rLOD8a)，密码：qingju
-
-[烟郁Galgame](https://yanyugal.top/) & KRKR下载分流5：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E7%B3%96%E8%B0%83.7z)，密码：烟郁频道
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Zl9Sa)，密码：`touchgal`
+2. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/5wjIE)，密码：`touchgal`
+3. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/NP5TO)，密码：`touchgal`
+4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/36ruJ)，密码：`hikarinagi.com`
+5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/6827tA)，密码：`hikarinagi.com`
+6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[170224][Recette]%20%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-%20[%E7%B3%96%E8%B0%83!].rar)
+7. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E7%B3%96%E8%B0%83.7z)
+8. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1500-2000/1555-%E7%B3%96%E8%B0%83.apk)
+9. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E7%B3%96%E8%B0%83/KR_%E5%B8%8C%E6%9C%88%E5%AD%A6%E9%99%A2_%E7%B3%96%E8%B0%83_od.rar)，密码：`三司绫濑天下第一`
+10. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://acgs.one/game/415.html)，密码：`绮梦`
+11. [姬路白雪](https://jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E7%B3%96%E8%B0%83)，密码：`终点`、`书想工作室`
+12. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E7%B3%96%E8%B0%83.7z)，密码：`lumouweinb`、`烟郁频道`
+13. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/20/%5BRecette%5D%20%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-%20%20%E7%94%9C%E7%B3%96%E7%83%AD%E6%81%8B%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D%5B3.13G%5D%5BBDOD%5D.zip?sign=Mpd1MfHGcFXmBsvn1m5okr5BhYDsR812sSLnY0QKl5Y=:0)
+14. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part6/Clear%20Rave/%E5%85%B6%E4%BB%96%E6%B1%89%E5%8C%96%E7%89%88/%5B170224%5D%5BRecette%5D%20%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-%20%5B%E7%B3%96%E8%B0%83!%5D.rar?sign=LSZIFn9EFevCDem70b81nuWbS0h2g-b4Sgd5gR3EIFA=:0)
+15. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/20/%5BRecette%5D%20%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-%20%20%E7%B3%96%E8%B0%83%EF%BC%81V1.10%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%B8%8C%E6%9C%88%E5%AD%A6%E5%9B%AD%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=YgEhkf0fAGUawQhCxRlHuWsL5uybvKYQQyYt3NPf3Ic=:0)
+16. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/025/%E7%B3%96%E8%B0%83.apk?sign=O3o6KNTcSjlSVpKy67rV1WBqPiySUJ2xQJw2Uj5NMek=:0)
+17. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/529)，密码：`量子acg`、`lzacg.top`
+18. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/3439)，密码：`量子acg`、`lzacg.top`
+19. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/944)
+20. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/11086)

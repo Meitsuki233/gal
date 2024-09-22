@@ -116,23 +116,21 @@ author: searvee
 
 ### 通常版
 
-1. [青桔网](https://qingju.org/) & `Windows`：[点击下载](https://2010522975-my.sharepoint.com/:f:/g/personal/qingju_2010522975_onmicrosoft_com/EpF9lVS7xONNlhyfJNhFpuUBGSAhTpb8qpcJP3sLZXU5tw?e=PHFdde)，密码：`8z7w`、`qingju`
-2. [青桔网](https://qingju.org/) & `KRKR`：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/EdOIysKFMlVBrxJm38-iOJgByXoMHKN5m37wsLn8zl8b3A?e=6AmkoP)，密码：`qingju`
-3. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/517)
-4. [稻荷ACG](https://sakustar.moe/) & `KRKR`：[点击下载](https://sakustar.top/art/4109)
-5. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C)，密码：`终点`、`书想工作室`
-6. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C)，密码：`lumouweinb`、`烟郁频道`
-7. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C.7z)，密码：`lumouweinb`、`烟郁频道`
-8. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/Z5OF7)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-9. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7j0fX)
-10. [TouchGAL](https://www.touchgal.com/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/gZdIL)
-11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `KRKR` + `Android`：[点击下载](https://zi0.cc/,%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC+%E5%AE%89%E5%8D%93%E3%80%91%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C?from=search)
-12. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90KRKR%E5%90%88%E9%9B%86%E3%80%91/2/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C.exe?from=search)
-13. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://acgs.one/down_html/?url=game/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C&name=%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C)，密码：`绮梦`
-14. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C.7z)
-15. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C.7z)
-16. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4639)，密码：`量子acg`、`lzacg.top`
-17. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/mofashizhiye.html)，密码：`忧郁的弟弟`、`忧郁的loli`
+1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/517)
+2. [稻荷ACG](https://sakustar.moe/) & `KRKR`：[点击下载](https://sakustar.top/art/4109)
+3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C)，密码：`终点`、`书想工作室`
+4. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C)，密码：`lumouweinb`、`烟郁频道`
+5. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C.7z)，密码：`lumouweinb`、`烟郁频道`
+6. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/Z5OF7)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
+7. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7j0fX)
+8. [TouchGAL](https://www.touchgal.com/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/gZdIL)
+9. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `KRKR` + `Android`：[点击下载](https://zi0.cc/,%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC+%E5%AE%89%E5%8D%93%E3%80%91%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C?from=search)
+10. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90KRKR%E5%90%88%E9%9B%86%E3%80%91/2/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C.exe?from=search)
+11. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://acgs.one/down_html/?url=game/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C&name=%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C)，密码：`绮梦`
+12. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C.7z)
+13. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E9%AD%94%E6%B3%95%E4%BD%BF%E4%B9%8B%E5%A4%9C.7z)
+14. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4639)，密码：`量子acg`、`lzacg.top`
+15. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/mofashizhiye.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 重制版
 

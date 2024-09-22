@@ -79,17 +79,13 @@ updated: 2024-03-02 01:36:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
 DMM入正地址：[dlsoft.dmm.co.jp/detail/akbs_0067](https://dlsoft.dmm.co.jp/detail/akbs_0067/)
 
 [稻荷ACG](https://sakustar.moe/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=429&index=0&i=0)
 
 [稻荷ACG](https://sakustar.moe/) & KRKR下载分流2：[点击下载](https://sakustar.moe/download?post_id=626&index=0&i=0)
-
-[青桔网](https://post.qingjuacg.top/) & Windows下载分流3：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/EWNVQW8a8-1Bv4hssaPA7ikBrODitu57XXr014kkvyg4cA?e=HeyEjH)，密码：qingju
-
-[青桔网](https://post.qingjuacg.top/) & KRKR下载分流4：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/ES4TRSmyOo5PgNXTaiqzXnMBs2K7ViaO2u7HZUYrwdjgew?e=MKfy8s)，密码：qingju
 
 [梓澪の妙妙屋](https://zi0.cc/) & KRKR下载分流5：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%94%9F%E5%91%BD%E7%9A%84%E5%A4%87%E4%BB%B6/%E3%80%90KRKR%E3%80%91%E7%94%9F%E5%91%BD%E7%9A%84%E5%A4%87%E4%BB%B6.zip?sign=zlwb2zQmvvy4THrOTqyngZ4PEZmauk7XOpPQ1Ipa3Q4=:0)
 

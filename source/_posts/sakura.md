@@ -118,12 +118,11 @@ updated: 2024-04-20 12:29:00
 
 ## 下载分流
 
-1. [青桔网](https://qingju.org/) & `Windows`：[点击下载](https://2010522975-my.sharepoint.com/:f:/g/personal/qingju_2010522975_onmicrosoft_com/Ehf1eHnivIlEkmMqCUuOJBABRWWnUfjcBt5SQaQ_z1DzgQ?e=aya1NP)，密码：`qingju`
-2. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://alpha.galpan.xyz/Windows/FAVORITE/%E6%A8%B1%E8%8A%B1,%E8%90%8C%E6%94%BE.zip)
-3. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/XVOtx)
-4. [迷迭香写代码](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/KEaTk)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-5. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E6%A8%B1%E8%8A%B1%EF%BC%8C%E8%90%8C%E6%94%BE)，密码：`终点`
-6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/%E3%80%90PC%E3%80%91/%E3%80%90PC%E3%80%91%E6%A8%B1%E8%8A%B1%EF%BC%8C%E8%90%8C%E6%94%BE?from=search)
-7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-2%E3%80%91/%E3%80%90PC%E3%80%91%E6%A8%B1%E8%8A%B1%EF%BC%8C%E8%90%8C%E6%94%BE?from=search)
-8. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E6%A8%B1%E8%8A%B1%E8%90%8C%E6%94%BE&name=%E6%A8%B1%E8%8A%B1%E8%90%8C%E6%94%BE)，密码：`acgs`
-9. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://od.lzacg.one/kr/037/)，密码：`量子acg`、`lzacg.top`
+1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://alpha.galpan.xyz/Windows/FAVORITE/%E6%A8%B1%E8%8A%B1,%E8%90%8C%E6%94%BE.zip)
+2. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/XVOtx)
+3. [迷迭香写代码](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/KEaTk)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
+4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E6%A8%B1%E8%8A%B1%EF%BC%8C%E8%90%8C%E6%94%BE)，密码：`终点`
+5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/%E3%80%90PC%E3%80%91/%E3%80%90PC%E3%80%91%E6%A8%B1%E8%8A%B1%EF%BC%8C%E8%90%8C%E6%94%BE?from=search)
+6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-2%E3%80%91/%E3%80%90PC%E3%80%91%E6%A8%B1%E8%8A%B1%EF%BC%8C%E8%90%8C%E6%94%BE?from=search)
+7. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E6%A8%B1%E8%8A%B1%E8%90%8C%E6%94%BE&name=%E6%A8%B1%E8%8A%B1%E8%90%8C%E6%94%BE)，密码：`acgs`
+8. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://od.lzacg.one/kr/037/)，密码：`量子acg`、`lzacg.top`

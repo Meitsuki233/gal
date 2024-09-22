@@ -66,16 +66,14 @@ updated: 2024-03-29 23:30:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
-1. [青桔网](https://post.qingjuacg.top/) & `Windows` 下载分流：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/EULJtJNKrptAo3S2ZgS5ZAUBes9dmlt356Ds37v3Kff5fw?e=s5Je0L)，密码：qingju
-2. [青桔网](https://post.qingjuacg.top/) & `ONS` 下载分流：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/EW62OETbAFlHopC0KHPRdXkB7TubxczybxW9x8CT6B5tbA?e=UEuK9Y)，密码：qingju
-3. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/PVVhR)
-4. [TouchGAL](https://www.touchgal.com/) & `ONS` 下载分流：[点击下载](https://pan.touchgal.net/s/90OIb)
-5. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流：[点击下载](https://sakustar.top/download?post_id=458&index=0&i=0)
-6. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS` 下载分流：[点击下载](https://pan.jlbx.xyz/?s=%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C)，密码：终点
-7. [迷迭香写代码](https://rosmontis.com/) & `Windows` 下载分流：[点击下载](https://drive.rosmontis.com/s/30Kc5)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压
-8. [梓澪の妙妙屋](https://zi0.cc/) & `ONS` 下载分流：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90ONS%E5%90%88%E9%9B%86%E3%80%91/%5BNitroPlus%5D%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C.7z?sign=zJziI_FkcZP36t3U4-VC7yOMhkVj-ABaLtzme0C2_3o=:0)
-9. [绮梦](https://acgs.eu.org/) & `Windows` 下载分流：[点击下载](https://acgs.eu.org/down_html/?url=game/%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C&name=%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C)，密码：acgs、绮梦
-10. [绮梦](https://acgs.eu.org/) & `ONS` 下载分流：[点击下载](https://acgs.eu.org/down_html/?url=game/%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8CONS&name=%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C)，密码：acgs、绮梦
-11. [绮梦](https://acgs.eu.org/) & `Android` 下载分流：[点击下载](https://acgs.eu.org/down_html/?url=game/%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C%E5%AE%89%E5%8D%93&name=%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C)，密码：acgs、绮梦
+1. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/PVVhR)
+2. [TouchGAL](https://www.touchgal.com/) & `ONS` 下载分流：[点击下载](https://pan.touchgal.net/s/90OIb)
+3. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流：[点击下载](https://sakustar.top/download?post_id=458&index=0&i=0)
+4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS` 下载分流：[点击下载](https://pan.jlbx.xyz/?s=%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C)，密码：终点
+5. [迷迭香写代码](https://rosmontis.com/) & `Windows` 下载分流：[点击下载](https://drive.rosmontis.com/s/30Kc5)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压
+6. [梓澪の妙妙屋](https://zi0.cc/) & `ONS` 下载分流：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90ONS%E5%90%88%E9%9B%86%E3%80%91/%5BNitroPlus%5D%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C.7z?sign=zJziI_FkcZP36t3U4-VC7yOMhkVj-ABaLtzme0C2_3o=:0)
+7. [绮梦](https://acgs.eu.org/) & `Windows` 下载分流：[点击下载](https://acgs.eu.org/down_html/?url=game/%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C&name=%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C)，密码：acgs、绮梦
+8. [绮梦](https://acgs.eu.org/) & `ONS` 下载分流：[点击下载](https://acgs.eu.org/down_html/?url=game/%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8CONS&name=%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C)，密码：acgs、绮梦
+9. [绮梦](https://acgs.eu.org/) & `Android` 下载分流：[点击下载](https://acgs.eu.org/down_html/?url=game/%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C%E5%AE%89%E5%8D%93&name=%E6%B2%99%E8%80%B6%E4%B9%8B%E6%AD%8C)，密码：acgs、绮梦

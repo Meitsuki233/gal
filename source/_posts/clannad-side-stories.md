@@ -49,7 +49,7 @@ updated: 2024-04-01 12:26:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流：[点击下载](https://sakustar.moe/download?post_id=11019&index=0&i=0)
 2. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 下载分流：[点击下载](https://zi0.cc/d/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/.%E5%85%B6%E4%BB%96/%E3%80%90PC%E3%80%91CLANNAD%20Side%20Stories.7z?sign=j9bt3tzxuSyxN5zpajleBVRVFqc1GQ1pWlWCsRaliLI=:0)，密码：半夏

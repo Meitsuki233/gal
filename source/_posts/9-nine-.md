@@ -1,14 +1,27 @@
 ---
-title: 9-nine-新章／9-nine-终章／9-nine-New Episode
+title: 9-nine-／九次九日九重色 天色天歌天籁音 春色春恋春熙风 雪色雪花雪余痕 新章 ここのつここのかここのいろ そらいろそらうたそらのおと はるいろはるこいはるのかぜ ゆきいろゆきはなゆきのあと New Episode 系列合集 Series
 abbrlink: 2873
 tags:
   - Palette
   - 调色板
   - ぱれっと
-  - 恋爱
-  - 异能
+  - 甜作
+  - 动态CG
+  - 废萌
+  - 纯爱
+  - 校园
+  - 剧情
   - 奇幻
-  - 圣遗物
+  - 妹
+  - 妹妹
+  - 实妹
+  - 妹控
+  - 战斗
+  - 学姐
+  - 燃
+  - 轮回
+  - FD
+  - 短篇
   - 2017
   - 2018
   - 2019
@@ -19,43 +32,30 @@ categories:
   - - Windows
   - - KRKR
 date: 2024-02-22 03:55:00
-updated: 2024-02-22 03:55:00
+updated: 2024-09-23 04:07:30
 ---
 
 ![9-nine-](https://unpkg.com/galgame/img/9-nine-.webp)
 
-**9-nine-**系列是由[Palette](https://zh.moegirl.org.cn/Palette(游戏公司))制作的[Galgame](https://zh.moegirl.org.cn/Galgame)，主要分为四部：
-第一部**9-nine-九次九日九重色**（日语：**9-nine-ここのつここのかここのいろ**，缩写「9ここいろ」），以[九条都](https://zh.moegirl.org.cn/九条都)为主轴的路线。
-第二部**9-nine-天色天歌天籁音**（日语：**9-nine-そらいろそらうたそらのおと**，缩写「9そらいろ」），以[新海天](https://zh.moegirl.org.cn/新海天)为主轴的路线。
-第三部**9-nine-春色春恋春熙风**（日语：**9-nine-はるいろはるこいはるのかぜ**，缩写「9はるいろ」），以[香坂春风](https://zh.moegirl.org.cn/香坂春风)为主轴的路线。
-第四部**9-nine-雪色雪花雪之痕**（日语：**9-nine-ゆきいろゆきはなゆきのあと**，缩写「9ゆきいろ」），以[结城希亚](https://zh.moegirl.org.cn/结城希亚)为主轴的路线。
-新章节**9-nine-新章**（**9-nine-New Episode**），为接续第四部结尾，观测并改变一切，最后的故事。
-全年龄版新作《**9-nine-**》为9-nine-四部和新章的合辑版，画质提升至1920×1080，并另外释出新章的独立下载版，2021年4月23日发售，于2022年6月23日发售PS4和NS版。
+《**9-nine-**》是[PALETTE](https://zh.wikipedia.org/wiki/PALETTE)发售的[恋爱冒险](https://zh.wikipedia.org/wiki/戀愛冒險)类型[成人游戏](https://zh.wikipedia.org/wiki/日本成人遊戲)。本作分为多个章节，自2017年开始发售：
+
+- 2017年4月28日—《九次九日九重色》（ここのつここのかここのいろ）
+- 2018年4月27日—《天色天歌天籁音》（そらいろそらうたそらのおと）
+- 2019年4月26日—《春色春恋春熙风》（はるいろはるこいはるのかぜ）
+- 2020年4月24日—《雪色雪花雪之痕》（ゆきいろゆきはなゆきのあと）
+- 2021年4月23日—《新章》（New Episode）
+
+本作品讲述主人公新海翔在一次地震后获得超能力后，结识其他超能力使用者并解决超能力事件和挫败邪恶阴谋的故事。
+
+自〈新章〉开始，本作转型为全年龄游戏。Palette为此制作了《9-nine-》全年龄合辑版，与〈新章〉同日发售。之后，Palette开始为本作进行移植和跨媒体改编：2021年10月17日宣布作品改编成[漫画](https://zh.wikipedia.org/wiki/日本漫画)，并移植到[PS4](https://zh.wikipedia.org/wiki/PS4)和[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)平台，2024年5月29日宣布作品将获改编为[电视动画](https://zh.wikipedia.org/wiki/日本電視動畫)。
 
 <!-- more -->
 
-## 作品概要
+## 剧情
 
-本作是[Palette](https://zh.moegirl.org.cn/Palette(游戏公司))的第十四作，世界观设定在架空的学园都市**白巳津川市**，故事围绕[学校](https://zh.moegirl.org.cn/学校)与异能进行。
-主要分为四部，每部各代表每位女主角的路线，随着每部剧情的进行将渐渐发掘事件的真相。
+学园都市白巳津川市，过着普通的学园生活的新海翔，但因大地震震坏了祭祀在白蛇九十九神社的神器的关系，使得翔所在的世界与异世界产生联系，且以那个世界流入的“Artifact”为契机而觉醒异能的少年少女，让翔卷入了“Artifact”和“User”们所引发的不幸的命运中。
 
-## 剧情简介
-
-**白巳津川市。**
-唯一的特色恐怕也就只有学园都市这点了。
-打算招揽观光客进行都市复兴，眼下却毫无进展。
-但是却在意想不到的情况下聚集了所有人的视线。
-
-态度粗鲁，却有着强烈的责任感和行动力的可靠青年**[新海翔](https://zh.moegirl.org.cn/新海翔)**。
-虽然嘴巴上会抱怨，但却有着温柔的性格会把周围的事情放在首位。
-
-过着普通的学园生活，却没想到因为弄破了祭祀在白蛇九十九神社的神器，而让他的日常产生了变化。
-并且，在其阴影下还有着觉醒了异能的少年少女。
-
-明明只是住在一个毫无特色的街道中，没有任何特点的平凡的学生。
-却卷入了由异能者们所引发的不幸的命运中。
-
-## 游戏画面
+## 画面
 
 ![9-nine-_p1](https://unpkg.com/galgame/img/9-nine-_p1.webp)
 
@@ -65,66 +65,94 @@ updated: 2024-02-22 03:55:00
 
 ![9-nine-_p4](https://unpkg.com/galgame/img/9-nine-_p4.webp)
 
-## 游戏设定
+![9-nine-_p5](https://unpkg.com/galgame/img/9-nine-_p5.webp)
 
-### 工艺品／Artifact
+![9-nine-_p6](https://unpkg.com/galgame/img/9-nine-_p6.webp)
 
-又叫圣遗物，一类来自苏菲缇雅所在的[异世界](https://zh.moegirl.org.cn/异世界)的人工造物，因连通两个世界的神器（世界之眼）被打破大量散落在各地，外观多为银色的小饰品。
+![9-nine-_p7](https://unpkg.com/galgame/img/9-nine-_p7.webp)
 
-工艺品会选择自己的持有（使用）者，并转移到使用者身边。工艺品不能被夺取，也不能舍弃，除非使用者死亡或喝下假死的灵药安薄绒（Ambrosia），这之后要吞下工艺品（强行占有）或将液态的工艺品装入特制的容器（保存）防止其选择新的使用者。
+![9-nine-_p8](https://unpkg.com/galgame/img/9-nine-_p8.webp)
 
-工艺品的使用者会获得工艺品所决定的能力（魔术），一个工艺品提供的能力的性质是固定的，但能力的效果强弱与使用者有关。
+![9-nine-_p9](https://unpkg.com/galgame/img/9-nine-_p9.webp)
 
-### 使用者／User
+![9-nine-_p10](https://unpkg.com/galgame/img/9-nine-_p10.webp)
 
-工艺品的持有者。使用能力时身上会出现烙印（Stigma），烙印会随着能力的使用而扩大，扩大到一定程度会导致暴走，最终使用者会死亡。
+![9-nine-_p11](https://unpkg.com/galgame/img/9-nine-_p11.webp)
 
-除暴走外，使用者可能会**觉醒**，表现为能力大幅强化、烙印变为心灵的颜色，觉醒后能力不再会暴走。
+![9-nine-_p12](https://unpkg.com/galgame/img/9-nine-_p12.webp)
 
-摄入使用者的体液~~如♯♯~~会成为该使用者的眷属（眷属化），可以使用其持有的能力，但强度会大大减弱。
+![9-nine-_p13](https://unpkg.com/galgame/img/9-nine-_p13.webp)
 
-## 创作相关
+![9-nine-_p14](https://unpkg.com/galgame/img/9-nine-_p14.webp)
 
-### STAFF
+![9-nine-_p15](https://unpkg.com/galgame/img/9-nine-_p15.webp)
 
-- 编剧：かずきふみ
-- 原画、人设：[和泉つばす](https://zh.moegirl.org.cn/和泉つばす)
-- SD原画：[ぺろ](https://zh.moegirl.org.cn/ぺろ)
-- 影片设计：PRHYTHM VISION
+![9-nine-_p16](https://unpkg.com/galgame/img/9-nine-_p16.webp)
 
-### CAST
+![9-nine-_p17](https://unpkg.com/galgame/img/9-nine-_p17.webp)
 
-顺序为R-18版 / 全年龄版。
+![9-nine-_p18](https://unpkg.com/galgame/img/9-nine-_p18.webp)
 
-- [新海翔](https://zh.moegirl.org.cn/新海翔)：[寺竹顺](https://zh.moegirl.org.cn/寺竹顺) / [阿部敦](https://zh.moegirl.org.cn/阿部敦)
-- [九条都](https://zh.moegirl.org.cn/九条都)：[泽田夏](https://zh.moegirl.org.cn/泽田夏) / [福圆美里](https://zh.moegirl.org.cn/福圆美里)
-- [新海天](https://zh.moegirl.org.cn/新海天)：[泽泽砂羽](https://zh.moegirl.org.cn/泽泽砂羽) / [种崎敦美](https://zh.moegirl.org.cn/种崎敦美)
-- [香坂春风](https://zh.moegirl.org.cn/香坂春风)：[渚しろな](https://zh.moegirl.org.cn/渚しろな) / [山冈百合](https://zh.moegirl.org.cn/山冈百合)
-- [结城希亚](https://zh.moegirl.org.cn/结城希亚)：[夏和小](https://zh.moegirl.org.cn/夏和小) / [藤田茜](https://zh.moegirl.org.cn/藤田茜)
-- [苏菲缇雅](https://zh.moegirl.org.cn/苏菲缇雅)、[伊莉丝](https://zh.moegirl.org.cn/伊莉丝(9-nine-))：[荒井さん。](https://zh.moegirl.org.cn/index.php?title=荒井さん。&action=edit&redlink=1) / [新井里美](https://zh.moegirl.org.cn/新井里美)
-- [成濑沙月](https://zh.moegirl.org.cn/index.php?title=成濑沙月&action=edit&redlink=1)：[ひな叶月](https://zh.moegirl.org.cn/index.php?title=ひな叶月&action=edit&redlink=1) / [武田华](https://zh.moegirl.org.cn/武田华)
-- [深泽与一](https://zh.moegirl.org.cn/深泽与一)：[红茶叶](https://zh.moegirl.org.cn/index.php?title=红茶叶&action=edit&redlink=1) / [山本和臣](https://zh.moegirl.org.cn/山本和臣)
-- [幽灵](https://zh.moegirl.org.cn/幽灵(9-nine-))、蕾娜：[小鸟居夕花](https://zh.moegirl.org.cn/小鸟居夕花) / [高森奈津美](https://zh.moegirl.org.cn/高森奈津美)
-- [高峰莲夜](https://zh.moegirl.org.cn/index.php?title=高峰莲夜&action=edit&redlink=1)：[ほうでん亭センマイ](https://zh.moegirl.org.cn/index.php?title=ほうでん亭センマイ&action=edit&redlink=1) / [杉田智和](https://zh.moegirl.org.cn/杉田智和)
+![9-nine-_p19](https://unpkg.com/galgame/img/9-nine-_p19.webp)
 
-## 衍生作品
+![9-nine-_p20](https://unpkg.com/galgame/img/9-nine-_p20.webp)
 
-### 漫画版
+![9-nine-_p21](https://unpkg.com/galgame/img/9-nine-_p21.webp)
 
-漫画**9-nine-**由河内和泉作画，在《[月刊Action](https://zh.moegirl.org.cn/index.php?title=月刊Action&action=edit&redlink=1)》2021年12月号起开始连载。
+![9-nine-_p22](https://unpkg.com/galgame/img/9-nine-_p22.webp)
 
-## 相关
+![9-nine-_p23](https://unpkg.com/galgame/img/9-nine-_p23.webp)
 
-根据游戏内的日期及星期相对应，加之在电脑上点外卖等细枝末节，可以大致推算故事可能发生在2016年。 同样据此时间，可以推断在第四部中春风、希亚、高峰三人谜语般谈论的动漫是JOJO的奇妙冒险（毕竟能有第八部的作品确实不多，该系列第4部不灭钻石动画又确实在2016年播出）。
+![9-nine-_p24](https://unpkg.com/galgame/img/9-nine-_p24.webp)
+
+![9-nine-_p25](https://unpkg.com/galgame/img/9-nine-_p25.webp)
+
+![9-nine-_p26](https://unpkg.com/galgame/img/9-nine-_p26.webp)
+
+![9-nine-_p27](https://unpkg.com/galgame/img/9-nine-_p27.webp)
+
+![9-nine-_p28](https://unpkg.com/galgame/img/9-nine-_p28.webp)
+
+![9-nine-_p29](https://unpkg.com/galgame/img/9-nine-_p29.webp)
+
+![9-nine-_p30](https://unpkg.com/galgame/img/9-nine-_p30.webp)
+
+![9-nine-_p31](https://unpkg.com/galgame/img/9-nine-_p31.webp)
+
+![9-nine-_p32](https://unpkg.com/galgame/img/9-nine-_p32.webp)
+
+![9-nine-_p33](https://unpkg.com/galgame/img/9-nine-_p33.webp)
+
+![9-nine-_p34](https://unpkg.com/galgame/img/9-nine-_p34.webp)
+
+![9-nine-_p35](https://unpkg.com/galgame/img/9-nine-_p35.webp)
+
+![9-nine-_p36](https://unpkg.com/galgame/img/9-nine-_p36.webp)
+
+![9-nine-_p37](https://unpkg.com/galgame/img/9-nine-_p37.webp)
+
+![9-nine-_p38](https://unpkg.com/galgame/img/9-nine-_p38.webp)
+
+![9-nine-_p39](https://unpkg.com/galgame/img/9-nine-_p39.webp)
+
+![9-nine-_p40](https://unpkg.com/galgame/img/9-nine-_p40.webp)
+
+![9-nine-_p41](https://unpkg.com/galgame/img/9-nine-_p41.webp)
+
+![9-nine-_p42](https://unpkg.com/galgame/img/9-nine-_p42.webp)
+
+![9-nine-_p43](https://unpkg.com/galgame/img/9-nine-_p43.webp)
 
 ## 外部链接
 
-- [9-nine-ここのつここのかここのいろ官方网站](http://palette.clearrave.co.jp/product/kokoiro/)**（日文）**
-- [9-nine-そらいろそらうたそらのおと官方网站](http://palette.clearrave.co.jp/product/sorairo/)**（日文）**
-- [9-nine-はるいろはるこいはるのかぜ官方网站](http://palette.clearrave.co.jp/product/haruiro/)**（日文）**
-- [9-nine-ゆきいろゆきはなゆきのあと官方网站](http://palette.clearrave.co.jp/product/yukiiro/)**（日文）**
-- [9-nine-New Episode官方网站](https://palette.clearrave.co.jp/product/9-nine-/)**（日文）**
-- [9-nine-官方网站](https://9-nine-project.com/)**（日文）**
+- [9-nine-九次九日九重色官方网站](http://palette.clearrave.co.jp/product/kokoiro/)（[页面存档备份](https://web.archive.org/web/20190827221340/http://palette.clearrave.co.jp/product/kokoiro/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）
+- [9-nine-天色天歌天籁音官方网站](http://palette.clearrave.co.jp/product/sorairo/)（[页面存档备份](https://web.archive.org/web/20180122103823/http://palette.clearrave.co.jp/product/sorairo/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）
+- [9-nine-春色春恋春之风官方网站](http://palette.clearrave.co.jp/product/haruiro/)（[页面存档备份](https://web.archive.org/web/20190330060900/http://palette.clearrave.co.jp/product/haruiro/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）
+- [9-nine-雪色雪花雪之痕官方网站](http://palette.clearrave.co.jp/product/yukiiro/)（[页面存档备份](https://web.archive.org/web/20191214155650/http://palette.clearrave.co.jp/product/yukiiro/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）
+- [9-nine-New Episode官方网站](https://palette.clearrave.co.jp/product/9-nine-/)
+- [9-nine-官方网站](https://9-nine-project.com/) （[页面存档备份](https://web.archive.org/web/20210423135349/https://9-nine-project.com/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）
+- [电视动画官方网站](https://nine-anime.marv.jp/)
+- [‘9-nine-’公式的X（前Twitter）账户](https://twitter.com/info_9_nine_)
 - [Steam上的9-nine-系列](https://store.steampowered.com/franchise/9-nine-)
 - [Steam上的9-nine-:NewEpisode](https://store.steampowered.com/app/1890120/9nineNewEpisode/)
 
@@ -132,18 +160,109 @@ updated: 2024-02-22 03:55:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-1. **`.exe`自解压程序可以用[MT管理器](https://mt2.cn/)直接解压**
-
 ## 下载分流
 
-1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.moe/download?post_id=50&index=0&i=0)
-2. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.moe/download?post_id=50&index=1&i=0)
-3. [稻荷ACG](https://sakustar.moe/) & `KRKR`：[点击下载](https://sakustar.moe/download?post_id=571&index=0&i=0)
-4. [青桔网](https://post.qingjuacg.top/) & `Windows`：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/EaACs_t48NFBg-mgwiEGVXQBeZky5K5LfVf9u9BO9gUMOg?e=0nVhGU)，密码：`qingju`
-5. [青桔网](https://post.qingjuacg.top/) & `KRKR`：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/ERHISg8RX95Jhmy15T9gRf4B608VujVWKdn0azPAy6J_EA?e=8qjXfY)，密码：`qingju`
-6. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=9-nine-%20%E6%96%B0%E7%AB%A0)，密码：`终点`
-7. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Windows` + `KRKR`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/9-nine%20Series/Kirikiroid2%20%E6%A8%B1%E7%A9%BA%E6%B1%89%E5%8C%96%E7%BB%84%20%E9%AB%98%E5%8E%8B%209-nine-%E6%96%B0%E7%AB%A0.rar)，密码：`三司绫濑天下第一`
-8. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%919-nine%E7%B3%BB%E5%88%97/9-nine-5%20%E6%96%B0%E7%AB%A0/%E3%80%909-nine-%E6%96%B0%E7%AB%A0%E3%80%91%5BPC%5D.7z?sign=cHce3x4xmzDbh-XFsboRnjq5l6mKPgMDtLyK1SdntIY=:0)
-9. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%919-nine%E7%B3%BB%E5%88%97/9-nine-5%20%E6%96%B0%E7%AB%A0/%E3%80%909-nine-%E6%96%B0%E7%AB%A0%E3%80%91%5BKRKR%5D.7z?sign=9Xz3hIJo_vSv0icXxw0bsEpIw_mm_OpluI-z0e2rusI=:0)
-10. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `KRKR`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part6/Clear%20Rave/%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%E6%B1%89%E5%8C%96%E7%89%88/%5B210423%5D%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D%209-nine-%E6%96%B0%E7%AB%A0.rar?sign=2z7Iip87o5a0k6ilhgVRFNFGiFJRocyHF76-PQ6Uh7s=:0)
-11. [烟郁Galgame频道](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/9nine/9nine%E7%BB%88%E7%AB%A0.7z)，密码：`烟郁频道`
+### 九次九日九重色
+
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/OagFW)，密码：`touchgal`
+2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/E8xtn)，密码：`touchgal`
+3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/qr0Te)
+4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/LgeFk)
+5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/qQ3HP)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/M8oQi0)，密码：`hikarinagi.com`
+7. [失落小站](https://www.shinnku.com/) & `Windows` 【官中】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E4%B9%9D%E6%AC%A1%E4%B9%9D%E6%97%A5%E4%B9%9D%E9%87%8D%E8%89%B2/9-nine-%E4%B9%9D%E6%AC%A1%E4%B9%9D%E6%97%A5%E4%B9%9D%E9%87%8D%E8%89%B2(%E5%AE%98%E4%B8%AD).7z)
+8. [失落小站](https://www.shinnku.com/) & `Windows` 【樱空】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E4%B9%9D%E6%AC%A1%E4%B9%9D%E6%97%A5%E4%B9%9D%E9%87%8D%E8%89%B2/9-nine-%E4%B9%9D%E6%AC%A1%E4%B9%9D%E6%97%A5%E4%B9%9D%E9%87%8D%E8%89%B2(%E6%A8%B1%E7%A9%BA).7z)
+9. [失落小站](https://www.shinnku.com/) & `Windows` 【默示】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E4%B9%9D%E6%AC%A1%E4%B9%9D%E6%97%A5%E4%B9%9D%E9%87%8D%E8%89%B2/9-nine-%E4%B9%9D%E6%AC%A1%E4%B9%9D%E6%97%A5%E4%B9%9D%E9%87%8D%E8%89%B2(%E9%BB%98%E7%A4%BA).7z)
+10. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/9-nine-%E4%B9%9D%E4%B8%AA%E4%B9%9D%E6%97%A5%E4%B9%9D%E8%89%B2.7z)
+11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【官中】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D%209-nine-Episode%201%20%209-nine-%E3%81%93%E3%81%93%E3%81%AE%E3%81%A4%E3%81%93%E3%81%93%E3%81%AE%E3%81%8B%E3%81%93%E3%81%93%E3%81%AE%E3%81%84%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=cBkpLoZXDZEuw82cpU5fGXzMuYWX_HU3aKko2F4ajaE=:0)
+12. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【樱空】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D%209-nine-%20%E3%81%93%E3%81%93%E3%81%AE%E3%81%A4%E3%81%93%E3%81%93%E3%81%AE%E3%81%8B%E3%81%93%E3%81%93%E3%81%AE%E3%81%84%E3%82%8D%20%209-nine-%E4%B9%9D%E6%AC%A1%E4%B9%9D%E6%97%A5%E4%B9%9D%E9%87%8D%E8%89%B2%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%20%5B%E6%A8%B1%E7%A9%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=KCNJxQBsr7mYhwifHoCN1OwWntI_h-AsF9Mhh31M4F0=:0)
+13. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3637)，密码：`量子acg`、`lzacg.top`
+14. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2173)，密码：`量子acg`、`lzacg.top`
+15. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/41)
+16. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/565)
+17. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/9-nine-jiucijiurijiuzhongse.html)，密码：`忧郁的弟弟`、`忧郁的loli`
+
+### 天色天歌天籁音
+
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GkiX)，密码：`touchgal`
+2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/L9BsZ)，密码：`touchgal`
+3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/EYJte)
+4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/AdgCl)
+5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/vQVSj)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/Krmrfv)，密码：`hikarinagi.com`
+7. [失落小站](https://www.shinnku.com/) & `Windows` 【官中】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E5%A4%A9%E8%89%B2%E5%A4%A9%E6%AD%8C%E5%A4%A9%E7%B1%81%E9%9F%B3/9-nine-%E5%A4%A9%E8%89%B2%E5%A4%A9%E6%AD%8C%E5%A4%A9%E7%B1%81%E9%9F%B3(%E5%AE%98%E4%B8%AD).7z)
+8. [失落小站](https://www.shinnku.com/) & `Windows` 【樱空】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E5%A4%A9%E8%89%B2%E5%A4%A9%E6%AD%8C%E5%A4%A9%E7%B1%81%E9%9F%B3/9-nine-%E5%A4%A9%E8%89%B2%E5%A4%A9%E6%AD%8C%E5%A4%A9%E7%B1%81%E9%9F%B3(%E6%A8%B1%E7%A9%BA).7z)
+9. [失落小站](https://www.shinnku.com/) & `Windows` 【默示】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E5%A4%A9%E8%89%B2%E5%A4%A9%E6%AD%8C%E5%A4%A9%E7%B1%81%E9%9F%B3/9-nine-%E5%A4%A9%E8%89%B2%E5%A4%A9%E6%AD%8C%E5%A4%A9%E7%B1%81%E9%9F%B3(%E9%BB%98%E7%A4%BA).7z)
+10. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/9-nine-%E5%A4%A9%E8%89%B2%E5%A4%A9%E9%9F%B3%E5%A4%A9%E6%AD%8C.7z)
+11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【樱空】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D%209-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8%20%209-nine-%E5%A4%A9%E8%89%B2%E5%A4%A9%E6%AD%8C%E5%A4%A9%E7%B1%81%E9%9F%B3%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%A8%B1%E7%A9%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=R2TJP8NIRxFGlV5U1ecADamicGKHabcd7dwXS9uTGus=:0)
+12. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【默示】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8%209-nine-%E5%A4%A9%E8%89%B2%E5%A4%A9%E9%9F%B3%E5%A4%A9%E6%AD%8C%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E9%BB%98%E7%A4%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=JXwIYZ4S9ddOQ154yfQDij6qBwYJOloTQTHNbfE4xLc=:0)
+13. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3636)，密码：`量子acg`、`lzacg.top`
+14. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2174)，密码：`量子acg`、`lzacg.top`
+15. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/44)
+16. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/566)
+17. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/9-nine-tiansetiangetianlaiyin.html)，密码：`忧郁的弟弟`、`忧郁的loli`
+
+### 春色春恋春熙风
+
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/69jhp)，密码：`touchgal`
+2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mlxbsx)，密码：`touchgal`
+3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/adGip)
+4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/kBLIa)
+5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/r2wi0)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/L9ngfp)，密码：`hikarinagi.com`
+7. [失落小站](https://www.shinnku.com/) & `Windows` 【官中】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E6%98%A5%E8%89%B2%E6%98%A5%E6%81%8B%E6%98%A5%E7%86%99%E9%A3%8E/9-nine-%E6%98%A5%E8%89%B2%E6%98%A5%E6%81%8B%E6%98%A5%E7%86%99%E9%A3%8E(%E5%AE%98%E4%B8%AD).7z)
+8. [失落小站](https://www.shinnku.com/) & `Windows` 【樱空】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E6%98%A5%E8%89%B2%E6%98%A5%E6%81%8B%E6%98%A5%E7%86%99%E9%A3%8E/9-nine-%E6%98%A5%E8%89%B2%E6%98%A5%E6%81%8B%E6%98%A5%E7%86%99%E9%A3%8E(%E6%A8%B1%E7%A9%BA)%20Ver1.1.7z)
+9. [失落小站](https://www.shinnku.com/) & `Windows` 【默示】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E6%98%A5%E8%89%B2%E6%98%A5%E6%81%8B%E6%98%A5%E7%86%99%E9%A3%8E/9-nine-%E6%98%A5%E8%89%B2%E6%98%A5%E6%81%8B%E6%98%A5%E7%86%99%E9%A3%8E(%E9%BB%98%E7%A4%BA).7z)
+10. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/9-nine-%E6%98%A5%E8%89%B2%E6%98%A5%E6%81%8B%E6%98%A5%E7%86%99%E9%A3%8E.7z)
+11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【官中】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D%209-nine-Episode%203%20%209-nine-%E6%98%A5%E8%89%B2%E6%98%A5%E6%81%8B%E6%98%A5%E7%86%99%E9%A3%8E%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=et4a2P6CLp_EZk39L8apMyLWPxn10_E1pww1_DXSQmo=:0)
+12. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【樱空】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C9-nine-%E6%98%A5%E8%89%B2%E6%98%A5%E6%81%8B%E6%98%A5%E7%86%99%E9%A3%8E%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%A8%B1%E7%A9%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=M_WgepUdRkMdU1JhSOJ9sQeZ_aOlgagrmrd-gmBNfpE=:0)
+13. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3635)，密码：`量子acg`、`lzacg.top`
+14. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2175)，密码：`量子acg`、`lzacg.top`
+15. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/46)
+16. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/567)
+17. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/9-nine-chunsechunlianchunxifeng.html)，密码：`忧郁的弟弟`、`忧郁的loli`
+
+### 雪色雪花雪之痕
+
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/vw3IW)，密码：`touchgal`
+2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/7BxfX)，密码：`touchgal`
+3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/RnJHy)
+4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/7xQFw)
+5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/w0Jfz)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/J6lDum)，密码：`hikarinagi.com`
+7. [失落小站](https://www.shinnku.com/) & `Windows` 【官中】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E9%9B%AA%E8%89%B2%E9%9B%AA%E8%8A%B1%E9%9B%AA%E4%BD%99%E7%97%95/9-nine-%E9%9B%AA%E8%89%B2%E9%9B%AA%E8%8A%B1%E9%9B%AA%E4%BD%99%E7%97%95(%E5%AE%98%E4%B8%AD).7z)
+8. [失落小站](https://www.shinnku.com/) & `Windows` 【樱空】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E9%9B%AA%E8%89%B2%E9%9B%AA%E8%8A%B1%E9%9B%AA%E4%BD%99%E7%97%95/9-nine-%E9%9B%AA%E8%89%B2%E9%9B%AA%E8%8A%B1%E9%9B%AA%E4%BD%99%E7%97%95(%E6%A8%B1%E7%A9%BA)%20Ver1.1.7z)
+9. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/9-nine-%E9%9B%AA%E8%89%B2%E9%9B%AA%E8%8A%B1%E9%9B%AA%E4%B9%8B%E7%97%95.7z)
+10. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【官中】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D%209-nine-Episode%204%20%209-nine-%E9%9B%AA%E8%89%B2%E9%9B%AA%E8%8A%B1%E9%9B%AA%E4%B9%8B%E7%97%95%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=kFqumP6MutYPb-HfK6WRsH2hdMLhsjcCKFaGdBJ7-fc=:0)
+11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【樱空】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D%209-nine-%E3%82%86%E3%81%8D%E3%81%84%E3%82%8D%E3%82%86%E3%81%8D%E3%81%AF%E3%81%AA%E3%82%86%E3%81%8D%E3%81%AE%E3%81%82%E3%81%A8%20%20%E9%9B%AA%E8%89%B2%E9%9B%AA%E8%8A%B1%E9%9B%AA%E4%BD%99%E7%97%95%20V1.1%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%A8%B1%E7%A9%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=QB43zcoy4aedsGQDd6pouYNeNt59yyDpWIgDIneP8As=:0)
+12. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3631)，密码：`量子acg`、`lzacg.top`
+13. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/3626)，密码：`量子acg`、`lzacg.top`
+14. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/48)
+15. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/568)
+
+### 新章 New Episode
+
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/xwgCO)，密码：`touchgal`
+2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/OW0PcW)，密码：`touchgal`
+3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/xYeFA)
+4. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/Vplcy)
+5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/x6JT4)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/G6Qytp)，密码：`hikarinagi.com`
+7. [失落小站](https://www.shinnku.com/) & `Windows` 【官中】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E6%96%B0%E7%AB%A0/9-nine-%E6%96%B0%E7%AB%A0(%E5%AE%98%E4%B8%AD).7z)
+8. [失落小站](https://www.shinnku.com/) & `Windows` 【樱空】：[点击下载](https://www.shinnku.com/api/download/0/win/9-nine-%E6%96%B0%E7%AB%A0/9-nine-%E6%96%B0%E7%AB%A0(%E6%A8%B1%E7%A9%BA%E6%B1%89%E5%8C%96).7z)
+9. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/9-nine-%E6%96%B0%E7%AB%A0.7z)
+10. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【官中】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/18/%5BPALETTE%5D%209-nine-NewEpisode%20%209-nine-%20%E6%96%B0%E7%AB%A0%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%AE%98%E6%96%B9%E4%B8%AD%E6%96%87%5D.zip?sign=6Wi5RHn-klIKZzN6-rfn9YvHBxJUBAk1G4lcD3nPAiE=:0)
+11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【樱空】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D%209%20-Nine-%20New%20Episode%20%209-nine-%20%E6%96%B0%E7%AB%A0%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%A8%B1%E7%A9%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=-xV7Kk_7jpd9QY0-V9d7XZmQBdHX39vfEXgM2jCZiy4=:0)
+12. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3630)，密码：`量子acg`、`lzacg.top`
+13. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/3625)，密码：`量子acg`、`lzacg.top`
+14. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/50)
+15. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/571)
+
+### 9-nine- 系列合集 Series
+
+1. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://acgs.one/game/109.html)，密码：`acgs`、`绮梦`
+2. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `KRKR`：[点击下载](https://pan.t-satoru.top/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/9-nine%20Series/)，密码：`三司绫濑天下第一`
+3. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/9nine)，密码：`lumouweinb`、`烟郁频道`
+4. [姬路白雪](https://jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=9-nine-)，密码：`终点`、`书想工作室`
+5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `KRKR`：[点击下载](https://zi0.cc/,%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC+%E5%AE%89%E5%8D%93%E3%80%919-nine%E7%B3%BB%E5%88%97)
+6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part6/Clear%20Rave/%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%E6%B1%89%E5%8C%96%E7%89%88)

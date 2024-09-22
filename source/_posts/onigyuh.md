@@ -83,14 +83,13 @@ Tips：在游戏主界面 Extra - CG - Scene Repaly 中可以切换妹妹视角(
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流：[点击下载](https://sakustar.moe/download?post_id=820&index=0&i=0)
 2. [稻荷ACG](https://sakustar.moe/) & `KRKR` 下载分流：[点击下载](https://sakustar.moe/download?post_id=4518&index=0&i=0)
-3. [青桔网](https://post.qingjuacg.top/) & `KRKR` 下载分流：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/EdF8sL8P1NxKnKZp2oN4O8sBg01EPPyKpA6IdNNZMCYbkQ?e=xP4ZRN)，密码：qingju
-4. [迷迭香写代码](https://rosmontis.com/) & `Windows` 下载分流：[点击下载](https://drive.rosmontis.com/s/JpXfG)，密码：rosmontis
-5. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/nowUY)
-6. [TouchGAL](https://www.touchgal.com/) & `KRKR` 下载分流：[点击下载](https://pan.touchgal.net/s/V0pId)
-7. [绮梦](https://acgs.eu.org/) & `Windows` + `KRKR` 下载分流：[点击下载](https://acgs.eu.org/down_html/?url=game/%E5%93%A5%E5%93%A5%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6&name=%E5%93%A5%E5%93%A5%EF%BC%8C%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6%EF%BC%81)，密码：绮梦
-8. [失落小站](https://www.shinnku.com/) & `Windows` 下载分流：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%93%A5%E5%93%A5%EF%BC%8C%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6%EF%BC%81FD.7z)
-9. [失落小站](https://www.shinnku.com/) & `KRKR` 下载分流：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E5%93%A5%E5%93%A5%EF%BC%8C%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6!FD.7z)
+3. [迷迭香写代码](https://rosmontis.com/) & `Windows` 下载分流：[点击下载](https://drive.rosmontis.com/s/JpXfG)，密码：rosmontis
+4. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/nowUY)
+5. [TouchGAL](https://www.touchgal.com/) & `KRKR` 下载分流：[点击下载](https://pan.touchgal.net/s/V0pId)
+6. [绮梦](https://acgs.eu.org/) & `Windows` + `KRKR` 下载分流：[点击下载](https://acgs.eu.org/down_html/?url=game/%E5%93%A5%E5%93%A5%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6&name=%E5%93%A5%E5%93%A5%EF%BC%8C%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6%EF%BC%81)，密码：绮梦
+7. [失落小站](https://www.shinnku.com/) & `Windows` 下载分流：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%93%A5%E5%93%A5%EF%BC%8C%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6%EF%BC%81FD.7z)
+8. [失落小站](https://www.shinnku.com/) & `KRKR` 下载分流：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E5%93%A5%E5%93%A5%EF%BC%8C%E6%97%A9%E4%B8%8A%E8%B5%B7%E5%BA%8A%E4%B9%8B%E5%89%8D%E9%83%BD%E8%A6%81%E6%8A%B1%E7%B4%A7%E6%88%91%E5%93%A6!FD.7z)

@@ -74,7 +74,6 @@ updated: 2024-05-25 03:14:00
 3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/GalGame/PC/Island)，密码：`终点`
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/GalGame/gal%E7%BB%88%E7%82%B9%E8%B5%84%E6%BA%90%EF%BC%88%E5%AF%86%E7%A0%81%20%E7%BB%88%E7%82%B9%EF%BC%89/HI/ISLAND/%E5%A4%9C%E9%B8%AE%E7%9A%84%E6%A0%91%E6%B4%9E%E7%89%88%E6%9C%AC)，密码：`终点`
 5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/ISLAND.7z)
-6. [青桔网](https://qingju.org/) & `Windows`：[点击下载](https://www.qingju.org/3499.html)，密码：`qingju`
-7. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.me/art/4440)
-8. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/434)，密码：`量子acg`、`lzacg.top`
-9. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/island.html)，密码：`忧郁的弟弟`、`忧郁的loli`
+6. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.me/art/4440)
+7. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/434)，密码：`量子acg`、`lzacg.top`
+8. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/island.html)，密码：`忧郁的弟弟`、`忧郁的loli`

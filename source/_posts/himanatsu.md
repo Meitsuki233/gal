@@ -75,7 +75,7 @@ updated: 2024-03-04 03:15:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
 [稻荷ACG](https://sakustar.moe/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=3276&index=0&i=0)
 

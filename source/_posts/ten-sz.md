@@ -102,7 +102,7 @@ updated: 2024-07-11 02:00:00
 
 1. `KRKR` 如果遇到点击存档按钮闪退的话，请使用右下角三条杠里面的系统菜单进行存档
 
-## 下载地址
+## 下载分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Wp3FZ)，密码：`touchgal`
 2. [TouchGAL](https://www.touchgal.com/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/BXZiw)，密码：`touchgal`

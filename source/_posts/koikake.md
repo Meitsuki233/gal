@@ -60,9 +60,8 @@ updated: 2024-05-16 23:40:00
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Qns6)，密码：`touchgal`
 2. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/1gesX)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
 3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E6%83%B3%E8%A6%81%E4%BC%A0%E8%BE%BE%E7%BB%99%E4%BD%A0%E7%9A%84%E7%88%B1%E6%81%8B)，密码：`终点`
-4. [青桔网](https://qingju.org/) & `Windows`：[点击下载](https://www.qingju.org/3693.html)，密码：`qingju`
-5. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/298)
-6. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E6%83%B3%E8%A6%81%E4%BC%A0%E8%BE%BE%E7%BB%99%E4%BD%A0%E7%9A%84%E7%88%B1%E6%81%8B&name=%E6%83%B3%E8%A6%81%E4%BC%A0%E8%BE%BE%E7%BB%99%E4%BD%A0%E7%9A%84%E7%88%B1%E6%81%8B)，密码：`acgs`、`绮梦`
-7. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%83%B3%E8%A6%81%E4%BC%A0%E8%BE%BE%E7%BB%99%E4%BD%A0%E7%9A%84%E7%88%B1%E6%81%8B.7z)
-8. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/991)，密码：`量子acg`、`lzacg.top`
-9. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/xiangyaochuandageinideailian.html)，密码：`忧郁的弟弟`、`忧郁的loli`
+4. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/298)
+5. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E6%83%B3%E8%A6%81%E4%BC%A0%E8%BE%BE%E7%BB%99%E4%BD%A0%E7%9A%84%E7%88%B1%E6%81%8B&name=%E6%83%B3%E8%A6%81%E4%BC%A0%E8%BE%BE%E7%BB%99%E4%BD%A0%E7%9A%84%E7%88%B1%E6%81%8B)，密码：`acgs`、`绮梦`
+6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%83%B3%E8%A6%81%E4%BC%A0%E8%BE%BE%E7%BB%99%E4%BD%A0%E7%9A%84%E7%88%B1%E6%81%8B.7z)
+7. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/991)，密码：`量子acg`、`lzacg.top`
+8. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/xiangyaochuandageinideailian.html)，密码：`忧郁的弟弟`、`忧郁的loli`

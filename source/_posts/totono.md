@@ -59,14 +59,12 @@ updated: 2024-03-17 05:30:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
-1. [青桔网](https://post.qingjuacg.top/) & Windows下载分流：[点击下载](https://2010522975-my.sharepoint.com/:f:/g/personal/qingju_2010522975_onmicrosoft_com/Ep7MYdtgw3BPq0ALLzWXTgkBrBvMeqzr9kDh0IsAjbs1Ig?e=d8FOZV)，密码：qingju
-2. [青桔网](https://post.qingjuacg.top/) & Android下载分流：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/Eb9LVJs7eGZOorwMuN2EiCMBve_eo8oL3pYOXE0LKO8WOA?e=CnBXNa)，密码：qingju
-3. [稻荷ACG](https://sakustar.moe/) & Windows下载分流：[点击下载](https://sakustar.moe/download?post_id=480&index=0&i=0)
-4. [烟郁Galgame](https://yanyugal.top/) & Android下载分流：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%90%9B%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B9%8B%E6%81%8B.7z)，密码：烟郁频道
-5. [TouchGAL](https://www.touchgal.com/) & Windows下载分流：[点击下载](https://pan.touchgal.net/s/O5RiW)
-6. [TouchGAL](https://www.touchgal.com/) & Android下载分流：[点击下载](https://pan.touchgal.net/s/1y5IX)
-7. [梓澪の妙妙屋](https://zi0.cc/) & Windows下载分流：[点击下载](https://zi0.cc/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC+%E9%83%A8%E5%88%86KR%20ONS%E3%80%9112%E7%A5%9E%E9%AD%94%E5%99%A8/12%E7%A5%9E%E5%99%A8/%E5%90%9B%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B9%8B%E6%81%8B.zip?from=search)
-8. [梓澪の妙妙屋](https://zi0.cc/) & Android下载分流：[点击下载](https://zi0.cc/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/015/%E5%90%9B%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B9%8B%E6%81%8B.apk?from=search)
-9. [姬路白雪](https://pan.jlbx.xyz/) & Windows+Android下载分流：[点击下载](https://pan.jlbx.xyz/?s=%E5%90%9B%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B9%8B%E6%81%8B)，密码：终点
+1. [稻荷ACG](https://sakustar.moe/) & Windows下载分流：[点击下载](https://sakustar.moe/download?post_id=480&index=0&i=0)
+2. [烟郁Galgame](https://yanyugal.top/) & Android下载分流：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%90%9B%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B9%8B%E6%81%8B.7z)，密码：烟郁频道
+3. [TouchGAL](https://www.touchgal.com/) & Windows下载分流：[点击下载](https://pan.touchgal.net/s/O5RiW)
+4. [TouchGAL](https://www.touchgal.com/) & Android下载分流：[点击下载](https://pan.touchgal.net/s/1y5IX)
+5. [梓澪の妙妙屋](https://zi0.cc/) & Windows下载分流：[点击下载](https://zi0.cc/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC+%E9%83%A8%E5%88%86KR%20ONS%E3%80%9112%E7%A5%9E%E9%AD%94%E5%99%A8/12%E7%A5%9E%E5%99%A8/%E5%90%9B%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B9%8B%E6%81%8B.zip?from=search)
+6. [梓澪の妙妙屋](https://zi0.cc/) & Android下载分流：[点击下载](https://zi0.cc/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/015/%E5%90%9B%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B9%8B%E6%81%8B.apk?from=search)
+7. [姬路白雪](https://pan.jlbx.xyz/) & Windows+Android下载分流：[点击下载](https://pan.jlbx.xyz/?s=%E5%90%9B%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B9%8B%E6%81%8B)，密码：终点

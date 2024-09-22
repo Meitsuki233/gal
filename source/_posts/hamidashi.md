@@ -97,26 +97,24 @@ updated: 2024-04-13 22:40:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
-1. [青桔网](https://post.qingjuacg.top/) & `Windows` 下载分流：[点击下载](https://2010522975-my.sharepoint.com/:f:/g/personal/qingju_2010522975_onmicrosoft_com/EqaohrEQAedFvcZXe0DqS-MB7plK6oZee_IYbEpRj6iN8A?e=6TrxV9)，密码：qingju
-2. [青桔网](https://post.qingjuacg.top/) & `Tyranor` 下载分流：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/EQNSEuebO8xHuIhI4NGIaUQBRj6h_oxxXD-RjKNygzVL9A?e=AXeNW1)，密码：qingju
-3. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流：[点击下载](https://sakustar.moe/download?post_id=304&index=0&i=0)
-4. [稻荷ACG](https://sakustar.moe/) & `Tyranor` 下载分流：[点击下载](https://sakustar.moe/download?post_id=4086&index=0&i=0)
-5. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `Tyranor` 下载分流：[点击下载](https://pan.jlbx.xyz/?s=%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3)，密码：终点
-6. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Tyranor` 下载分流：[点击下载](https://pan.t-satoru.top/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E5%93%88%E5%AF%86%E8%BE%BE%E6%96%AF%E5%88%9B%E6%84%8F/%E6%9C%AC%E4%BD%93)，密码：三司绫濑天下第一
-7. [烟郁Galgame](https://yanyugal.top/) & `Tyranor` 下载分流：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ty/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3.7z)，密码：烟郁频道
-8. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/Py8FR)，密码：touchgal
-9. [TouchGAL](https://www.touchgal.com/) & `Tyranor` 下载分流：[点击下载](https://pan.touchgal.net/s/LREhZ)，密码：touchgal
-10. [迷迭香写代码](https://rosmontis.com/) & `Windows` 下载分流：[点击下载](https://drive.rosmontis.com/s/QYvUN)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压
-11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 下载分流：[点击下载](https://zi0.cc/d/%2C%E3%80%90RPG-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3/%E3%80%90PC%E7%A1%AC%E7%9B%98%E3%80%91%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3.zip?sign=iHjuaqZ_tnI3o8aUiufgspj3sFt1kpl7MRW44bYzWfs=:0)
-12. [梓澪の妙妙屋](https://zi0.cc/) & `Tyranor` 下载分流：[点击下载](https://zi0.cc/d/%2C%E3%80%90RPG-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3/%E3%80%90Tyranor%E3%80%91%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3.zip?sign=tzJR_MVmXjLj1iXGHXmAsJwdbSvsxS68dDblGLITu1I=:0)
-13. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 下载分流：[点击下载](https://zi0.cc/d/%2C%E3%80%90RPG-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%E3%80%91%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3.zip?sign=eMBtqfW7rDu0Gw6GH_iLDCWwNi9_POdOI-cYQO4IoqM=:0)
-14. [维咔VikACG](https://www.vikacg.com/post) & `Tyranor` 下载分流：[点击下载](https://1drv.ms/u/s!AlXNhTO2LMVsgVdDRpZVgG2OeGRa)
-15. [绮梦](https://acgs.one/) & `Windows` + `Tyranor` 下载分流：[点击下载](https://acgs.one/down_html/?url=game/%E8%84%B1%E7%A6%BB%E5%B8%B8%E8%BD%A8Creative&name=%E5%B8%B8%E8%BD%A8%E8%84%B1%E7%A6%BB)，密码：绮梦
-16. [失落小站](https://www.shinnku.com/) & `Windows` 下载分流：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3v1.1.7z)
-17. [失落小站](https://www.shinnku.com/) & `Tyranor` 下载分流：[点击下载](https://www.shinnku.com/api/download/0/Tyranor/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3v1.1.7z)
-18. [量子ACG](https://lzacg.org/) & `Windows` 下载分流：[点击下载](https://odn.lzacg.org/[%E4%BC%9A%E7%A4%BE]madosoft/[PC]%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3%20%E3%83%8F%E3%83%9F%E3%83%80%E3%82%B7%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96[%E7%99%BD%E4%BA%95%E6%9C%A8%E6%B1%89%E5%8C%96%E7%BB%84]/)，密码：量子acg、lzacg.top
-19. [量子ACG](https://lzacg.org/) & `Windows` 下载分流：[点击下载](https://odb.lzacg.one/[%E4%BC%9A%E7%A4%BE]madosoft/[PC]%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3%20%E3%83%8F%E3%83%9F%E3%83%80%E3%82%B7%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96[%E7%99%BD%E4%BA%95%E6%9C%A8%E6%B1%89%E5%8C%96%E7%BB%84]/)，密码：量子acg、lzacg.top
-20. [量子ACG](https://lzacg.org/) & `Windows` 下载分流：[点击下载](https://mega.nz/folder/irJjEQxB#xr7zUEweXoIBaQ1I1Z0UVA)，密码：量子acg、lzacg.top
-21. [量子ACG](https://lzacg.org/) & `Tyranor` 下载分流：[点击下载](https://od.lzacg.one/ty/%5Bty%5D%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3/)，密码：量子acg、lzacg.top
+1. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流：[点击下载](https://sakustar.moe/download?post_id=304&index=0&i=0)
+2. [稻荷ACG](https://sakustar.moe/) & `Tyranor` 下载分流：[点击下载](https://sakustar.moe/download?post_id=4086&index=0&i=0)
+3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `Tyranor` 下载分流：[点击下载](https://pan.jlbx.xyz/?s=%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3)，密码：终点
+4. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Tyranor` 下载分流：[点击下载](https://pan.t-satoru.top/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E5%93%88%E5%AF%86%E8%BE%BE%E6%96%AF%E5%88%9B%E6%84%8F/%E6%9C%AC%E4%BD%93)，密码：三司绫濑天下第一
+5. [烟郁Galgame](https://yanyugal.top/) & `Tyranor` 下载分流：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ty/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3.7z)，密码：烟郁频道
+6. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/Py8FR)，密码：touchgal
+7. [TouchGAL](https://www.touchgal.com/) & `Tyranor` 下载分流：[点击下载](https://pan.touchgal.net/s/LREhZ)，密码：touchgal
+8. [迷迭香写代码](https://rosmontis.com/) & `Windows` 下载分流：[点击下载](https://drive.rosmontis.com/s/QYvUN)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压
+9. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 下载分流：[点击下载](https://zi0.cc/d/%2C%E3%80%90RPG-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3/%E3%80%90PC%E7%A1%AC%E7%9B%98%E3%80%91%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3.zip?sign=iHjuaqZ_tnI3o8aUiufgspj3sFt1kpl7MRW44bYzWfs=:0)
+10. [梓澪の妙妙屋](https://zi0.cc/) & `Tyranor` 下载分流：[点击下载](https://zi0.cc/d/%2C%E3%80%90RPG-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3/%E3%80%90Tyranor%E3%80%91%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3.zip?sign=tzJR_MVmXjLj1iXGHXmAsJwdbSvsxS68dDblGLITu1I=:0)
+11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 下载分流：[点击下载](https://zi0.cc/d/%2C%E3%80%90RPG-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%E3%80%91%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3.zip?sign=eMBtqfW7rDu0Gw6GH_iLDCWwNi9_POdOI-cYQO4IoqM=:0)
+12. [维咔VikACG](https://www.vikacg.com/post) & `Tyranor` 下载分流：[点击下载](https://1drv.ms/u/s!AlXNhTO2LMVsgVdDRpZVgG2OeGRa)
+13. [绮梦](https://acgs.one/) & `Windows` + `Tyranor` 下载分流：[点击下载](https://acgs.one/down_html/?url=game/%E8%84%B1%E7%A6%BB%E5%B8%B8%E8%BD%A8Creative&name=%E5%B8%B8%E8%BD%A8%E8%84%B1%E7%A6%BB)，密码：绮梦
+14. [失落小站](https://www.shinnku.com/) & `Windows` 下载分流：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3v1.1.7z)
+15. [失落小站](https://www.shinnku.com/) & `Tyranor` 下载分流：[点击下载](https://www.shinnku.com/api/download/0/Tyranor/%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3v1.1.7z)
+16. [量子ACG](https://lzacg.org/) & `Windows` 下载分流：[点击下载](https://odn.lzacg.org/[%E4%BC%9A%E7%A4%BE]madosoft/[PC]%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3%20%E3%83%8F%E3%83%9F%E3%83%80%E3%82%B7%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96[%E7%99%BD%E4%BA%95%E6%9C%A8%E6%B1%89%E5%8C%96%E7%BB%84]/)，密码：量子acg、lzacg.top
+17. [量子ACG](https://lzacg.org/) & `Windows` 下载分流：[点击下载](https://odb.lzacg.one/[%E4%BC%9A%E7%A4%BE]madosoft/[PC]%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3%20%E3%83%8F%E3%83%9F%E3%83%80%E3%82%B7%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96[%E7%99%BD%E4%BA%95%E6%9C%A8%E6%B1%89%E5%8C%96%E7%BB%84]/)，密码：量子acg、lzacg.top
+18. [量子ACG](https://lzacg.org/) & `Windows` 下载分流：[点击下载](https://mega.nz/folder/irJjEQxB#xr7zUEweXoIBaQ1I1Z0UVA)，密码：量子acg、lzacg.top
+19. [量子ACG](https://lzacg.org/) & `Tyranor` 下载分流：[点击下载](https://od.lzacg.one/ty/%5Bty%5D%E7%81%B5%E6%84%9F%E6%BB%A1%E6%BA%A2%E7%9A%84%E7%94%9C%E8%9C%9C%E5%88%9B%E6%83%B3/)，密码：量子acg、lzacg.top

@@ -100,7 +100,7 @@ updated: 2024-09-17 21:14:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/mjkSx)，密码：`touchgal`
 2. [TouchGAL](https://touchgal.net/) & `ONS`：[点击下载](https://pan.touchgal.net/s/O9xUW)，密码：`touchgal`

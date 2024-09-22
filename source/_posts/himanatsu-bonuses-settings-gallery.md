@@ -27,7 +27,7 @@ updated: 2024-03-30 21:56:00
 
 1. **后缀重命名为 `.7z` 再解压文件**
 
-## 下载地址
+## 下载分流
 
 1. [Google云端硬盘](https://drive.google.com/)：[点击下载](https://drive.google.com/file/d/1wdkVeHcxoCHOi25CT4NgU7ryP7OeAZPS/view?usp=drive_link)，解压码：sao
 2. [OneDrive](https://onedrive.live.com/)：[点击下载](https://1drv.ms/u/s!ArWOYkTFshJYhSsgh9W69ciNpfAs?e=3hBwaA)，解压码：sao

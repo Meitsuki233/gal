@@ -93,7 +93,7 @@ updated: 2024-03-30 02:52:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/RxLvC7)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS` 下载分流：[点击下载](https://pan.touchgal.net/s/2VWtg)

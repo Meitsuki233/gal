@@ -66,7 +66,7 @@ updated: 2024-02-25 02:32:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
 ### eden* PLUS+MOSAIC（18禁）
 
@@ -79,8 +79,6 @@ updated: 2024-02-25 02:32:00
 ### eden*（全年龄）
 
 [稻荷ACG](https://sakustar.moe/) & ONS下载分流4：[点击下载](https://sakustar.moe/download?post_id=605&index=0&i=0)
-
-[青桔网](https://post.qingjuacg.top/) & Windows下载分流5：[点击下载](https://2010522975-my.sharepoint.com/:f:/g/personal/qingju_2010522975_onmicrosoft_com/EqPNAcWTY_1MuEzovddnOoIBjTcLUCOVQGKdTjIulFrYlQ?e=Xc8W3V)，密码：qingju
 
 [烟郁Galgame](https://yanyugal.top/) & ONS下载分流6：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/eden%EF%BC%8A.7z)，密码：烟郁频道
 

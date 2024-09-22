@@ -62,7 +62,7 @@ Happy End 到底是什么呢？
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7NbvFX)
 2. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.moe/download?post_id=3303&index=0&i=0)

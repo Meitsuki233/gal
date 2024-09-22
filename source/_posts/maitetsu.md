@@ -92,12 +92,11 @@ updated: 2024-03-23 00:10:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
-1. [青桔网](https://post.qingjuacg.top/) & Windows下载分流：[点击下载](https://2010522975-my.sharepoint.com/:f:/g/personal/qingju_2010522975_onmicrosoft_com/EsCZGtOeyTdOtXdnBjfkJdUBiXXPt7UOn_VxKFFwX1CiCA?e=4cMYUH)，密码：qingju
-2. [稻荷ACG](https://sakustar.moe/) & Windows下载分流：[点击下载](https://sakustar.top/download?post_id=5306&index=0&i=0)
-3. [稻荷ACG](https://sakustar.moe/) & KRKR下载分流：[点击下载](https://sakustar.top/download?post_id=2793&index=0&i=0)
-4. [烟郁Galgame](https://yanyugal.top/) & KRKR下载分流：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E7%88%B1%E4%B8%8A%E7%81%AB%E8%BD%A6-Last%20Run!!-.7z)，密码：烟郁频道
-5. [TouchGAL](https://www.touchgal.com/) & Windows下载分流：[点击下载](https://pan.touchgal.net/s/52AuE)，密码：touchgal
-6. [TouchGAL](https://www.touchgal.com/) & KRKR下载分流：[点击下载](https://pan.touchgal.net/s/2X9Tg)，密码：touchgal
-7. [姬路白雪](https://pan.jlbx.xyz/) & Windows+KRKR下载分流：[点击下载](https://pan.jlbx.xyz/?s=%E7%88%B1%E4%B8%8A%E7%81%AB%E8%BD%A6)，密码：终点
+1. [稻荷ACG](https://sakustar.moe/) & Windows下载分流：[点击下载](https://sakustar.top/download?post_id=5306&index=0&i=0)
+2. [稻荷ACG](https://sakustar.moe/) & KRKR下载分流：[点击下载](https://sakustar.top/download?post_id=2793&index=0&i=0)
+3. [烟郁Galgame](https://yanyugal.top/) & KRKR下载分流：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E7%88%B1%E4%B8%8A%E7%81%AB%E8%BD%A6-Last%20Run!!-.7z)，密码：烟郁频道
+4. [TouchGAL](https://www.touchgal.com/) & Windows下载分流：[点击下载](https://pan.touchgal.net/s/52AuE)，密码：touchgal
+5. [TouchGAL](https://www.touchgal.com/) & KRKR下载分流：[点击下载](https://pan.touchgal.net/s/2X9Tg)，密码：touchgal
+6. [姬路白雪](https://pan.jlbx.xyz/) & Windows+KRKR下载分流：[点击下载](https://pan.jlbx.xyz/?s=%E7%88%B1%E4%B8%8A%E7%81%AB%E8%BD%A6)，密码：终点

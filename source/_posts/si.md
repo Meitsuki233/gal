@@ -67,7 +67,7 @@ updated: 2024-04-03 23:57:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/lxqF7)
 2. [TouchGAL](https://www.touchgal.com/) & `KRKR` 下载分流：[点击下载](https://pan.touchgal.net/s/1y2SX)

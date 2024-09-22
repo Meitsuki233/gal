@@ -57,7 +57,7 @@ updated: 2024-02-23 03:16:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载地址
+## 下载分流
 
 ### 本站下载
 
@@ -77,5 +77,3 @@ updated: 2024-02-23 03:16:00
 [稻荷ACG](https://sakustar.moe/) & Windows下载分流5：[点击下载](https://sakustar.moe/download?post_id=190&index=0&i=0)
 
 [迷迭香的博客](https://rosmontis.com/) & Windows下载分流6：[点击下载](https://drivez.rosmontis.com/s/kV1Ux)，密码：rosmontis
-
-[青桔网](https://post.qingjuacg.top/) & Windows下载分流7：[点击下载](https://2010522975-my.sharepoint.com/:u:/g/personal/qingju_2010522975_onmicrosoft_com/Ef6ICu49kyZLoIULO3KO61sBuh1nrReh8yZoU9b7hPrWiw?e=P6MHfj)，密码：qingju

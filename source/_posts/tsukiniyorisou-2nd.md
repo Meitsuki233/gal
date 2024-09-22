@@ -90,17 +90,16 @@ updated: 2024-04-19 00:05:00
 
 ## 下载分流
 
-1. [青桔网](https://qingju.org/) & `ONS`：[点击下载](https://www.qingju.org/archives/2870)，密码：`qingju`
-2. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/265)
-3. [稻荷ACG](https://sakustar.moe/) & `ONS`：[点击下载](https://sakustar.top/art/6027)
-4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA)，密码：`终点`
-5. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `ONS`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E8%BF%91%E6%9C%88%E7%B3%BB%E5%88%97/ONS_KIDFansClub_%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2.rar)，密码：`三司绫濑天下第一`
-6. [烟郁Galgame](https://yanyugal.top/) & `ONS`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3ons%E5%90%88%E9%9B%86/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2.7z)，密码：`烟郁频道`
-7. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/wJqTv)
-8. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/rBDiy)
-9. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2&name=%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2)，密码：`acgs`、`绮梦`
-10. [绮梦](https://acgs.one/) & `ONS`：[点击下载](https://acgs.one/down_html/?url=game/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2_ONS&name=%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2ONS)，密码：`acgs`、`绮梦`
-11. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2.7z)
-12. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/549)，密码：`量子acg`、`lzacg.top`
-13. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://mega.nz/folder/OmwSkJwD#oKxldjtvl8ZBq8sst_HNSw)，密码：`量子acg`、`lzacg.top`
-14. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/jinyueshaonvdeliyi2.html)，密码：`忧郁的弟弟`、`忧郁的loli`
+1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/265)
+2. [稻荷ACG](https://sakustar.moe/) & `ONS`：[点击下载](https://sakustar.top/art/6027)
+3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA)，密码：`终点`
+4. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `ONS`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E8%BF%91%E6%9C%88%E7%B3%BB%E5%88%97/ONS_KIDFansClub_%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2.rar)，密码：`三司绫濑天下第一`
+5. [烟郁Galgame](https://yanyugal.top/) & `ONS`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ons/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3ons%E5%90%88%E9%9B%86/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2.7z)，密码：`烟郁频道`
+6. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/wJqTv)
+7. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/rBDiy)
+8. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2&name=%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2)，密码：`acgs`、`绮梦`
+9. [绮梦](https://acgs.one/) & `ONS`：[点击下载](https://acgs.one/down_html/?url=game/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2_ONS&name=%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2ONS)，密码：`acgs`、`绮梦`
+10. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA2.7z)
+11. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/549)，密码：`量子acg`、`lzacg.top`
+12. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://mega.nz/folder/OmwSkJwD#oKxldjtvl8ZBq8sst_HNSw)，密码：`量子acg`、`lzacg.top`
+13. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/jinyueshaonvdeliyi2.html)，密码：`忧郁的弟弟`、`忧郁的loli`
