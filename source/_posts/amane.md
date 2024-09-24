@@ -43,7 +43,7 @@ Happy End 到底是什么呢？
 震惊之余被吸引着来到了她身前、悠然、雨音缓缓的倒在了慎二的胸膛之上。
 被怀中的少女所吸引、由此被扯上关系的慎二的生活渐渐的发生起了变化……
 
-## 游戏画面
+## 图片
 
 ![amane_p1](https://unpkg.com/galgame/img/amane_p1.webp)
 
@@ -53,16 +53,16 @@ Happy End 到底是什么呢？
 
 ![amane_p4](https://unpkg.com/galgame/img/amane_p4.webp)
 
-## 外部链接
+## 链接
 
 - [游戏官网](http://www.swaneye.com/kokuchou/amane/index.html)
 - [Steam页面](https://store.steampowered.com/app/1692000)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7NbvFX)
 2. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.moe/download?post_id=3303&index=0&i=0)

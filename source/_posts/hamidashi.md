@@ -48,7 +48,7 @@ updated: 2024-04-13 22:40:00
 一片混乱之中，失联N久的前任会长鎌倉詩桜也现身了！
 这就是命运吧。史无前例被抽签选中的学生会长的战斗，开始了……
 
-## 游戏画面
+## 图片
 
 ![hamidashi_p1](https://unpkg.com/galgame/img/hamidashi_p1.webp)
 
@@ -93,11 +93,11 @@ updated: 2024-04-13 22:40:00
 - **（日文）**[FD游戏官方网站](https://madosoft.net/hamidashi_totsu/)
 - [Steam上的常轨脱离Creative](https://store.steampowered.com/app/1604380/Creative/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流：[点击下载](https://sakustar.moe/download?post_id=304&index=0&i=0)
 2. [稻荷ACG](https://sakustar.moe/) & `Tyranor` 下载分流：[点击下载](https://sakustar.moe/download?post_id=4086&index=0&i=0)

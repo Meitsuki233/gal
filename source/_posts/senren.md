@@ -71,7 +71,7 @@ updated: 2024-04-27 01:20:00
 
 一切的答案，都在紧握丛雨丸的那双手中——
 
-## 游戏画面
+## 图片
 
 ![senren_p1](https://unpkg.com/galgame/img/senren_p1.webp)
 
@@ -97,7 +97,7 @@ updated: 2024-04-27 01:20:00
 
 ![senren_p12](https://unpkg.com/galgame/img/senren_p12.webp)
 
-## 外部链接
+## 链接
 
 - [游戏公式网站](http://www.yuzu-soft.com/products/senren/index.html)
 - [游戏官方中文网站](http://hikarifield.co.jp/senren/index.html)
@@ -105,11 +105,11 @@ updated: 2024-04-27 01:20:00
 - [官方视频网站](http://www.yuzu-soft.com/products/senren/movie.html)
 - [柚子社公式网站](http://www.yuzu-soft.com/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.moe/download?post_id=112&index=0&i=0)
 2. [稻荷ACG](https://sakustar.moe/) & `KRKR`：[点击下载](https://sakustar.moe/download?post_id=575&index=0&i=0)

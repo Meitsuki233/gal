@@ -47,7 +47,7 @@ updated: 2024-06-09 20:21:30
 
 在废品回收站工作的[冈崎朋也](https://zh.moegirl.org.cn/冈崎朋也)，开始了与恋人[坂上智代](https://zh.moegirl.org.cn/坂上智代)的甜蜜生活。智代的弟弟鹰文带来了父亲的私生女[小智](https://zh.moegirl.org.cn/index.php?title=三岛智&action=edit&redlink=1)，小智被母亲所抛弃，不得已只能在朋也和智代的照料下生活。很快暑假来临了，鹰文过去的女友[河南子](https://zh.moegirl.org.cn/河南子)离家出走也来到了这里。于是，朋也、智代、小智、鹰文、河南子，五人开始度过这最初又是最后的暑假。
 
-## 画面
+## 图片
 
 ![tomoyo_p1](https://unpkg.com/galgame/img/tomoyo_p1.webp)
 
@@ -63,7 +63,7 @@ updated: 2024-06-09 20:21:30
 
 ![tomoyo_p7](https://unpkg.com/galgame/img/tomoyo_p7.webp)
 
-## 外部链接
+## 链接
 
 - [PC版官网](http://key.visualarts.gr.jp/product/tomoyo/)（[页面存档备份](https://web.archive.org/web/20121025131827/http://key.visualarts.gr.jp/product/tomoyo/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)） **（日语）**
 - [PS2版官网](http://prot.co.jp/ps2/tomoyoafter/index.html)（[页面存档备份](https://web.archive.org/web/20120510180157/http://prot.co.jp/ps2/tomoyoafter/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)） **（日语）**
@@ -75,11 +75,11 @@ updated: 2024-06-09 20:21:30
 - [Switch版官网](https://www.prot.co.jp/switch/tomoyoafter/index.html)**（日文）**
 - [Steam版官网](https://store.steampowered.com/app/462990)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/B3xIw)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/g0puL)

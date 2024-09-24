@@ -55,7 +55,7 @@ updated: 2024-09-23 04:07:30
 
 学园都市白巳津川市，过着普通的学园生活的新海翔，但因大地震震坏了祭祀在白蛇九十九神社的神器的关系，使得翔所在的世界与异世界产生联系，且以那个世界流入的“Artifact”为契机而觉醒异能的少年少女，让翔卷入了“Artifact”和“User”们所引发的不幸的命运中。
 
-## 画面
+## 图片
 
 ![9-nine-_p1](https://unpkg.com/galgame/img/9-nine-_p1.webp)
 
@@ -143,7 +143,7 @@ updated: 2024-09-23 04:07:30
 
 ![9-nine-_p43](https://unpkg.com/galgame/img/9-nine-_p43.webp)
 
-## 外部链接
+## 链接
 
 - [9-nine-九次九日九重色官方网站](http://palette.clearrave.co.jp/product/kokoiro/)（[页面存档备份](https://web.archive.org/web/20190827221340/http://palette.clearrave.co.jp/product/kokoiro/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）
 - [9-nine-天色天歌天籁音官方网站](http://palette.clearrave.co.jp/product/sorairo/)（[页面存档备份](https://web.archive.org/web/20180122103823/http://palette.clearrave.co.jp/product/sorairo/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）
@@ -156,11 +156,11 @@ updated: 2024-09-23 04:07:30
 - [Steam上的9-nine-系列](https://store.steampowered.com/franchise/9-nine-)
 - [Steam上的9-nine-:NewEpisode](https://store.steampowered.com/app/1890120/9nineNewEpisode/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 ### 九次九日九重色
 

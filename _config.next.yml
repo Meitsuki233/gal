@@ -617,7 +617,7 @@ lazyload: true
 # Automatically insert whitespace between CJK and half-width characters.
 # For more information: https://github.com/vinta/pangu.js
 # Server-side plugin: https://github.com/next-theme/hexo-pangu
-pangu: false
+pangu: true
 
 # Prefetch links based on what is in the user's viewport.
 # For more information: https://getquick.link
@@ -908,8 +908,8 @@ chatra:
 # For more information: https://www.tidio.com
 # Dashboard: https://www.tidio.com/panel/dashboard
 tidio:
-  enable: true
-  key: m3u8gggaytztjpuoknpncm6yupmsw79n # Public Key, get it from dashboard. See: https://www.tidio.com/panel/settings/developer
+  enable: false
+  key: # Public Key, get it from dashboard. See: https://www.tidio.com/panel/settings/developer
 
 # ---------------------------------------------------------------
 # CDN Settings

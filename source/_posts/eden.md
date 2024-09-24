@@ -45,7 +45,7 @@ updated: 2024-02-25 02:32:00
 
 遥远未来的故事。
 
-## 游戏画面
+## 图片
 
 ![eden_p1](https://unpkg.com/galgame/img/eden_p1.webp)
 
@@ -55,18 +55,18 @@ updated: 2024-02-25 02:32:00
 
 ![eden_p4](https://unpkg.com/galgame/img/eden_p4.webp)
 
-## 外部链接
+## 链接
 
 - **（英文）**[eden* - They were only two, on the planet](http://www.mangagamer.org/eden/)
 - [Steam 上的 eden*](http://store.steampowered.com/app/315810/?snr=1_5_9__300)
 - [Steam 上的 eden* Demo](http://store.steampowered.com/app/348610/?snr=1_7_7_230_150_1)
 - [AppStore上的Eden* iOS移植简体中文收费版 地球末日最后的两人(DoBetter Game)](https://apps.apple.com/cn/app/地球末日最后的两人/id1086005986)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 ### eden* PLUS+MOSAIC（18禁）
 

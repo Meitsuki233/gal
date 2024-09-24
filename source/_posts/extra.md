@@ -55,7 +55,7 @@ updated: 2024-05-25 01:50:00
 
 值得一提的是，虽然这个游戏是以纯爱和少女的成长为主线的，不过与其他纯爱作相比h scene有七十三个之多，并且描写男女主角之间的cg只有结婚照和~~虫姬全家福~~。关于男女主之间的行为，也只是通过文字描述了三次而已，~~连ntr的h scene都有一个~~从这点也可以看出和泉老贼深深的恶意。
 
-## 画面
+## 图片
 
 ![extra_p1](https://unpkg.com/galgame/img/extra_p1.webp)
 
@@ -63,15 +63,15 @@ updated: 2024-05-25 01:50:00
 
 ![extra_p3](https://unpkg.com/galgame/img/extra_p3.webp)
 
-## 外部链接
+## 链接
 
 - [PC官方网站](http://cyc-soft.com/b-cyc-pro/extra/extra_form.htm) **（日文）**(未满18岁请勿浏览)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/LdRHZ)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E8%99%AB%E7%88%B1%E5%B0%91%E5%A5%B3)，密码：`终点`

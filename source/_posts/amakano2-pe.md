@@ -45,7 +45,7 @@ updated: 2024-09-04 09:19:00
 
 十月深秋之中，从少许『恋爱』即将造访的预感所开始。
 
-## 画面
+## 图片
 
 ![amakano2-pe_p1](https://unpkg.com/galgame/img/amakano2-pe_p1.webp)
 
@@ -55,7 +55,7 @@ updated: 2024-09-04 09:19:00
 
 ![amakano2-pe_p4](https://unpkg.com/galgame/img/amakano2-pe_p4.webp)
 
-## 外部链接
+## 链接
 
 - [アマカノ官网](http://azarashi-soft.nexton-net.jp/amakano/) （[页面存档备份](https://web.archive.org/web/20201101063525/http://azarashi-soft.nexton-net.jp/amakano/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [アマカノ~Second Season~官网](https://azarashi-soft.nexton-net.jp/amakano-ss/) （[页面存档备份](https://web.archive.org/web/20201101063525/https://azarashi-soft.nexton-net.jp/amakano-ss/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
@@ -64,11 +64,11 @@ updated: 2024-09-04 09:19:00
 - [アマカノ2官网](http://azarashi-soft.nexton-net.jp/amakano2/) （[页面存档备份](https://web.archive.org/web/20220101063525/http://azarashi-soft.nexton-net.jp/amakano2/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [アマカノ2+官网](http://azarashi-soft.nexton-net.jp/amakano2-plus//) （[页面存档备份](https://web.archive.org/web/20230401140327/http://azarashi-soft.nexton-net.jp/amakano2-plus//)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 ### 通常版
 

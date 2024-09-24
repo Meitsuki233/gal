@@ -47,7 +47,7 @@ author: WTY
 本作便是接续前作后宫路线的后日谈。
 要和变得更亲密的妹妹们一起更愉快地睡着度过正月吗？
 
-## 游戏画面
+## 图片
 
 ![onigyuh_p1](https://unpkg.com/galgame/img/onigyuh_p1.webp)
 
@@ -75,15 +75,15 @@ author: WTY
 
 Tips：在游戏主界面 Extra - CG - Scene Repaly 中可以切换妹妹视角(滑稽) 解锁更多剧情
 
-## 外部链接
+## 链接
 
 - [游戏官网](http://tinkle-position.com/onigyuh/)**（日文）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流：[点击下载](https://sakustar.moe/download?post_id=820&index=0&i=0)
 2. [稻荷ACG](https://sakustar.moe/) & `KRKR` 下载分流：[点击下载](https://sakustar.moe/download?post_id=4518&index=0&i=0)

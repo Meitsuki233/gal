@@ -41,7 +41,7 @@ updated: 2024-05-02 18:19:00
 
 本作将前作中埋下的伏笔全部回收：为什么白银武会穿越到平行宇宙？BETA到底是什么？纯夏去哪里了？人类和地球还有救吗？
 
-## 画面
+## 图片
 
 ![muvluv-alternative_p1](https://unpkg.com/galgame/img/muvluv-alternative_p1.webp)
 
@@ -49,17 +49,17 @@ updated: 2024-05-02 18:19:00
 
 ![muvluv-alternative_p3](https://unpkg.com/galgame/img/muvluv-alternative_p3.webp)
 
-## 外部链接
+## 链接
 
 - [《Muv-Luv Alternative》动画官网](https://muv-luv-alternative-anime.com/)**（日文）**
 - [Steam上的Muv-Luv](https://store.steampowered.com/app/802880/MuvLuv/)
 - [Steam上的Muv-Luv Alternative](https://store.steampowered.com/app/802890/MuvLuv_Alternative)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/9106)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=muv-luv)，密码：`终点`

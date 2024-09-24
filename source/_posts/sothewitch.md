@@ -52,7 +52,7 @@ updated: 2024-08-17 16:50:00
 
 “或许从现在起，就将会有什么事情开始了呢”
 
-## 游戏画面
+## 图片
 
 ![sothewitch_p1](https://unpkg.com/galgame/img/sothewitch_p1.webp)
 
@@ -66,7 +66,7 @@ updated: 2024-08-17 16:50:00
 
 ![sothewitch_p6](https://unpkg.com/galgame/img/sothewitch_p6.webp)
 
-## 外部链接
+## 链接
 
 - [日文版官方网站](http://www.yuzu-soft.com/new/product/sothewitch/index.html)
 - [中文版官方网站](https://hikarifield.co.jp/sothewitch)
@@ -74,11 +74,11 @@ updated: 2024-08-17 16:50:00
 - **（中文）**[Steam上的魔女的夜宴](https://store.steampowered.com/app/2458530/)
 - **（英文）**[Steam上的Sabbat of the Witch](https://store.steampowered.com/app/888790/Sabbat_of_the_Witch/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GvNUX)
 2. [TouchGAL](https://www.touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/9nqSb)

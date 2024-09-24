@@ -58,7 +58,7 @@ updated: 2024-07-16 17:38:00
 
 不亲近的兄妹能不能建立爱恋关系呢？
 
-## 游戏画面
+## 图片
 
 ![virgin-siblings_p1](https://unpkg.com/galgame/img/virgin-siblings_p1.webp)
 
@@ -68,15 +68,15 @@ updated: 2024-07-16 17:38:00
 
 ![virgin-siblings_p4](https://unpkg.com/galgame/img/virgin-siblings_p4.webp)
 
-## 外部链接
+## 链接
 
 - [DLsite页面](https://www.dlsite.com/maniax/work/=/product_id/RJ393720.html)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.me/) & `Windows` + `KRKR`：[点击下载](https://pan.touchgal.net/s/1PbVIX)
 2. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%5B%E6%B1%89%E5%8C%96%5D%E7%AB%A5%E8%B4%9E%E5%85%84%E5%A6%B9%E5%85%A8DLC.7z)，密码：`烟郁频道`、`lumouweinb`

@@ -54,7 +54,7 @@ updated: 2024-06-09 01:33:00
 - 镜子线－夕摩在自己的屋间里默许镜子的邀请，跟她发生性关系，这一过程正好被夕莉看见。而夕摩则向夕莉谎称自己因被下药才会跟镜子发生关系。夕莉在此之后对别人不再亲近，对夕摩的感情也变得更极端，不让任何人接近夕摩。夕摩则因喜欢这种快感而跟老师咲和镜子一起发生关系。
 - 一花线－夕摩跟一花在瞒着夕莉的情况下成为并非恋人，但有肉体关系的状态（一花单恋，夕摩把她当成玩具看待）。夕莉及后发现他们的这段关系，并因此发怒。夕摩为此而逃跑，跑进车站，夕莉及后赶到。夕摩此时认为夕莉对自己的爱跟母亲对自己的支配欲一样，继下意识地把她推开，不过却错手把她推下站台，令夕莉被铁路列车辗过死亡。他对此感到一丝释然，并回家杀掉父亲。让一花跟自己继续在一起。
 
-## 画面
+## 图片
 
 ![biman4_p1](https://unpkg.com/galgame/img/biman4_p1.webp)
 
@@ -82,7 +82,7 @@ updated: 2024-06-09 01:33:00
 
 制作团队在制作初期便决定以翻奏[古典音乐](https://zh.wikipedia.org/wiki/古典音樂)的方式为《罪与罚的少女》配上[背景音乐](https://zh.wikipedia.org/wiki/背景音乐)。不过他们亦选择为部分段落配上原创背景音乐。他们在考虑到了预算的情况下，最后决定由第三方制作商为整个系列制作背景音乐。
 
-## 外部链接
+## 链接
 
 - **（日文）**[ωstar官网](http://www.favo-soft.jp/omega-star/)、[备用链接](http://www.omega-star.jp)
 - **（日文）**[官方支持信息与补丁下载页](http://www.favo-soft.jp/omega-star/support.html)、[备用链接](http://www.omega-star.jp/support.html)
@@ -101,11 +101,11 @@ updated: 2024-06-09 01:33:00
 - **（日文）**[PlusWeb(旧版宣传页，需要flash)](http://www.plus01.jp/htdocs/biman/bisyo.html)
 - **（简体中文）**[特别篇中文官网](https://bishojomangekyo.com/ibun/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/jY5U9)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/L2BtZ)

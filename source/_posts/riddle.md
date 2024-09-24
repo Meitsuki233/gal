@@ -37,7 +37,7 @@ updated: 2024-07-22 02:05:00
 
 正当晓以为逃过了被怀疑的风险的时候，发生了绫濑差点被绑架的事件，为了阻止绑架，他不幸被绫濑撞破了自己的特工身份，但也同时知道了绫濑的一个大秘密：她是一个通过垫胸使自己变成完美的巨乳美少女的人。在双方都不想自己的秘密被公之于众的情况下，两人决定达成合作——对外保守对方的秘密。以这个事件为导火索，主角团的命运发生转变，奇妙而有趣的故事开始了。
 
-## 游戏画面
+## 图片
 
 ![riddle_p1](https://unpkg.com/galgame/img/riddle_p1.webp)
 
@@ -80,7 +80,7 @@ updated: 2024-07-22 02:05:00
 - 编剧：あすきぃキューブ、天宮りつ（特别篇）
 - 绘师：こぶいち
 
-## 外部链接与注释
+## 链接与注释
 
 - **（日文）**[游戏公式网站](http://www.yuzu-soft.com/products/riddle/index.html)
 - [游戏官方中文网站](https://hikarifield.co.jp/riddle/)
@@ -91,11 +91,11 @@ updated: 2024-07-22 02:05:00
   - https://mediafactory.jp/Form/Product/ProductDetail.aspx?shop=0&pid=9784040698298
   - https://amzn.to/2N5fUu6
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/x1rSO)，密码：`touchgal`
 2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mlrUx)，密码：`touchgal`

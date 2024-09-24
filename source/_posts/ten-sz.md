@@ -51,7 +51,7 @@ updated: 2024-07-11 02:00:00
 不仅风平浪静的日常一去不复返，连那么重要的东西也说没就没了。
 谷风李空的新生活，竟然就这么开始了……？
 
-## 游戏画面
+## 图片
 
 ![ten-sz_p1](https://unpkg.com/galgame/img/ten-sz_p1.webp)
 
@@ -96,13 +96,13 @@ updated: 2024-07-11 02:00:00
 - [中文版官方网站](https://hikarifield.co.jp/tenshisouzou/)
 - [Angelic☆Chaos RE-BOOT!](https://web.archive.org/web/20240108071430/https://store.steampowered.com/app/2674700/AngelicChaos_REBOOT/). Steam. （[原始内容](https://store.steampowered.com/app/2674700/AngelicChaos_REBOOT/)存档于2024-01-08） **（English）**.
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
 1. `KRKR` 如果遇到点击存档按钮闪退的话，请使用右下角三条杠里面的系统菜单进行存档
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Wp3FZ)，密码：`touchgal`
 2. [TouchGAL](https://www.touchgal.com/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/BXZiw)，密码：`touchgal`

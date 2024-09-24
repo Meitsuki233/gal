@@ -44,7 +44,7 @@ updated: 2024-08-27 15:00:00
 现在，响应许多人的期待，『TinyDungeon』之后的舞台即将拉开帷幕。
 打开了勇者之门的少年，将在未来达成什么呢。
 
-## 画面
+## 图片
 
 ![ed_p1](https://unpkg.com/galgame/img/ed_p1.webp)
 
@@ -56,7 +56,7 @@ updated: 2024-08-27 15:00:00
 
 ![ed_p5](https://unpkg.com/galgame/img/ed_p5.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[官方网站 - 系列作品页](https://web.archive.org/web/20170428225022/https://www.rosebleu.jp/product/TinyDungeon/). （[原始内容](https://www.rosebleu.jp/product/TinyDungeon/)存档于2017-04-28）.
 - **（日文）**[官方网站 - BLACK and WHITE](https://web.archive.org/web/20170529193923/https://www.rosebleu.jp/product/TinyDungeon/td1/). （[原始内容](https://www.rosebleu.jp/product/TinyDungeon/td1/)存档于2017-05-29）.
@@ -65,11 +65,11 @@ updated: 2024-08-27 15:00:00
 - **（日文）**[官方网站 - BRAVE or SLAVE](https://web.archive.org/web/20170529193549/https://www.rosebleu.jp:80/product/TinyDungeon/td4). （[原始内容](https://www.rosebleu.jp:80/product/TinyDungeon/td4)存档于2017-05-29）.
 - **（日文）**[官方网站 - Endless Dungeon](https://web.archive.org/web/20170529200146/https://www.rosebleu.jp:80/product/ed). （[原始内容](https://www.rosebleu.jp:80/product/ed)存档于2017-05-29）.
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8NgeIg)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=Endless%20Dungeon)，密码：`终点`

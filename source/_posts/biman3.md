@@ -54,7 +54,7 @@ updated: 2024-06-08 19:27:00
 
 在亚璃子线和灯露椎线中，龙之介跟其中一台机器人成了恋人关系，并跟另外一台维持着同居关系。他之后在带同两台机器人出去村子的时候，意外让人得知她们不是人类。神父为此指责她们俩是危害人类的[恶魔](https://zh.wikipedia.org/wiki/惡魔)，并于不知道会杀死人类的情况下，放出在过去战争中曾使用的病毒，令村民死去。亚璃子和灯露椎则因塔内拥有解毒剂而得救，不过村民却来到高塔，以烧掉“恶魔”之名放火。这令龙之介决定冲进火场，救回仍在接受治疗的机器人，自己则因此而被烧伤，需要接受[植皮](https://zh.wikipedia.org/wiki/植皮)。不过他的种植研究同时亦略显成果，于是他便继续跟机器人过活。
 
-## 画面
+## 图片
 
 ![biman3_p1](https://unpkg.com/galgame/img/biman3_p1.webp)
 
@@ -80,7 +80,7 @@ updated: 2024-06-08 19:27:00
 
 他们在设计《神明所创造的少女们》的亚璃子和灯露椎时，会以视觉效果的优劣来决定两个角色的发色等细节。他们参考了畅销美少女游戏的人设，来设计亚璃子这名角色。由于亚璃子的发色为金色，故在考虑视觉效果的情况下，灯露椎的发色则为与之有着明显对比的黑色。
 
-## 外部链接
+## 链接
 
 - **（日文）**[ωstar官网](http://www.favo-soft.jp/omega-star/)、[备用链接](http://www.omega-star.jp)
 - **（日文）**[官方支持信息与补丁下载页](http://www.favo-soft.jp/omega-star/support.html)、[备用链接](http://www.omega-star.jp/support.html)
@@ -99,11 +99,11 @@ updated: 2024-06-08 19:27:00
 - **（日文）**[PlusWeb(旧版宣传页，需要flash)](http://www.plus01.jp/htdocs/biman/bisyo.html)
 - **（简体中文）**[特别篇中文官网](https://bishojomangekyo.com/ibun/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JLrCa)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/rADfy)

@@ -6,7 +6,7 @@ categories:
 sticky: 10
 comments: false
 date: 2024-04-04 19:40:00
-updated: 2024-09-17 00:00:00
+updated: 2024-09-25 00:00:00
 ---
 
 ![Moe-Counter](https://count.getloli.com/get/@Moe-Counter?theme=rule34)
@@ -16,11 +16,11 @@ updated: 2024-09-17 00:00:00
 1. 本站将从 **2024年 06 月 04 日** 起进入长间隔不定时更新资源索引，届时将只保证本站基本正常运行，站长跟生活对线去了..
 2. 如果有能力请去作品官网支持正版！请不要过度宣扬盗版！
 3. 如遇下载问题请施展 `魔法` 再重试，如还是不行请使用 `高阶魔法`，如还还还是不行，那就换条 `下载分流` 再尝试..
-4. 请善用站内搜索功能，需加载完搜索才会有结果，页面查找在文章内使用效果更佳
+4. 请善用站内搜索 <kbd>Ctrl</kbd> + <kbd>K</kbd> 功能，需加载完搜索才会有结果，页面查找 <kbd>Ctrl</kbd> + <kbd>F</kbd> 在文章内使用效果更佳
 5. 请不要用网盘的在线解压功能，在线解压会封文件。这样会导致文件被封，对你也没好处！！
 6. 汉化补丁有概率被 `Windows` 自带的病毒查杀功能隔离，要手动允许存在
 7. 想玩 `Windows` 的 `Android` 可以用模拟电脑环境的模拟器 [Mobox](https://github.com/olegos2/mobox/blob/main/README-zh_CN.md)、[Winlator](https://winlator.org/)、[JoiPlay](https://joiplay.org/)
-8. 想玩 `PSP` 的 `Windows`、`Android`、`iOS`、`macOS` 可以用模拟 `PSP` 环境的模拟器 [PPSSPP](https://www.ppsspp.org/)
+8. 想玩 `PSP` 的 `Windows`、`macOS`、`Linux`、`Android`、`iOS` 可以用模拟 `PSP` 环境的模拟器 [PPSSPP](https://www.ppsspp.org/)
 9. 请不要使用国产浏览器，推荐使用 [Chrome](https://www.google.com/intl/zh-CN/chrome/)、[Firefox](https://www.mozilla.org/zh-CN/firefox/)，免得被拦截。
 10. 如遇问题，请自行使用相关关键词 [百度](https://www.baidu.com/)、[必应](https://www.bing.com/)、[谷歌](https://www.google.com/) 搜索解决。
 11. `Windows` 请用 [7-Zip](https://sparanoid.com/lab/7z/) 或 [Bandizip](https://www.bandisoft.com/bandizip/)、[WinRAR](https://www.win-rar.com/) 等专业解压缩工具解压资源，不然极有可能导致解压失败。
@@ -39,15 +39,9 @@ updated: 2024-09-17 00:00:00
 干活时间随心不固定，想什么时候开始干活都可以~
 有意愿可通过 [关于本站](/about/) 或 **侧边栏 > 站点概览 > 头像下方 > 社交图标** 里留下的通讯方式与我们联系！
 
-- **站长**
-  要求：成为站长傀儡，要有多年的假扮伪装演戏经验，面向外人时需自称本站所有权是你的，在必要时，真站长会配合着演
-  已招：暂无
 - **写手**
-  要求：会寻找资源链接、图片、描述文本与写 `Markdown` 文档等，写作格式参考本站已有文章的大概格式..
+  要求：掌握高阶魔法的使用，会寻找资源写 `Markdown` 或 `Word` 文档等，写作格式参考本站已有文章的大概格式..
   已招：`Asuna`、`秋生GE`、`WTY`、`searvee`、`OT63`
-- **客服**
-  要求：懂得大部分日常的上网技巧，言行举止较为礼貌，被漫文化浸泡多年的老油条
-  已招：`Asuna`、`OT63`
 - **测试**
   要求：下载资源运行，检查是生肉或熟肉，汉化组名，版本，以及有无 `BUG` 出现等..
   已招：`Asuna`

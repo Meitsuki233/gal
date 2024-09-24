@@ -47,7 +47,7 @@ updated: 2024-04-30 00:09:00
 虽然被突然拜托这件事情而有些烦恼的幸人，但却因为在至今只顾埋头研究的人生中，好不容易有一次接触女性的机会而感觉到了放心。
 但是，全部都只不过是幻想而已……
 
-## 画面
+## 图片
 
 ![kaikyou_p1](https://unpkg.com/galgame/img/kaikyou_p1.webp)
 
@@ -55,15 +55,15 @@ updated: 2024-04-30 00:09:00
 
 ![kaikyou_p3](https://unpkg.com/galgame/img/kaikyou_p3.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[官网](https://www.noukano.com/kaikyou/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/2581)
 2. [稻荷ACG](https://sakustar.moe/) & `ONS`：[点击下载](https://sakustar.top/art/2804)

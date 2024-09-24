@@ -78,7 +78,7 @@ updated: 2024-04-06 18:17:00
 
 该作人物立绘可爱，CG华美~~，不愧是出道即巅峰的桐叶老师出道作~~，剧情构思巧妙且叙述技巧高超，悬念伏笔设置恰当且引人入胜。然而，因为剧情部分悲剧色彩浓厚，本作得到了相当两极分化的评价~~所谓“纸上的魔法屎”~~。即便没有NTR、猎奇、重口等~~大家喜闻乐见的情节~~，也请对悲剧容忍程度不高的玩家谨慎涉足。
 
-## 游戏画面
+## 图片
 
 ![kamimaho_p1](https://unpkg.com/galgame/img/kamimaho_p1.webp)
 
@@ -90,15 +90,15 @@ updated: 2024-04-06 18:17:00
 
 ![kamimaho_p5](https://unpkg.com/galgame/img/kamimaho_p5.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[游戏官网](http://kagura.rdy.jp/kamimaho/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/v90fW)，密码：touchgal
 2. [TouchGAL](https://www.touchgal.com/) & `KRKR` 下载分流：[点击下载](https://pan.touchgal.net/s/ejXFx)，密码：touchgal

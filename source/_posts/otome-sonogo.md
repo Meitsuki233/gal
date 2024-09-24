@@ -34,7 +34,7 @@ updated: 2024-05-05 02:37:30
 
 需要游玩过《近月少女的礼仪》和《少女理论及其周边》。
 
-## 画面
+## 图片
 
 ![otome-sonogo_p1](https://unpkg.com/galgame/img/otome-sonogo_p1.webp)
 
@@ -42,7 +42,7 @@ updated: 2024-05-05 02:37:30
 
 ![otome-sonogo_p3](https://unpkg.com/galgame/img/otome-sonogo_p3.webp)
 
-## 外部链接
+## 链接
 
 - [少女理论及其周边 官方网站](https://project-navel.com/otomeriron/)**（日文）**
 - [少女理论及其之后的周边 官方网站](https://project-navel.com/otome_sonogo/)**（日文）**
@@ -50,11 +50,11 @@ updated: 2024-05-05 02:37:30
 - [少女理论及其周边 官方中文网站](https://hikarifield.co.jp/otomeriron/)
 - [Steam上的少女理论以及周边 -École de Paris-](https://store.steampowered.com/app/2567190/_cole_de_Paris/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/269)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E5%B0%91%E5%A5%B3%E7%90%86%E8%AE%BA%E5%8F%8A%E5%85%B6%E4%B9%8B%E5%90%8E%E7%9A%84%E5%91%A8%E8%BE%B9)，密码：`终点`

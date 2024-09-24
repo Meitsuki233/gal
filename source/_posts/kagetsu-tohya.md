@@ -37,7 +37,7 @@ updated: 2024-07-31 01:19:20
 
 除此之外，它还包括用户提交的内容、客座插画家的插图以及包括用户提交的短篇故事。采用剧本的人中有[一位后来成为职业选手的健作](https://ja.wikipedia.org/wiki/健速)。健硕发布的剧本是《水无月》，后来他在自己的主页上发布了完整版《水无月完整版》和新作《水无月天章Oborozukiyo》，可供下载（目前为主页。）已被重新定位并删除）。
 
-## 画面
+## 图片
 
 ![kagetsu-tohya_p1](https://unpkg.com/galgame/img/kagetsu-tohya_p1.webp)
 
@@ -51,7 +51,7 @@ updated: 2024-07-31 01:19:20
 
 ![kagetsu-tohya_p6](https://unpkg.com/galgame/img/kagetsu-tohya_p6.webp)
 
-## 外部链接
+## 链接
 
 - [TYPE-MOON同人时期网站（已停止更新）](http://www.typemoon.org/) （[页面存档备份](https://web.archive.org/web/20100304150149/http://www.typemoon.org/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [TYPE-MOON官方网站](http://www.typemoon.com/) （[页面存档备份](https://web.archive.org/web/20061121165221/http://www.typemoon.com/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
@@ -61,11 +61,11 @@ updated: 2024-07-31 01:19:20
 - [重制版官方网站](http://typemoon.com/products/tsukihime/) （[页面存档备份](https://web.archive.org/web/20211121095655/http://typemoon.com/products/tsukihime/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [歌月十夜 - 月箱](http://www.typemoon.org/box/dream.html)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7qL9cX)
 2. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%9C%88%E5%A7%AC%20%E6%AD%8C%E6%9C%88%E5%8D%81%E5%A4%9C.7z)

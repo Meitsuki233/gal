@@ -47,7 +47,7 @@ updated: 2024-06-08 03:32:00
 
 滋比古在被雾枝不断榨精的情况下，变得愈来愈虚弱。使得他在校内无心教书，终被开除。他及后亦因为恍神而在马路被车撞到，送到医院治疗。他在手术室化为[灵魂](https://zh.wikipedia.org/wiki/靈魂)后，要求能看到他的雾枝吸光他的血。雾枝则反过来咬伤自己的嘴唇，以[亲吻](https://zh.wikipedia.org/wiki/親吻)的方式让滋比古吸下自己的血，使之变成吸血鬼，并在过程中表达对他的爱意。在此之后，雾枝亦继续教导他有关吸血鬼的事。
 
-## 画面
+## 图片
 
 ![biman_p1](https://unpkg.com/galgame/img/biman_p1.webp)
 
@@ -71,7 +71,7 @@ updated: 2024-06-08 03:32:00
 
 八宝备曾考虑过把雾枝画成[巨乳](https://zh.wikipedia.org/wiki/巨乳)的样子，但他认为与乳房相比，角色的可爱度才是畅销与否的重点，故在设计雾枝的[乳房](https://zh.wikipedia.org/wiki/乳房)大小时亦以此一方向思考，最终把她画成[贫乳](https://zh.wikipedia.org/wiki/貧乳)。他在绘制雾枝的色情场景时，则会注重以她整个身体来表达色情感。
 
-## 外部链接
+## 链接
 
 - **（日文）**[ωstar官网](http://www.favo-soft.jp/omega-star/)、[备用链接](http://www.omega-star.jp)
 - **（日文）**[官方支持信息与补丁下载页](http://www.favo-soft.jp/omega-star/support.html)、[备用链接](http://www.omega-star.jp/support.html)
@@ -90,11 +90,11 @@ updated: 2024-06-08 03:32:00
 - **（日文）**[PlusWeb(旧版宣传页，需要flash)](http://www.plus01.jp/htdocs/biman/bisyo.html)
 - **（简体中文）**[特别篇中文官网](https://bishojomangekyo.com/ibun/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/JD3Ca)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/5aOHE)

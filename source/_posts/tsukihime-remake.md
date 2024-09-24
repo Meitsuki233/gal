@@ -44,7 +44,7 @@ updated: 2024-07-31 01:45:00
 
 近期的总耶并不太平，把被害者的血抽干的“近代吸血鬼杀人事件”在暗巷里时刻发生着。还没适应新家生活的志贵，在无法控制自己的情况下用魔眼将一个金发白衣的女人杀害并碎尸十七块，可第二天那人却毫发无伤地出现在志贵的面前……
 
-## 画面
+## 图片
 
 ![tsukihime-remake_p1](https://unpkg.com/galgame/img/tsukihime-remake_p1.webp)
 
@@ -60,7 +60,7 @@ updated: 2024-07-31 01:45:00
 
 ![tsukihime-remake_p7](https://unpkg.com/galgame/img/tsukihime-remake_p7.webp)
 
-## 外部链接
+## 链接
 
 - [TYPE-MOON同人时期网站（已停止更新）](http://www.typemoon.org/) （[页面存档备份](https://web.archive.org/web/20100304150149/http://www.typemoon.org/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [TYPE-MOON官方网站](http://www.typemoon.com/) （[页面存档备份](https://web.archive.org/web/20061121165221/http://www.typemoon.com/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
@@ -69,11 +69,11 @@ updated: 2024-07-31 01:45:00
 - [真月谭 月姬（J.C.STAFF）](http://www.jcstaff.co.jp/sho-sai/tsuki-shokai/tsuki-index.htm) （[页面存档备份](https://web.archive.org/web/20160227151939/http://www.jcstaff.co.jp/sho-sai/tsuki-shokai/tsuki-index.htm)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [重制版官方网站](http://typemoon.com/products/tsukihime/) （[页面存档备份](https://web.archive.org/web/20211121095655/http://typemoon.com/products/tsukihime/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/DprwSx)，密码：`tsukihime3`
 2. [稻荷ACG](https://sakustar.me/) & `Windows`：[点击下载](https://sakustar.me/art/8298)

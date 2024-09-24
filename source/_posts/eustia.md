@@ -68,7 +68,7 @@ updated: 2024-04-19 23:51:00
 
 重建的牢狱成为大崩落后的都市最下层，神秘的羽化病蔓延其中，症状是背上会长出翅膀，由于无法确认羽化病是否会传染与产生危害，王室派出特殊部队“羽狩”捕捉羽化病人进行疗养院治疗与研究。然而，这些被抓走的羽化病人再也不会出现，因为他们没有一个能从疗养院中出来...
 
-## 游戏画面
+## 图片
 
 ![eustia_p1](https://unpkg.com/galgame/img/eustia_p1.webp)
 
@@ -80,17 +80,17 @@ updated: 2024-04-19 23:51:00
 
 《秽翼的尤斯蒂娅》在日本美少女游戏与动画相关商品销售网站Getchu.com的2011年上半年销量榜上排名第一名；2011年4月排名第1；2011年全年排名第一名。[ファミ通](https://zh.wikipedia.org/wiki/ファミ通)1333号的クロスレビュー给PSV版评分为29/40。
 
-## 外部链接
+## 链接
 
 - [秽翼のユースティア](http://august-soft.com/eustia/index.html) （[页面存档备份](https://web.archive.org/web/20200511073520/http://august-soft.com/eustia/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）AUGUST**（日语）**
 - [秽翼のユースティア Angel's blessing](http://dramaticcreate.com/eustia/) （[页面存档备份](https://web.archive.org/web/20200918050028/http://dramaticcreate.com/eustia/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）dramatic create**（日语）**
 - [秽翼のユースティア](http://www.entergram.co.jp/eustia/index.html) （[页面存档备份](https://web.archive.org/web/20220622130809/http://www.entergram.co.jp/eustia/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）Entergram**（日语）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/366)
 2. [稻荷ACG](https://sakustar.moe/) & `Tyranor`：[点击下载](https://sakustar.top/art/6025)

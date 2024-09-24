@@ -58,13 +58,13 @@ updated: 2024-05-11 02:31:30
 
 稀松平常的日子，开始随着与少女们相逢变得五彩缤纷。
 
-## 画面
+## 图片
 
 ![mashiro_p1](https://unpkg.com/galgame/img/mashiro_p1.webp)
 
 ![mashiro_p2](https://unpkg.com/galgame/img/mashiro_p2.webp)
 
-## 外部链接
+## 链接
 
 - [PC游戏官方网站](http://www.clearrave.co.jp/product/mashiro/index.html) （[页面存档备份](https://web.archive.org/web/20140911221022/http://www.clearrave.co.jp/product/mashiro/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)） **（日语）**
 - [PSP游戏官方网站](http://www.comfort-soft.jp/products/mashiro/#top) （[页面存档备份](https://web.archive.org/web/20210105070118/http://www.comfort-soft.jp/products/mashiro/#top)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)） **（日语）**
@@ -76,11 +76,11 @@ updated: 2024-05-11 02:31:30
 - [Steam上的纯白交响曲 -Love is pure white- HD Remake](https://store.steampowered.com/app/2737970/_Love_is_pure_white_HD_Remake/)
 - [Steam上的纯白交响曲 SANA EDITION](https://store.steampowered.com/app/2737980/_SANA_EDITION/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 ### 通常版
 

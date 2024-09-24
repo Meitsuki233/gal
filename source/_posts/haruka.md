@@ -60,7 +60,7 @@ updated: 2024-09-17 21:26:00
 - [乃木坂初佳](https://zh.moegirl.org.cn/乃木坂初佳)：[远野梵](https://zh.moegirl.org.cn/远野梵)
 - [中里亮平](https://zh.moegirl.org.cn/中里亮平)：[后野祭](https://zh.moegirl.org.cn/index.php?title=后野祭&action=edit&redlink=1)
 
-## 游戏画面
+## 图片
 
 ![haruka_p1](https://unpkg.com/galgame/img/haruka_p1.webp)
 
@@ -74,15 +74,15 @@ updated: 2024-09-17 21:26:00
 
 ![haruka_p6](https://unpkg.com/galgame/img/haruka_p6.webp)
 
-## 外部链接
+## 链接
 
 - [悠之空官方网站](https://www.cuffs.co.jp/products/haruka/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8XXig)，密码：`touchgal`
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/7qcw)

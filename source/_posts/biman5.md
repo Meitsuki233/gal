@@ -52,7 +52,7 @@ updated: 2024-06-09 01:58:30
 - 香恋线－深见跟编辑月丘香恋成为了恋人。莲华则有时因此而感到寂寞。他亦不时跟月丘一起调查怪奇事件。而莲华则在消除皇对事件的推理相关记忆后，自行对抗妖狐，并取得胜利。接着深见一行人则认为这只是普通的都市传说，选择回到东京，不再调查。
 - 萌世歌线－深见在步入萌世歌的神社的过程中，回忆起前世的事。想起自己曾在前世跟妖狐相恋，不过却对萌世歌自称自己就是妖狐一事有所怀疑。萌世歌在与深见性交后，便以永远在一起为由发动力量，令深见死去。
 
-## 画面
+## 图片
 
 ![biman5_p1](https://unpkg.com/galgame/img/biman5_p1.webp)
 
@@ -80,7 +80,7 @@ updated: 2024-06-09 01:58:30
 
 八宝备在绘制色情场景的原画时，会以把自己的[性幻想](https://zh.wikipedia.org/wiki/性幻想)直接传达给玩家的心态去制作，不过因此也增加了其他制作人员的负担。而他在绘制莲华的色情场景时，会侧重于以全身来表达色情感。不过他也发现很难把少女体形的莲华画好。
 
-## 外部链接
+## 链接
 
 - **（日文）**[ωstar官网](http://www.favo-soft.jp/omega-star/)、[备用链接](http://www.omega-star.jp)
 - **（日文）**[官方支持信息与补丁下载页](http://www.favo-soft.jp/omega-star/support.html)、[备用链接](http://www.omega-star.jp/support.html)
@@ -99,11 +99,11 @@ updated: 2024-06-09 01:58:30
 - **（日文）**[PlusWeb(旧版宣传页，需要flash)](http://www.plus01.jp/htdocs/biman/bisyo.html)
 - **（简体中文）**[特别篇中文官网](https://bishojomangekyo.com/ibun/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/1wVIX)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/xg5HO)

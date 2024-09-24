@@ -48,7 +48,7 @@ updated: 2024-06-08 03:57:00
 
 在两条雫线中，彰人都被甲儿告知雫已经死了，但区别在于之前有没跟惠发生性关系。他及后在只记起一些记忆的情况下，误认为是自己杀害了雫，并打算[自杀](https://zh.wikipedia.org/wiki/自殺)。雫则在此时岀现，让之回忆起在现实拿刀自尽一事，并向他说明这个世界是由他的内心所创，于是幻想世界亦随之崩溃。雫在之后出现的纯白空间继续说明这个幻想世界的事，并在跟彰人表示“接下来，我们会永远在一起”后，与之一起消失。雫线1以昏迷了2年的彰人在医院醒来，然后经过一轮康复后，再次跟雫、甲儿、惠三人一起度过时光为结。雫线2以甲儿和惠为一起在湖里死去的雫和彰人扫墓为结。
 
-## 画面
+## 图片
 
 ![biman2_p1](https://unpkg.com/galgame/img/biman2_p1.webp)
 
@@ -68,7 +68,7 @@ updated: 2024-06-08 03:57:00
 
 他们在设计女主角雫时考虑到了玩家的喜好，把她设定成“没什么地方让人厌恶”的优等生，并让她整个人就像“人造物”般。因为这部作品聚焦于彰人的行动，故此八宝备认为雫本身并不突出。八宝备表示，此作比前作加入更多配角的原因也在于彰人——由于此作把彰人设为“有问题者”，所以需以更多配角“支撑[剧情]”。
 
-## 外部链接
+## 链接
 
 - **（日文）**[ωstar官网](http://www.favo-soft.jp/omega-star/)、[备用链接](http://www.omega-star.jp)
 - **（日文）**[官方支持信息与补丁下载页](http://www.favo-soft.jp/omega-star/support.html)、[备用链接](http://www.omega-star.jp/support.html)
@@ -87,11 +87,11 @@ updated: 2024-06-08 03:57:00
 - **（日文）**[PlusWeb(旧版宣传页，需要flash)](http://www.plus01.jp/htdocs/biman/bisyo.html)
 - **（简体中文）**[特别篇中文官网](https://bishojomangekyo.com/ibun/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/2Jktg)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/7lxCX)

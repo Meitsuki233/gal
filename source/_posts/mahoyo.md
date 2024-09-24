@@ -42,7 +42,7 @@ author: searvee
 
 1980年代后半，正是繁华与活力的时代的末期。在地方都市三咲町，有传言说“在坡道上的房子里，住着两个魔女”。从乡村来到三咲町的少年静希草十郎，与转入学校的学生会长苍崎青子，以及孤高的美少女久远寺有珠相遇了。实际上，这两人正是坡道上的房子里住着的魔女。由于一系列的事件，完全没有共同点的三人在久远寺宅邸中开始了共同生活。
 
-## 画面
+## 图片
 
 ![mahoyo_p1](https://unpkg.com/galgame/img/mahoyo_p1.webp)
 
@@ -99,7 +99,7 @@ author: searvee
 - 总监督：奈须蘑菇
 - 制作：[TYPE-MOON](https://zh.wikipedia.org/wiki/TYPE-MOON)
 
-## 外部链接
+## 链接
 
 - [TYPE-MOON 官方网站](https://web.archive.org/web/20101224122156/http://typemoon.com/index.html) **（日语）**
 - [《魔法使之夜》项目页](http://www.typemoon.com/products/mahoyo/index.html) （[页面存档备份](https://web.archive.org/web/20210501132545/http://www.typemoon.com/products/mahoyo/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)） **（日语）**
@@ -108,11 +108,11 @@ author: searvee
 - **（日文）**[PC版公式网站](http://typemoon.com/products/mahoyo/windows/)
 - [Steam上的魔法使之夜](https://store.steampowered.com/app/2052410/_/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 ### 通常版
 

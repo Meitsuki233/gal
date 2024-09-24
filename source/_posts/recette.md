@@ -61,7 +61,7 @@ author: WTY
 - 正式版/DL版于2017年2月24日发售
 - STEAM版于2023年7月28日发售
 
-## 游戏画面
+## 图片
 
 ![recette_p1](https://unpkg.com/galgame/img/recette_p1.webp)
 
@@ -77,17 +77,17 @@ author: WTY
 - 于2017年[萌系游戏大赏](https://zh.moegirl.org.cn/萌系游戏大赏)年排名中获第8名。
 - 于Getchu[美少女游戏大赏](https://zh.moegirl.org.cn/美少女游戏大赏)中发布的年销量排名第33名。
 
-## 外部链接
+## 链接
 
 - [官方网站](http://recette.clearrave.co.jp/index.html)**（日文）**
 - [官方推特](https://twitter.com/info_recette)**（日文）**
 - [Steam上的Sugar Sweet Temptation](https://store.steampowered.com/app/2374590/Sugar_Sweet_Temptation/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Zl9Sa)，密码：`touchgal`
 2. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/5wjIE)，密码：`touchgal`

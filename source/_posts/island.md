@@ -46,7 +46,7 @@ updated: 2024-05-25 03:14:00
 此时，一位青年漂流到这座岛上。
 主张自己是来自未来的这名青年，为了改变岛的未来，开始了独自一人的奋斗……。
 
-## 画面
+## 图片
 
 ![island_p1](https://unpkg.com/galgame/img/island_p1.webp)
 
@@ -54,7 +54,7 @@ updated: 2024-05-25 03:14:00
 
 ![island_p3](https://unpkg.com/galgame/img/island_p3.webp)
 
-## 外部链接
+## 链接
 
 - [PC版游戏官网](http://never-island.com/game/)（[页面存档备份](https://web.archive.org/web/20180422210100/http://never-island.com/game/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [PSVita版本游戏官网](http://www.prot.co.jp/psv/island/index.html)（[页面存档备份](https://web.archive.org/web/20180514072224/http://www.prot.co.jp/psv/island/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
@@ -63,11 +63,11 @@ updated: 2024-05-25 03:14:00
 - [电视动画“ISLAND”的X（前Twitter）帐户](https://twitter.com/island_fw)**（日语）**
 - [电视动画“ISLAND”的新浪微博](https://weibo.com/islandanime)**（中文）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/wmHv)，密码：`touchgal`
 2. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/X9KSe)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压

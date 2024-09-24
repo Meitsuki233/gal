@@ -75,7 +75,7 @@ updated: 2024-03-30 02:52:00
 - 声音：全部声音（无男主角声音）
 - 备注：游戏已经汉化
 
-## 游戏画面
+## 图片
 
 ![prilover_p1](https://unpkg.com/galgame/img/prilover_p1.webp)
 
@@ -83,17 +83,17 @@ updated: 2024-03-30 02:52:00
 
 ![prilover_p3](https://unpkg.com/galgame/img/prilover_p3.webp)
 
-## 外部链接
+## 链接
 
 - [PC游戏官网](http://www.ricotta-soft.jp/products/prilover/index.html)
 - [PS2游戏官网](http://comfort-soft.jp/products/prilover/index.html)
 - [动画官网](http://www.prilover.tv/top.html)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/RxLvC7)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS` 下载分流：[点击下载](https://pan.touchgal.net/s/2VWtg)

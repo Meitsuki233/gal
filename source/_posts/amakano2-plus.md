@@ -43,7 +43,7 @@ updated: 2024-09-04 09:20:00
 与新的邂逅一同，每个人各自的恋爱模样，在夏日的闪耀之中茁壮成长着。
 不久这些想法，就会成为恋人们踏出第一步的原动力，指引他们前往婚姻这一更加美好的未来。
 
-## 画面
+## 图片
 
 ![amakano2-plus_p1](https://unpkg.com/galgame/img/amakano2-plus_p1.webp)
 
@@ -55,7 +55,7 @@ updated: 2024-09-04 09:20:00
 
 ![amakano2-plus_p5](https://unpkg.com/galgame/img/amakano2-plus_p5.webp)
 
-## 外部链接
+## 链接
 
 - [アマカノ官网](http://azarashi-soft.nexton-net.jp/amakano/) （[页面存档备份](https://web.archive.org/web/20201101063525/http://azarashi-soft.nexton-net.jp/amakano/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [アマカノ~Second Season~官网](https://azarashi-soft.nexton-net.jp/amakano-ss/) （[页面存档备份](https://web.archive.org/web/20201101063525/https://azarashi-soft.nexton-net.jp/amakano-ss/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
@@ -64,11 +64,11 @@ updated: 2024-09-04 09:20:00
 - [アマカノ2官网](http://azarashi-soft.nexton-net.jp/amakano2/) （[页面存档备份](https://web.archive.org/web/20220101063525/http://azarashi-soft.nexton-net.jp/amakano2/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [アマカノ2+官网](http://azarashi-soft.nexton-net.jp/amakano2-plus//) （[页面存档备份](https://web.archive.org/web/20230401140327/http://azarashi-soft.nexton-net.jp/amakano2-plus//)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/dxVytb)
 2. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/288.html)，密码：`绮梦`

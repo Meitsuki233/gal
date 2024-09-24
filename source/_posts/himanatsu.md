@@ -49,7 +49,7 @@ updated: 2024-03-04 03:15:00
 以怀念过去的海边的教会为舞台的，
 明亮、清爽，而又令人难过的，一个夏天的故事——。
 
-## 游戏画面
+## 图片
 
 ![himanatsu_p1](https://unpkg.com/galgame/img/himanatsu_p1.webp)
 
@@ -71,11 +71,11 @@ updated: 2024-03-04 03:15:00
 在[美少女游戏大赏2013](https://www.getchu.com/pc/2013_g_ranking/)中获音乐部门第7名。
 在[萌系游戏大赏2013](https://moe-gameaward.com/prize/2013/index.html)中获BGM赏金赏。
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 [稻荷ACG](https://sakustar.moe/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=3276&index=0&i=0)
 

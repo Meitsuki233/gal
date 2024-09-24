@@ -44,7 +44,7 @@ updated: 2024-09-15 21:20:00
 一太郎理所当然一般度过着与九重心在一起的每一天，
 但很快……。
 
-## 画面
+## 图片
 
 ![kokoro_p1](https://unpkg.com/galgame/img/kokoro_p1.webp)
 
@@ -54,16 +54,16 @@ updated: 2024-09-15 21:20:00
 
 ![kokoro_p4](https://unpkg.com/galgame/img/kokoro_p4.webp)
 
-## 外部链接
+## 链接
 
 - [游戏官网](http://nostalgia2010.com/kokoro.html)
 - [vndb](https://vndb.org/v14846)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/3vmi7)
 2. [TouchGAL](https://touchgal.net/) & `ONS`：[点击下载](https://pan.touchgal.net/s/V2psd)

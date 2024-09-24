@@ -122,17 +122,17 @@ https://tmblr.co/ZWIqQi22aQ_0M
 
 ![sylvie_p12](https://unpkg.com/galgame/img/sylvie_p12.webp)
 
-## 外部链接
+## 链接
 
 - DLsite页面：https://www.dlsite.com/maniax/work/=/product_id/RJ162718.html
 - 常见FAQ**（日文）**：https://gamefixandupdate.tumblr.com/post/140197486614
 - 游戏特设页面：https://www.dlsite.com/maniax/promo/dorei
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows` + `Android`：[点击下载](https://pan.touchgal.net/s/oW3RT2)
 2. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://acgs.one/game/96.html)，密码：`acgs`、`绮梦`

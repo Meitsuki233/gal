@@ -56,7 +56,7 @@ updated: 2024-07-29 21:02:30
 看点3：H场景当然也很充实！
 各女主都有至少4个H场景！让你尽情享受浓厚的亲热生活。（doge
 
-## 游戏画面
+## 图片
 
 ![totsu_p1](https://unpkg.com/galgame/img/totsu_p1.webp)
 
@@ -83,18 +83,18 @@ updated: 2024-07-29 21:02:30
 - [神田柑凪](https://mzh.moegirl.org.cn/神田柑凪)：[七種結花](https://mzh.moegirl.org.cn/七种结花)
 - [饭田伊伊奈](https://mzh.moegirl.org.cn/饭田伊伊奈)：[飴川紫乃](https://mzh.moegirl.org.cn/饴川紫乃)
 
-## 外部链接
+## 链接
 
 - **（日文）**[游戏官方网站](https://madosoft.net/hamidashi/)
 - **（日文）**[主机版官方网站](https://imel.co.jp/hamidashi/)
 - **（日文）**[FD游戏官方网站](https://madosoft.net/hamidashi_totsu/)
 - [Steam上的常轨脱离Creative](https://store.steampowered.com/app/1604380/Creative/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/yYjAUY)，密码：`touchgal`
 2. [TouchGAL](https://www.touchgal.com/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/N1A8tO)，密码：`touchgal`

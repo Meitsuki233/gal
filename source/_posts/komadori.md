@@ -41,7 +41,7 @@ updated: 2024-09-15 02:25:00
 
 这三人的命运交叉相缠，向着最终的崩盘前去——。
 
-## 画面
+## 图片
 
 ![komadori_p1](https://unpkg.com/galgame/img/komadori_p1.webp)
 
@@ -51,16 +51,16 @@ updated: 2024-09-15 02:25:00
 
 ![komadori_p4](https://unpkg.com/galgame/img/komadori_p4.webp)
 
-## 外部链接
+## 链接
 
 - [游戏官网](https://smilesenki.com/komadori/index.html)
 - [vndb](https://vndb.org/v8436)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8AXfg)
 2. [TouchGAL](https://touchgal.net/) & `ONS`：[点击下载](https://pan.touchgal.net/s/VnGUd)

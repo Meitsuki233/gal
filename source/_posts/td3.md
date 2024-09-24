@@ -37,7 +37,7 @@ updated: 2024-08-27 14:50:00
 “这次工作结束后，我无论如何也一定要去看我的女儿”
 “ゲン”。藉由这个独行赏金猎人的登场，トリニティ开始掀起了巨大的波澜。
 
-## 画面
+## 图片
 
 ![td3_p1](https://unpkg.com/galgame/img/td3_p1.webp)
 
@@ -45,7 +45,7 @@ updated: 2024-08-27 14:50:00
 
 ![td3_p3](https://unpkg.com/galgame/img/td3_p3.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[官方网站 - 系列作品页](https://web.archive.org/web/20170428225022/https://www.rosebleu.jp/product/TinyDungeon/). （[原始内容](https://www.rosebleu.jp/product/TinyDungeon/)存档于2017-04-28）.
 - **（日文）**[官方网站 - BLACK and WHITE](https://web.archive.org/web/20170529193923/https://www.rosebleu.jp/product/TinyDungeon/td1/). （[原始内容](https://www.rosebleu.jp/product/TinyDungeon/td1/)存档于2017-05-29）.
@@ -54,11 +54,11 @@ updated: 2024-08-27 14:50:00
 - **（日文）**[官方网站 - BRAVE or SLAVE](https://web.archive.org/web/20170529193549/https://www.rosebleu.jp:80/product/TinyDungeon/td4). （[原始内容](https://www.rosebleu.jp:80/product/TinyDungeon/td4)存档于2017-05-29）.
 - **（日文）**[官方网站 - Endless Dungeon](https://web.archive.org/web/20170529200146/https://www.rosebleu.jp:80/product/ed). （[原始内容](https://www.rosebleu.jp:80/product/ed)存档于2017-05-29）.
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/b5VPh5)，已打 **V1** 汉化补丁，开始游戏前先点 `字体补丁.bat` 安装字体
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=Tiny%20Dungeon)，密码：`终点`

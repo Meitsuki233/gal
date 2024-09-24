@@ -37,7 +37,7 @@ updated: 2024-02-23 03:16:00
 
 这是一个比现在的科学还要有少许进步的世界。18岁的“水柿司”，是一名高考失败的考生，依靠着双亲的关系才得以进入世界大企业SAI社工作。SAI社是进行拥有感情的人形智能机器人（通称：Giftia）的制造管理的企业，司被分配至其终端服务部门工作。只不过，这个部门进行的是从机器人主人那里，回收即将到达约9年固定使用期限的Giftia的业务，即“窗边部门（不被重视的部门）”罢了。由此，司与有着派不上用场的迷糊属性的打杂Giftia少女“艾拉”成为了搭档，一起开始了工作，他们将要面对的，是各种与「Giftia」离别的故事......
 
-## 游戏画面
+## 图片
 
 ![plastic-memories_p1](https://unpkg.com/galgame/img/plastic-memories_p1.webp)
 
@@ -47,17 +47,17 @@ updated: 2024-02-23 03:16:00
 
 ![plastic-memories_p4](https://unpkg.com/galgame/img/plastic-memories_p4.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[动画官网](https://www.plastic-memories.jp/)
 - **（日文）**[Twitter专页](https://twitter.com/pla_memo/)
 - **（日文）**[游戏官网](http://5pb.jp/games/plastic-memories/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 ### 本站下载
 

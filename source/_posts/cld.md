@@ -62,7 +62,7 @@ Clover Day's是ALcot公司的第14部作品，不仅是做为该公司于PC平�
 
 丰收时节**“幸运草的约定”**就此开始。
 
-## 画面
+## 图片
 
 ![cld_p1](https://unpkg.com/galgame/img/cld_p1.webp)
 
@@ -78,7 +78,7 @@ Clover Day's是ALcot公司的第14部作品，不仅是做为该公司于PC平�
 
 ![cld_p7](https://unpkg.com/galgame/img/cld_p7.webp)
 
-## 外部链接
+## 链接
 
 - [官方网站](http://www.alcot.biz/product/cld/index.html)（[页面存档备份](https://web.archive.org/web/20140526034644/http://www.alcot.biz/product/cld/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [英文版官方网站](http://cloverdays.nekonyansoft.com/)（[页面存档备份](https://web.archive.org/web/20200131042640/http://cloverdays.nekonyansoft.com/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（英文）**
@@ -87,11 +87,11 @@ Clover Day's是ALcot公司的第14部作品，不仅是做为该公司于PC平�
 - 《[Clover Day's](https://vndb.org/v13325)》在[视觉小说数据库](https://zh.wikipedia.org/wiki/視覺小說數據庫)的页面**（英文）**
 - [Steam上的幸运草的约定](https://store.steampowered.com/app/2430690)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 ### 通常版
 

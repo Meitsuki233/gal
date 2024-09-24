@@ -31,7 +31,7 @@ updated: 2024-05-26 03:12:00
 
 当年失去亲人的人们有些回到了‘鹄见市’，以期找到失散的亲人。
 
-## 画面
+## 图片
 
 ![imouto_p1](https://unpkg.com/galgame/img/imouto_p1.webp)
 
@@ -45,15 +45,15 @@ updated: 2024-05-26 03:12:00
 
 《妹之形》在日本美少女游戏与动画相关商品销售网站Getchu.com的2012年销量榜上排名第17名。
 
-## 外部链接
+## 链接
 
 - [イモウトノカタチ](http://www.cuffs-sphere.jp/products/imouto/)（[页面存档备份](https://web.archive.org/web/20120328012825/http://www.cuffs-sphere.jp/products/imouto/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)） 官方网站**（日语）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/d2BTb)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E5%A6%B9%E4%B9%8B%E5%BD%A2)，密码：`终点`

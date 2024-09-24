@@ -39,7 +39,7 @@ updated: 2024-03-17 05:30:00
 
 本以为能一直在一起的三人，却再也不能走到一起，心一会选择谁，美雪亦或是葵？[Galgame](https://zh.moegirl.org.cn/Galgame)，你和她和她的恋情就此展开。
 
-## 游戏画面
+## 图片
 
 ![totono_p1](https://unpkg.com/galgame/img/totono_p1.webp)
 
@@ -49,17 +49,17 @@ updated: 2024-03-17 05:30:00
 
 ![totono_p4](https://unpkg.com/galgame/img/totono_p4.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[游戏官网](http://www.nitroplus.co.jp/game/totono/)
 - **（英文）**[JAST USA 代理英文版](https://jastusa.com/games/np005/you-and-me-and-her:-a-love-story)
 - [Steam 版](https://store.steampowered.com/app/1293820/YOU_and_ME_and_HER_A_Love_Story/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & Windows下载分流：[点击下载](https://sakustar.moe/download?post_id=480&index=0&i=0)
 2. [烟郁Galgame](https://yanyugal.top/) & Android下载分流：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%90%9B%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B8%8E%E5%BD%BC%E5%A5%B3%E4%B9%8B%E6%81%8B.7z)，密码：烟郁频道

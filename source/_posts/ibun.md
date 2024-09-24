@@ -44,7 +44,7 @@ updated: 2024-09-20 11:03:30
 
 莲佛在接下来的日子回到道场，在那即使相当想念白雪，但还是能利用新的技巧战胜一本木。10个月后，他再度前往深山，在那白雪带子与之重逢。并得知他们族人争辩了10个月也没有结果，令白雪顺利产子。结果他们俩便对外公布结婚，并举办婚宴。最后以白雪跟莲佛[洞房](https://zh.wikipedia.org/wiki/圓房)的场景为结。
 
-## 画面
+## 图片
 
 ![ibun_p1](https://unpkg.com/galgame/img/ibun_p1.webp)
 
@@ -72,7 +72,7 @@ updated: 2024-09-20 11:03:30
 
 在本作开售前，《[BugBug](https://zh.wikipedia.org/wiki/BugBug)》便已介绍指其动态色情场景是人们应该关注的地方。同样，《[Megastore](https://zh.wikipedia.org/wiki/Megastore)》亦认为玩家会期待“生动的人物对话和下流的色情场景”。作品于市面上公开后，分别登上了[Getchu屋](https://zh.wikipedia.org/wiki/Getchu屋)及[FANZA Games](https://zh.wikipedia.org/wiki/DMM.com)当月美少女游戏销量排行榜首位及第3位。同时网民开始发现当中包含影射电子游戏《原神》的对话和情节，令之成为他们的关注重点。
 
-## 外部链接
+## 链接
 
 - [中文版官方网站](https://bishojomangekyo.com/ibun/) **（简体中文）**
 - [原版官方网站](http://www.omega-star.jp/ibun/index.html) **（日语）**
@@ -80,11 +80,11 @@ updated: 2024-09-20 11:03:30
 - **（日文）**[ωstar官网](http://www.favo-soft.jp/omega-star/) [备用链接](http://www.omega-star.jp)
 - **（日文）**[官方支持信息与补丁下载页](http://www.favo-soft.jp/omega-star/support.html) [备用链接](http://www.omega-star.jp/support.html)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/1Nj5uX)
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/Nr0Hx)

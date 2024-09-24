@@ -51,7 +51,7 @@ updated: 2024-05-18 23:30:00
 然而，由于满心只想着公主，乌尔蒂娜忽略了一件事。
 他们的餐点正是这个世界的“生命”——
 
-## 画面
+## 图片
 
 ![nknk_p1](https://unpkg.com/galgame/img/nknk_p1.webp)
 
@@ -63,15 +63,15 @@ updated: 2024-05-18 23:30:00
 
 ![nknk_p5](https://unpkg.com/galgame/img/nknk_p5.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[游戏官网](http://bug-system.com/product/05_nknk/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%E6%AD%BB%E9%A6%862)，密码：`lumouweinb`、`烟郁频道`
 2. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://www.touchgal.org/36214.html)

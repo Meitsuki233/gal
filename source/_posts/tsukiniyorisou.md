@@ -44,7 +44,7 @@ updated: 2024-04-16 00:43:00
 
 本作的男~~（女）~~主角[小仓朝日](https://zh.moegirl.org.cn/小仓朝日)（[大藏游星](https://zh.moegirl.org.cn/大藏游星)）为了追逐自己成为服装设计师的梦想，~~伪装了性别~~通过妹妹的介绍来到了樱小路露娜的樱公馆当起了女仆同时进入了菲利亚女子学院。
 
-## 游戏画面
+## 图片
 
 ![tsukiniyorisou_p1](https://unpkg.com/galgame/img/tsukiniyorisou_p1.webp)
 
@@ -60,17 +60,17 @@ updated: 2024-04-16 00:43:00
 
 该作品获得了2013年度萌游戏大奖的最佳作品。~~大家在通关后纷纷患上露娜癌，朝日癌~~
 
-## 外部链接
+## 链接
 
 - [近月少女的礼仪 官方网站](https://project-navel.com/tsukiniyorisou/)**（日文）**
 - [近月少女的礼仪 官方中文网站](https://hikarifield.co.jp/tsukiniyorisou/)
 - [Steam 上的 近月少女的礼仪](https://store.steampowered.com/app/1776970/_/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows` 【官中】：[点击下载](https://alpha.galpan.xyz/PC-2/Navel/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA[%E5%AE%98%E4%B8%AD].rar)
 2. [稻荷ACG](https://sakustar.moe/) & `Windows` 【汉化】：[点击下载](https://alpha.galpan.xyz/PC-2/Navel/%E8%BF%91%E6%9C%88%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A4%BC%E4%BB%AA.7z)

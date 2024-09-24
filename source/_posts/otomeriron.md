@@ -76,7 +76,7 @@ updated: 2024-05-05 02:26:00
 
 游星兄妹究竟能否互相支持着双方的心愿，安然度过学院生活呢？
 
-## 画面
+## 图片
 
 ![otomeriron_p1](https://unpkg.com/galgame/img/otomeriron_p1.webp)
 
@@ -84,7 +84,7 @@ updated: 2024-05-05 02:26:00
 
 ![otomeriron_p3](https://unpkg.com/galgame/img/otomeriron_p3.webp)
 
-## 外部链接
+## 链接
 
 - [少女理论及其周边 官方网站](https://project-navel.com/otomeriron/)**（日文）**
 - [少女理论及其之后的周边 官方网站](https://project-navel.com/otome_sonogo/)**（日文）**
@@ -92,11 +92,11 @@ updated: 2024-05-05 02:26:00
 - [少女理论及其周边 官方中文网站](https://hikarifield.co.jp/otomeriron/)
 - [Steam上的少女理论以及周边 -École de Paris-](https://store.steampowered.com/app/2567190/_cole_de_Paris/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/267)
 2. [稻荷ACG](https://sakustar.moe/) & `Tyranor`：[点击下载](https://sakustar.top/art/11379)

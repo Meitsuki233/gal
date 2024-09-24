@@ -38,7 +38,7 @@ updated: 2024-07-31 03:56:40
 
 该游戏也是继《[Kanon](https://zh.moegirl.org.cn/Kanon)》后Key推出的第二款[Galgame](https://zh.moegirl.org.cn/Galgame)恋爱游戏，后被改编成动画、漫画、小说。由于与Key之前推出的《[Kanon](https://zh.moegirl.org.cn/Kanon)》以及在之后推出的《[CLANNAD](https://zh.moegirl.org.cn/CLANNAD)》一样都有十分感人的剧情，本作与这另外两部作品在游戏界和动画界（后者更多）曾被誉为“Key社（早期）催泪三部曲”。
 
-## 画面
+## 图片
 
 ![air_p1](https://unpkg.com/galgame/img/air_p1.webp)
 
@@ -52,7 +52,7 @@ updated: 2024-07-31 03:56:40
 
 ![air_p6](https://unpkg.com/galgame/img/air_p6.webp)
 
-## 外部链接
+## 链接
 
 - [PC版官方网站](http://key.visualarts.gr.jp/product/air/) （[页面存档备份](https://web.archive.org/web/20090628121958/http://key.visualarts.gr.jp/product/air/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [PSP版官方网站](http://prot.co.jp/psp/air/) （[页面存档备份](https://web.archive.org/web/20120609230702/http://prot.co.jp/psp/air/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
@@ -61,14 +61,14 @@ updated: 2024-07-31 03:56:40
 - [电视动画官方网站](http://www.tbs.co.jp/anime/air/) （[页面存档备份](https://web.archive.org/web/20071011002201/http://www.tbs.co.jp/anime/air/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [剧场版官方网站](http://www.toei-anim.co.jp/movie/movie_air/) （[页面存档备份](https://web.archive.org/web/20050421033804/http://www.toei-anim.co.jp/movie/movie_air/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
 - 魅族手机 `Flyme` 系统记得关闭全面屏显示此应用
 - `Android 安卓` 如进不去游戏就断网或者挂梯
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/513tE)
 2. [TouchGAL](https://www.touchgal.com/) & `Android`：[点击下载](https://pan.touchgal.net/s/vp3SW)

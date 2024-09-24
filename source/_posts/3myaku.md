@@ -43,7 +43,7 @@ updated: 2024-04-26 23:33:00
 
 瘟疫的数百年后，主人公因为与女孩子相处不好而自我放逐来到了村庄所处的山里，在滂沱大雨中昏迷，被村人发现送往这个被遗忘的村落。然而在数百年间，村里的男孩早已穿惯了女生的装束，甚至习惯了女生的举止，连心里也都是女孩子，喝了村中的灵泉后有了女性的生殖能力，村里淡忘了怎么成为男性这件事。迷失到这个村庄里的主人公一眼就被村庄的人认出不同，是村里从来没见过的男孩子，并被认为是神的使者。然而主人公却误以为自己进入了只有女性的国度，飘飘然的他甚至想到了在村庄娶妻生子，却没想过围绕在他身边的“女孩”其实“性别为男”这件事……
 
-## 画面
+## 图片
 
 ![3myaku_p1](https://unpkg.com/galgame/img/3myaku_p1.webp)
 
@@ -51,16 +51,16 @@ updated: 2024-04-26 23:33:00
 
 ![3myaku_p3](https://unpkg.com/galgame/img/3myaku_p3.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[游戏官网](http://www.noukano.com/3myaku/index.htm)
 - **（英文）**[英文官网](https://jastusa.com/games/jast030/tomgirls-of-the-mountains-josou-sanmyaku)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/2584)
 2. [稻荷ACG](https://sakustar.moe/) & `ONS`：[点击下载](https://sakustar.top/art/2806)

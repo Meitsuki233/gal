@@ -41,7 +41,7 @@ updated: 2024-03-23 00:10:00
 
 在双铁热爱绘画的继妹日日姬与御一夜市长兼御一夜铁路社长波莱特的鼎力支持下，向着令8620复活的目标，携手共同努力。
 
-## 游戏画面
+## 图片
 
 ![maitetsu_p1](https://unpkg.com/galgame/img/maitetsu_p1.webp)
 
@@ -65,7 +65,7 @@ updated: 2024-03-23 00:10:00
 
 一度因定位问题受到线下活动阻力的《爱上火车》系列内容在2021年迎来自己的小高潮。由于2020年7月暴雨导致球磨川泛滥，取景地（熊本 人吉）当地房屋和交通设施被严重损坏，地区经济和旅游业严重受损，取景原型SL人吉列车行驶的肥萨线铁路在球磨川沿线被冲毁，多个铁路桥梁被冲入河中。此后，在2021年，人吉地区多次联合爱上火车系列举办线下活动~~（[真香](https://zh.moegirl.org.cn/真香)）~~，活动名称为“铁路浪漫谭峰会in人吉~~（机翻）~~”，最近的一次在2022年1月。
 
-## 外部链接
+## 链接
 
 - 官方网站：[まいてつ Last Run!!](http://web.archive.org/web/20220416001404/https://lose.jp/maitetsu/). （[原始内容](http://www.lose.jp/maitetsu/)存档于2022-04-16） **（日本語）**.（已因Lose停止活动而关闭）
 - [铁路浪漫谭 origin官方网站](https://railromanesque.jp/origin/)**（日文）**
@@ -88,11 +88,11 @@ updated: 2024-03-23 00:10:00
 
 - [《铁路浪漫谭》官方推特](https://twitter.com/rail_romanesque)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & Windows下载分流：[点击下载](https://sakustar.top/download?post_id=5306&index=0&i=0)
 2. [稻荷ACG](https://sakustar.moe/) & KRKR下载分流：[点击下载](https://sakustar.top/download?post_id=2793&index=0&i=0)

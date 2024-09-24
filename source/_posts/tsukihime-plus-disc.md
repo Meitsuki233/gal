@@ -29,7 +29,7 @@ updated: 2024-07-31 01:00:00
 
 《PLUS-DISC》收录了《月姬》的修改文件，过去发行的《汉和月姬》试玩版包括《Visual Alliance》、《Getcha》、《Demonstration》 ”，并记录了“[空之境界](https://ja.wikipedia.org/wiki/空の境界)”开头的文字。除此之外，《PLUS+DISC》还收录了《Getcha 2》、《Kinoko Masterpiece Experiment Station》和壁纸。此外，“PLUS+DISC”使用与“ [Fate/stay night](https://ja.wikipedia.org/wiki/Fate/stay_night) ”相同的[游戏引擎](https://ja.wikipedia.org/wiki/ゲームエンジン)[Kirikiri](https://ja.wikipedia.org/wiki/吉里吉里2) ，后者是在Notes Ltd.将TYPE-MOON商业化为[成人游戏](https://ja.wikipedia.org/wiki/アダルトゲーム)品牌后发布的。
 
-## 画面
+## 图片
 
 ![tsukihime-plus-disc_p1](https://unpkg.com/galgame/img/tsukihime-plus-disc_p1.webp)
 
@@ -41,7 +41,7 @@ updated: 2024-07-31 01:00:00
 
 ![tsukihime-plus-disc_p5](https://unpkg.com/galgame/img/tsukihime-plus-disc_p5.webp)
 
-## 外部链接
+## 链接
 
 - [TYPE-MOON同人时期网站（已停止更新）](http://www.typemoon.org/) （[页面存档备份](https://web.archive.org/web/20100304150149/http://www.typemoon.org/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [TYPE-MOON官方网站](http://www.typemoon.com/) （[页面存档备份](https://web.archive.org/web/20061121165221/http://www.typemoon.com/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
@@ -51,11 +51,11 @@ updated: 2024-07-31 01:00:00
 - [重制版官方网站](http://typemoon.com/products/tsukihime/) （[页面存档备份](https://web.archive.org/web/20211121095655/http://typemoon.com/products/tsukihime/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [月姫PLUS+DISC - 月箱](http://www.typemoon.org/box/plus2.html)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.me/) & `ONS`：[点击下载](https://sakustar.me/art/624)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E6%9C%88%E5%A7%AC)，密码：`终点`

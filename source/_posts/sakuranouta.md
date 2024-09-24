@@ -32,7 +32,7 @@ updated: 2024-04-21 04:10:00
 
 长久以来被冻结的《樱之诗》计划终于再次启动。以“言语和旋律”、“活在幸福中”为主题的《[美好的日子 ～不连续存在～](https://zh.wikipedia.org/wiki/美好的日子_～不連續存在～)》的作者すかぢ，将会一边沿袭其主题一边描绘这之前的物语《樱之诗》。 原画家任用了狗神煌和笼目。《[素晴らしき日々](https://zh.wikipedia.org/wiki/美好的日子_～不連續存在～)》之前的故事，梯子之上的风景，是反哲学的物语。极其自然的日常物语。
 
-## 游戏画面
+## 图片
 
 ![sakuranouta_p1](https://unpkg.com/galgame/img/sakuranouta_p1.webp)
 
@@ -40,16 +40,16 @@ updated: 2024-04-21 04:10:00
 
 ![sakuranouta_p3](https://unpkg.com/galgame/img/sakuranouta_p3.webp)
 
-## 外部链接
+## 链接
 
 - [官方网站](https://www.makura-soft.com/sakuranouta/) **（日语）**
 - 《[樱之诗](https://vndb.org/v562)》在[视觉小说数据库](https://zh.wikipedia.org/wiki/視覺小說數據庫)的页面 **（英文）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/5018)
 2. [稻荷ACG](https://sakustar.moe/) & `Android`：[点击下载](https://sakustar.top/art/5149)

@@ -66,7 +66,7 @@ updated: 2024-04-30 01:26:00
 
 这是伪娘也会有妊娠的可能性的，这样的故事未来会出现也说不定！！(yooooo)
 
-## 画面
+## 图片
 
 ![gakunin_p1](https://unpkg.com/galgame/img/gakunin_p1.webp)
 
@@ -74,15 +74,15 @@ updated: 2024-04-30 01:26:00
 
 ![gakunin_p3](https://unpkg.com/galgame/img/gakunin_p3.webp)
 
-## 外部链接
+## 链接
 
 - [官方网站](http://www.noukano.com/gakunin)**（日文）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=%E5%A5%B3%E8%A3%85%E5%AD%A6%E5%9B%AD%EF%BC%88%E5%A6%8A%EF%BC%89)，密码：`终点`
 2. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drivez.rosmontis.com/s/Y9EUn)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压

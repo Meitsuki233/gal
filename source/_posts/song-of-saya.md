@@ -49,24 +49,24 @@ updated: 2024-03-29 23:30:00
 
 原本只是一名普通的医科大学生的匂坂郁纪，某次遭遇车祸后陷入了濒死状态。在经过了颅内手术之后，匂坂郁纪苏醒了过来，然而，在他的视角之下，这个世界已变成了一个被肉块、肉浆等覆盖的异样世界，食物也变得异常恶心无法下咽，往日的友人们也成为了蠕动的肉块，他们的话语也变成像怪兽一样嘶哑的声音。就是在这样令人绝望的世界里，一个身着白衣的正常少女，出现在了匂坂郁纪的视野内……
 
-## 游戏画面
+## 图片
 
 ![song-of-saya_p1](https://unpkg.com/galgame/img/song-of-saya_p1.webp)
 
 ![song-of-saya_p2](https://unpkg.com/galgame/img/song-of-saya_p2.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[Windows版官网](https://www.nitroplus.co.jp/pc/lineup/into_06/)（下翻18Rcg略重口注意）
 - **（日文）**[Android版官网](https://www.nitroplus.co.jp/game/saya/)
 - [Steam上的The Song of Saya](https://store.steampowered.com/app/702050/)
 - **（日文）**[沙耶の呗 STAFF COMMENT](https://www.nitroplus.co.jp/secret/saya/enter_ln.html)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/PVVhR)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS` 下载分流：[点击下载](https://pan.touchgal.net/s/90OIb)

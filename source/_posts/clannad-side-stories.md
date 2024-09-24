@@ -26,7 +26,7 @@ updated: 2024-04-01 12:26:00
 
 在『CLANNAD 』的光芒逐渐被新番占领的时候，厂商适当时机的推出了PSP游戏新作『CLANNAD 光芒守护的小镇』，让所有粉丝们心中的那道守护小镇的光芒重新被照亮了。感动无数人的恋爱动画『CLANNAD 』与『CLANNAD After Story』播出以来人气始终居高不下，里面的亲情、友情、爱情成了人们经常挂在嘴边的话题。
 
-## 游戏画面
+## 图片
 
 ![clannad-side-stories_p1](https://unpkg.com/galgame/img/clannad-side-stories_p1.webp)
 
@@ -36,7 +36,7 @@ updated: 2024-04-01 12:26:00
 
 ![clannad-side-stories_p4](https://unpkg.com/galgame/img/clannad-side-stories_p4.webp)
 
-## 外部链接
+## 链接
 
 - [CLANNAD官方网页](http://clannad.prpage.jp/)
 - [剧场版 CLANNAD OFFICIAL SITE](http://www.clannad-movie.jp/)
@@ -45,11 +45,11 @@ updated: 2024-04-01 12:26:00
 - [Steam 上的 CLANNAD](https://store.steampowered.com/app/324160)
 - [Steam 上的 CLANNAD Side Stories](https://store.steampowered.com/app/420100)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流：[点击下载](https://sakustar.moe/download?post_id=11019&index=0&i=0)
 2. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 下载分流：[点击下载](https://zi0.cc/d/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/.%E5%85%B6%E4%BB%96/%E3%80%90PC%E3%80%91CLANNAD%20Side%20Stories.7z?sign=j9bt3tzxuSyxN5zpajleBVRVFqc1GQ1pWlWCsRaliLI=:0)，密码：半夏

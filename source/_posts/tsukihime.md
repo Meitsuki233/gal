@@ -52,7 +52,7 @@ updated: 2024-07-31 00:03:20
 
 完成五线剧情后，在开始菜单可以进入“月蚀”内容。
 
-## 画面
+## 图片
 
 ![tsukihime_p1](https://unpkg.com/galgame/img/tsukihime_p1.webp)
 
@@ -84,7 +84,7 @@ updated: 2024-07-31 00:03:20
 
 收录了名为[Notes.](https://zh.moegirl.org.cn/Notes.)的短篇小说，讲述了地球化为死星的远未来故事。社团名TYPE-MOON与会社名Notes.正是来源于此。
 
-## 外部链接
+## 链接
 
 - [TYPE-MOON同人时期网站（已停止更新）](http://www.typemoon.org/) （[页面存档备份](https://web.archive.org/web/20100304150149/http://www.typemoon.org/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [TYPE-MOON官方网站](http://www.typemoon.com/) （[页面存档备份](https://web.archive.org/web/20061121165221/http://www.typemoon.com/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
@@ -93,11 +93,11 @@ updated: 2024-07-31 00:03:20
 - [真月谭 月姬（J.C.STAFF）](http://www.jcstaff.co.jp/sho-sai/tsuki-shokai/tsuki-index.htm) （[页面存档备份](https://web.archive.org/web/20160227151939/http://www.jcstaff.co.jp/sho-sai/tsuki-shokai/tsuki-index.htm)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [重制版官方网站](http://typemoon.com/products/tsukihime/) （[页面存档备份](https://web.archive.org/web/20211121095655/http://typemoon.com/products/tsukihime/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/gGndcL)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/P38CR)

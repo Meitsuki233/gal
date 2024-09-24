@@ -71,7 +71,7 @@ updated: 2024-04-21 00:56:00
 
 「これは眩しき日々の外側で綴られる、望まれぬ物語」
 
-## 游戏画面
+## 图片
 
 ![tsukiniyorisou-2nd-alsa_p1](https://unpkg.com/galgame/img/tsukiniyorisou-2nd-alsa_p1.webp)
 
@@ -79,17 +79,17 @@ updated: 2024-04-21 00:56:00
 
 ![tsukiniyorisou-2nd-alsa_p3](https://unpkg.com/galgame/img/tsukiniyorisou-2nd-alsa_p3.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[近月少女的礼仪2官方网站](https://project-navel.com/tsukiniyorisou_2nd/)
 - **（日文）**[2.1 E×S×PAR!!官方网站](https://project-navel.com/tsukiniyorisou_2nd_espar/)
 - **（日文）**[2.2 A×L+SA!!官方网站](https://project-navel.com/tsukiniyorisou_2nd_alsa/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/274)
 2. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rn9kiy)

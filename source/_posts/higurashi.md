@@ -65,7 +65,7 @@ updated: 2024-09-17 21:42:30
 
 鹿骨市雏见泽村是一个人口未满2000人的小村庄。此村过去曾因一[水坝](https://zh.wikipedia.org/wiki/水壩)工程遭逢灭顶危机，幸而村民团结一致，阻止该工程的进行。水坝工程无限期冻结后的第5年（昭和58年），前原圭一随着家人移居此村。圭一开朗的性格使他轻易和新学校的朋友们打成一片，然而他们和平的日子，却在名为“綿流し祭”的祭典当天后开始产生变化。过去四年来“綿流し祭”当天都会发生一个人死亡、另一个人失踪的事件。这也是雏见泽村里的秘密所在。
 
-## 画面
+## 图片
 
 ![higurashi_p1](https://unpkg.com/galgame/img/higurashi_p1.webp)
 
@@ -103,7 +103,7 @@ updated: 2024-09-17 21:42:30
 
 ![higurashi_p18](https://unpkg.com/galgame/img/higurashi_p18.webp)
 
-## 外部链接
+## 链接
 
 - [07th Expansion官方网站](http://07th-expansion.net/) （[页面存档备份](https://web.archive.org/web/20120213175255/http://07th-expansion.net/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）
 - [动画《寒蝉鸣泣之时(DEEN版)》《海猫鸣泣之时》官方网站](http://oyashirosama.com/web/)
@@ -118,11 +118,11 @@ updated: 2024-09-17 21:42:30
 - [“寒蝉Project”官方网站](http://www.higurashi-pj.jp/)（2013年10月关闭）
 - [虎之穴《寒蝉鸣泣之时 奉+》商品页面](https://ecs.toranoana.jp/tora/ec/cit/pages/all/item/2021/12/23/00001/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows` 【出题】：[点击下载](https://pan.touchgal.net/s/q52OIb)，密码：`touchgal`
 2. [TouchGAL](https://touchgal.net/) & `Windows` 【解题】：[点击下载](https://pan.touchgal.net/s/kgjQcg)，密码：`touchgal`

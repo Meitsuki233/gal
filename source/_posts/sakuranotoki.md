@@ -22,7 +22,7 @@ updated: 2024-08-17 01:34:40
 
 <!-- more -->
 
-## 游戏画面
+## 图片
 
 ![sakuranotoki_p1](https://unpkg.com/galgame/img/sakuranotoki_p1.webp)
 
@@ -34,16 +34,16 @@ updated: 2024-08-17 01:34:40
 
 《樱之刻》在发售后登上了各大平台的美少女游戏排行榜——它在首次登上杂志《[BugBug](https://zh.wikipedia.org/wiki/BugBug)》销量排行榜时夺得首位，杂志评价该作作为拿下了2015年度[萌系游戏大赏](https://zh.wikipedia.org/wiki/萌系遊戲大賞)大奖作品《[樱之诗](https://zh.wikipedia.org/wiki/櫻之詩)》的续作，时刻多年的推出令作品粉丝心跳不已，剧情能够让他们好好享受；它在日本ACG相关商品销售网站[Getchu屋](https://zh.wikipedia.org/wiki/Getchu)首次登上销量排行榜时，初回限定版和普通版分别排在首位和第3位，次月初回限定版和普通版分别排在第5位和第19位，亦被玩家票选为Getchu2023年2月最佳的美少女游戏。
 
-## 外部链接
+## 链接
 
 - [官方网站](https://www.makura-soft.com/sakuranotoki/) **（日语）**
 - 《[樱之刻](https://vndb.org/v20431)》在[视觉小说数据库](https://zh.wikipedia.org/wiki/視覺小說數據庫)的页面 **（英文）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/vZyAsW)
 2. [TouchGAL](https://www.touchgal.com/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/V57GId)

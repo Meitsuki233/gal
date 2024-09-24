@@ -36,13 +36,13 @@ updated: 2024-06-08 19:00:00
 
 而はる的恋人·上条草太，像是要给她一个惊喜一样，悄悄地上门拜访了这家旅馆。
 
-## 画面
+## 图片
 
 ![bimanharu_p1](https://unpkg.com/galgame/img/bimanharu_p1.webp)
 
 ![bimanharu_p2](https://unpkg.com/galgame/img/bimanharu_p2.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[ωstar官网](http://www.favo-soft.jp/omega-star/)、[备用链接](http://www.omega-star.jp)
 - **（日文）**[官方支持信息与补丁下载页](http://www.favo-soft.jp/omega-star/support.html)、[备用链接](http://www.omega-star.jp/support.html)
@@ -61,11 +61,11 @@ updated: 2024-06-08 19:00:00
 - **（日文）**[PlusWeb(旧版宣传页，需要flash)](http://www.plus01.jp/htdocs/biman/bisyo.html)
 - **（简体中文）**[特别篇中文官网](https://bishojomangekyo.com/ibun/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/XqWCx)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/8xYXUg)

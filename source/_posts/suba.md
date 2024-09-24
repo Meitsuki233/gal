@@ -41,7 +41,7 @@ updated: 2024-04-22 21:02:00
 
 ~~关键字：多视角、哲学、三位一体~~
 
-## 游戏画面
+## 图片
 
 ![suba_p1](https://unpkg.com/galgame/img/suba_p1.webp)
 
@@ -63,7 +63,7 @@ updated: 2024-04-22 21:02:00
 
 ![suba_p10](https://unpkg.com/galgame/img/suba_p10.webp)
 
-## 外部链接
+## 链接
 
 - [ケロQ](https://www.keroq.co.jp/index02.html) （[页面存档备份](https://web.archive.org/web/20190607112719/https://www.keroq.co.jp/index02.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [官方网站](https://www.keroq.co.jp/suba/index.html) （[页面存档备份](https://web.archive.org/web/20210305121308/https://www.keroq.co.jp/suba/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
@@ -72,13 +72,13 @@ updated: 2024-04-22 21:02:00
 - [Steam英文版](https://store.steampowered.com/app/658620) （[页面存档备份](https://web.archive.org/web/20210317031413/https://store.steampowered.com/app/658620)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）
 - 《[美好的每一天 ～不连续存在～](https://vndb.org/v3144)》在[视觉小说数据库](https://zh.wikipedia.org/wiki/視覺小說數據庫)的页面**（英文）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
 1. **WindowsHD版解压后安装文件夹里的字体文件，否则游戏会乱码**
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Ax9hP)
 2. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://alpha.galpan.xyz/PC/%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%AF%8F%E4%B8%80%E5%A4%A9.zip)

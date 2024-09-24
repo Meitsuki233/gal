@@ -36,7 +36,7 @@ updated: 2024-08-12 19:20:00
 
 榊野学园1年3组的**伊藤诚**，从很久前开始，就时常留意搭同一台电车的女孩，她是隔壁班的**桂言叶**。校园里留传着一个传说：把喜欢的人的照片当成[手机](https://zh.wikipedia.org/wiki/手機)待机图片，而且三个星期没人发现的话，这份思念就会实现。但是就在诚下定决心要履行这个传说的第一天，就被坐在隔壁的**西园寺世界**发现了。于是在赔罪的名目之下，世界开始帮言叶和诚牵线，[三角关系](https://zh.wikipedia.org/wiki/三角關係)故事就这样开始了。
 
-## 画面
+## 图片
 
 ![schooldays_p1](https://unpkg.com/galgame/img/schooldays_p1.webp)
 
@@ -48,18 +48,18 @@ updated: 2024-08-12 19:20:00
 
 ![schooldays_p5](https://unpkg.com/galgame/img/schooldays_p5.webp)
 
-## 外部链接
+## 链接
 
 - [School Days官方网站](http://schooldays.0verflow.com/index.html) （[页面存档备份](https://web.archive.org/web/20051212064910/http://schooldays.0verflow.com/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)） **（日语）**
 - [School Days HQ中文版官方网站](https://0verflow.com/ch/products/sdhq/) （[页面存档备份](https://web.archive.org/web/20200607052702/https://0verflow.com/ch/products/sdhq/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)） **（简体中文）**
 - [School Days HQ英文版官方网站](http://schooldays.us/) （[页面存档备份](https://web.archive.org/web/20120124232034/http://schooldays.us/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)） **（英文）**
 - [电视动画版官方网站（avexmode）](https://web.archive.org/web/20080104235943/http://www.avexmovie.jp/lineup/schooldays/) **（日语）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/5XbuE)，使用 `版本切换.bat`，可切换 `简体`、`繁体`、`日版`、`步兵`、`骑兵`
 2. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part17/Overflow/%5B101008%5D%5B%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%95%E3%83%AD%E3%83%BC%5D%20SCHOOL%20DAYS%20HQ.rar?sign=0cyrzhrzf3QS_Jzj-oblGJQ1EAvo_o5E5O3WF3wdgWE=:0)

@@ -61,7 +61,7 @@ Unlimited篇共有11个结局，对应御剑冥夜、榊千鹤、彩峰慧、珠
 - [社霞](https://zh.moegirl.org.cn/社霞)：仅在Unlimited篇中登场的兔耳俄罗斯少女，Alternative III计划的产物。香月夕呼副司令的跟班。
 - [月咏真那](https://zh.moegirl.org.cn/index.php?title=月咏真那&action=edit&redlink=1)：Extra篇中御剑冥夜家的女管家，Unlimited篇中则为帝国斯卫军军官。
 
-## 画面
+## 图片
 
 ![muvluv_p1](https://unpkg.com/galgame/img/muvluv_p1.webp)
 
@@ -69,18 +69,18 @@ Unlimited篇共有11个结局，对应御剑冥夜、榊千鹤、彩峰慧、珠
 
 ![muvluv_p3](https://unpkg.com/galgame/img/muvluv_p3.webp)
 
-## 外部链接
+## 链接
 
 - [Steam上的Muv-Luv](https://store.steampowered.com/app/802880/MuvLuv/)
 - [Steam上的Muv-Luv Alternative](https://store.steampowered.com/app/802890/MuvLuv_Alternative)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
 1. **一般情况下请使用 `Windows 7` 系统运行本作、如不是该系统也可使用 [VMware](https://www.vmware.com/) 或 [VirtualBox](https://www.virtualbox.org/) 虚拟机安装 `Windows 7` 系统运行..**
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/9111)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=muv-luv)，密码：`终点`

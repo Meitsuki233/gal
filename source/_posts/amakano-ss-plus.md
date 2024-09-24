@@ -36,13 +36,13 @@ updated: 2024-09-04 09:18:00
 比恋人时更加亲密、信任，以及每天在一起相爱的生活。
 只有在“+”中才有的特别的感觉和心动，只属于你。
 
-## 画面
+## 图片
 
 ![amakano-ss-plus_p1](https://unpkg.com/galgame/img/amakano-ss-plus_p1.webp)
 
 ![amakano-ss-plus_p2](https://unpkg.com/galgame/img/amakano-ss-plus_p2.webp)
 
-## 外部链接
+## 链接
 
 - [アマカノ官网](http://azarashi-soft.nexton-net.jp/amakano/) （[页面存档备份](https://web.archive.org/web/20201101063525/http://azarashi-soft.nexton-net.jp/amakano/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [アマカノ~Second Season~官网](https://azarashi-soft.nexton-net.jp/amakano-ss/) （[页面存档备份](https://web.archive.org/web/20201101063525/https://azarashi-soft.nexton-net.jp/amakano-ss/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
@@ -51,10 +51,10 @@ updated: 2024-09-04 09:18:00
 - [アマカノ2官网](http://azarashi-soft.nexton-net.jp/amakano2/) （[页面存档备份](https://web.archive.org/web/20220101063525/http://azarashi-soft.nexton-net.jp/amakano2/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [アマカノ2+官网](http://azarashi-soft.nexton-net.jp/amakano2-plus//) （[页面存档备份](https://web.archive.org/web/20230401140327/http://azarashi-soft.nexton-net.jp/amakano2-plus//)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/NJ68CO)

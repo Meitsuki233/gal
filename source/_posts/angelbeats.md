@@ -29,7 +29,7 @@ updated: 2024-05-06 23:46:00
 
 <!-- more -->
 
-## 游戏画面
+## 图片
 
 ![angelbeats_p1](https://unpkg.com/galgame/img/angelbeats_p1.webp)
 
@@ -37,16 +37,16 @@ updated: 2024-05-06 23:46:00
 
 ![angelbeats_p3](https://unpkg.com/galgame/img/angelbeats_p3.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[动画官网](http://www.angelbeats.jp/)
 - **（日文）**[游戏官网](http://key.visualarts.gr.jp/angelbeats/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/127)
 2. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=Angel%20Beats%EF%BC%811st)，密码：`终点`

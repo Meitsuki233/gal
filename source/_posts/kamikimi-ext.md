@@ -57,7 +57,7 @@ updated: 2024-09-23 01:25:00
 
 开始走进块斗的生活，一些秘密也逐渐浮出水面，一切的一切就从那个晚上开始了。
 
-## 游戏画面
+## 图片
 
 ![kamikimi-ext_p1](https://unpkg.com/galgame/img/kamikimi-ext_p1.webp)
 
@@ -69,16 +69,16 @@ updated: 2024-09-23 01:25:00
 
 ![kamikimi-ext_p5](https://unpkg.com/galgame/img/kamikimi-ext_p5.webp)
 
-## 外部链接
+## 链接
 
 * [游戏官网](http://www.cuffs-cube.jp/products/kamikimi/)
 * [EX版游戏官网](https://www.cuffs.co.jp/products/kamikimi_ext/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/96Gsb)，密码：`touchgal`
 2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/dBPHb)，密码：`touchgal`

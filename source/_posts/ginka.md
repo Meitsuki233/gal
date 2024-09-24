@@ -73,7 +73,7 @@ Ginka连自己的名字都已不记得。
 与从神隐归来的青梅竹马之友一起，
 度过宛如童话般的暑假。
 
-## 画面
+## 图片
 
 ![ginka_p1](https://unpkg.com/galgame/img/ginka_p1.webp)
 
@@ -91,17 +91,17 @@ Ginka连自己的名字都已不记得。
 
 ![ginka_p8](https://unpkg.com/galgame/img/ginka_p8.webp)
 
-## 外部链接
+## 链接
 
 - [官方网站](http://ginka.frontwing.jp/)**（日文）（中文）（英文）**
 - [特设twitter](https://twitter.com/ginka_fw)
 - [Steam上的GINKA](https://store.steampowered.com/app/2536840/GINKA/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [Koyso](https://koyso.com/) & `Windows` + `KRKR`：[点击下载](https://koyso.com/game/608)
 2. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/10832)

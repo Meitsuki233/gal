@@ -47,7 +47,7 @@ author: WTY
 
 ![女未家五大家规](https://unpkg.com/galgame/img/onigyu_p1.webp)
 
-## 游戏画面
+## 图片
 
 ![onigyu_p2](https://unpkg.com/galgame/img/onigyu_p2.webp)
 
@@ -85,15 +85,15 @@ Tips：在游戏主界面 Extra - CG - Scene Repaly 中可以切换妹妹视角(
 
 原作的故事时间发生在圣诞节前后，而续作发生的时间则是在春节左右。续作故事承接着原作的后宫线，所以这里男主已经和所有的妹妹全部嘿咻过了，因此剧情很少、色情很多。
 
-## 外部链接
+## 链接
 
 - [游戏官网](http://tinkle-position.com/onigyu/)**（日文）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流1：[点击下载](https://sakustar.moe/download?post_id=818&index=0&i=0)
 2. [稻荷ACG](https://sakustar.moe/) & `KRKR` 下载分流2：[点击下载](https://sakustar.moe/download?post_id=4517&index=0&i=0)

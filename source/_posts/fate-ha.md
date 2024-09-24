@@ -88,7 +88,7 @@ PSV版於2014年11月27日發售，追加OP、語音、新小遊戲，全年齡�
 
 現有的Windows漢化版是漢化組自行在Windows版的基礎上，從PSV版逆移植的兩個場景的語音和ufo製作的新OP以及追加的小遊戲而來。
 
-## 游戏画面
+## 图片
 
 ![fate-ha_p1](https://unpkg.com/galgame/img/fate-ha_p1.webp)
 
@@ -101,11 +101,11 @@ PSV版於2014年11月27日發售，追加OP、語音、新小遊戲，全年齡�
 - [Windows版游戏](https://www.typemoon.com/products/hollow/index_over18.html)（[页面存档备份](https://web.archive.org/web/20150410024548/http://www.typemoon.com/products/hollow/index_over18.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）（年龄限制）**（日语）**
 - [PS Vita版游戏](https://web.archive.org/web/20150315015111/http://www.typemoon.com/products/hollowvita/index)**（日语）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.top/art/361)
 2. [稻荷ACG](https://sakustar.moe/) & `KRKR`：[点击下载](https://sakustar.top/art/623)

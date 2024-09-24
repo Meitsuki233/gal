@@ -37,7 +37,7 @@ updated: 2024-05-25 02:35:00
 
 作为平凡的学生持续过着日常生活的主人公高梨亮，他连续三天经历着非同寻常的现象。第一天，同样是绫筱学园的柊美柚被杀了。第二天，吾妻梨花跳楼自杀。第三天，在和藤见环的性交中，两人被在家中出现的袭击者杀害了。但是，本应被谋杀的亮于10月16日早晨再次醒来。 亮因恶心、困惑和令人难以忘怀的记忆而感到不适。在上学途中，目睹了柊美柚遇难现场的亮，感到了奇怪的既视感。那是无限重复的三天的开始。
 
-## 画面
+## 图片
 
 ![3days_p1](https://unpkg.com/galgame/img/3days_p1.webp)
 
@@ -63,16 +63,16 @@ updated: 2024-05-25 02:35:00
 
 [小说](https://zh.wikipedia.org/wiki/小說)《3days 〜刻の彼方の眠り姫〜》由[老鹰出版社](https://zh.wikipedia.org/w/index.php?title=老鹰出版社&action=edit&redlink=1)发行。
 
-## 外部链接
+## 链接
 
 - [公式サイト](http://lass.jp/)（[页面存档备份](https://web.archive.org/web/20090826085207/http://lass.jp/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - 《[3days ～在逝去时间的另一端～](https://vndb.org/v1085)》在[视觉小说数据库](https://zh.wikipedia.org/wiki/視覺小說數據庫)的页面**（英文）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/GXwUX)
 2. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/OExFW)

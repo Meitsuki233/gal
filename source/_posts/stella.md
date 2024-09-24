@@ -57,7 +57,7 @@ updated: 2024-07-29 21:24:00
 但，他需要去面对的却又是无法逃离的死亡因果。
 如果要说的话，这是个，一个男人向自己的命运、世界挑战的恋爱故事……吧？
 
-## 游戏画面
+## 图片
 
 ![stella_p1](https://unpkg.com/galgame/img/stella_p1.webp)
 
@@ -105,17 +105,17 @@ updated: 2024-07-29 21:24:00
 
 - 在四格漫画之一中，[明月栞那](https://zh.moegirl.org.cn/明月栞那)在咖啡馆开业前闲的没事干，透过窗户认大街上的各种车，neta了所有参与柚子社作品的[车之人](https://zh.moegirl.org.cn/车之人)名义。
 
-## 外部链接
+## 链接
 
 - **（日文）**[游戏公式网站](http://www.yuzu-soft.com/products/stella/index.html)
 - [游戏官方中文网站](https://hikarifield.co.jp/stella/index.html)
 - [Steam上的星光咖啡馆与死神之蝶](https://store.steampowered.com/app/1829980/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/e3Fx)，密码：`touchgal`
 2. [TouchGAL](https://www.touchgal.com/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/3RWI7)，密码：`touchgal`、仅汉化文本，`UI` 未汉化

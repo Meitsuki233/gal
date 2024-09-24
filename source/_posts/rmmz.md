@@ -40,15 +40,15 @@ updated: 2024-04-03 00:00:00
 然后男主为了拯救队伍里的女孩们，奋力勇闯恶魔巢穴的故事。
 玩法属于轻度慎重，拘束电击崔眠群体盛宴等，也算很社保了！
 
-## 外部链接
+## 链接
 
 - [DLsite页面](https://www.dlsite.com/maniax/work/=/product_id/RJ343056.html)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [次元宝藏君](https://cybzacg.xyz/) & `Windows` 下载分流：[点击下载](https://pan.baidu.com/s/1TfW6gr8qLI8yV01KNz65bg?pwd=pimv)，提取码：pimv，解压码：cybz，将后缀改成 `.7z` 再解压
 2. [TouchGAL](https://www.touchgal.com/) & `Android` 下载分流：[点击下载](https://pan.touchgal.net/s/gynqsL)

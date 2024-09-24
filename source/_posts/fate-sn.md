@@ -48,7 +48,7 @@ updated: 2024-08-12 18:45:00
 
 卫宫士郎是10年前（1994年）发生的冬木市火灾的幸存者，曾由其养父教学了基本的魔术，是一名半吊子魔术师。2004年2月2日晚，士郎在夜晚的学校偶然目击了从者Archer和Lancer之间的战斗，被Lancer杀死后幸得远坂凛用父亲留下的吊坠中的魔力所救，随后回到了家。而他没死的事很快被Lancer知道，刚到家不久就被Lancer追杀。他逃到了院子里的仓库里，发现藏在地上的魔法阵发动了，无意中召唤了从者之一的Saber（剑士），被卷入了圣杯战争。士郎希望继承在灾难中救了自己的亡父卫宫切嗣的理想，成为“正义的伙伴”。士郎同意以御主的身份参与战争，以防止其他御主造成进一步的灾难，导致十年前的悲剧再度重演。
 
-## 画面
+## 图片
 
 ![fate-sn_p1](https://unpkg.com/galgame/img/fate-sn_p1.webp)
 
@@ -70,7 +70,7 @@ updated: 2024-08-12 18:45:00
 
 ![fate-sn_p10](https://unpkg.com/galgame/img/fate-sn_p10.webp)
 
-## 外部链接
+## 链接
 
 ### TYPE-MOON官网
 
@@ -90,11 +90,11 @@ updated: 2024-08-12 18:45:00
 - [Fate/stay night REMASTERED](https://typemoon.com/products/f-sn/)（重置版官网）**（日文）**
 - [Steam上的Fate/stay night REMASTERED](https://store.steampowered.com/app/2396980/Fatestay_night_REMASTERED/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 ### 通常版
 

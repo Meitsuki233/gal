@@ -65,21 +65,21 @@ updated: 2024-03-02 01:36:00
 - **夙川晴信**：植木亨
 - **静峰恭也**：立华十四朗
 
-## 游戏画面
+## 图片
 
 ![inochinospare_p1](https://unpkg.com/galgame/img/inochinospare_p1.webp)
 
 ![inochinospare_p2](https://unpkg.com/galgame/img/inochinospare_p2.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**[官网](http://www.akabeesoft3.com/products/inochinospare/index.html)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 DMM入正地址：[dlsoft.dmm.co.jp/detail/akbs_0067](https://dlsoft.dmm.co.jp/detail/akbs_0067/)
 

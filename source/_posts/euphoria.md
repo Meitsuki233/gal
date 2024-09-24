@@ -32,7 +32,7 @@ updated: 2024-08-27 07:20:00
 
 这样的条件让一向古板的班长当场发火，表示要退出。在系统确认之后，灯光突然的暗了下来，当恢复光亮时，众人发现班长被绑在拷问装置上，然后在椅子上凄惨地被电死了，这样的可怕结果让人没有选择退出游戏的余地。在主人公观察班长的遗体时，真中合欢发现了主人公惠辅不正常的性癖，在合欢公开其性癖的胁迫下，迫使主人公立下契约之吻。为保护青梅竹马叶，以及逃出这个白色的空间，主人公与女角们被迫依系统指示，进行开锁。
 
-## 画面
+## 图片
 
 ![euphoria_p1](https://unpkg.com/galgame/img/euphoria_p1.webp)
 
@@ -46,19 +46,19 @@ updated: 2024-08-27 07:20:00
 
 游戏属于文字冒险游戏，共有五名可攻略女主角：莳羽梨香、葵菜月、白夜凛音、真中合欢、帆刈叶。玩家刚开始游戏时，可直接进行莳羽梨香、葵菜月、白夜凛音、真中合欢的剧情线。合欢剧情线通关后，攻略角色选单将会出现帆刈叶的头像，游戏里的核心真相将在帆刈叶剧情线（另称Euphoria线）一并揭晓，此线路共有三个坏结局、鬼畜结局、游戏普通结局、游戏本传的真结局。
 
-## 外部链接
+## 链接
 
 - [CLOCKUP Official Website - Euphoria -](http://entacom.org/clockup/product/euphoria/index.html)（[页面存档备份](https://web.archive.org/web/20181119013839/http://entacom.org/clockup/product/euphoria/index.html)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [CLOCKUP OfficialWebSite](http://entacom.org/clockup/)（[页面存档备份](https://web.archive.org/web/20120311023309/http://entacom.org/clockup/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 - [euphoria OVA](http://entacom.org/clockup/product/dvd/euphoria.htm)（[页面存档备份](https://web.archive.org/web/20181119020444/http://entacom.org/clockup/product/dvd/euphoria.htm)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）**（日语）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
 1. **普通版可能不兼容 `Windows 10` 以上系统与中文环境，请自行准备虚拟机游玩。**
 
-## 下载分流
+## 分流
 
 ### 普通版
 

@@ -40,7 +40,7 @@ updated: 2024-09-13 05:03:00
 
 当玩家完成了上述两个结局后，游戏解锁真结局。设定于60年后，名为诺亚的超巨大浮体都市早已于太空探索重启大约30年后建成，部分人类移居于这类浮体都市。亚托莉在沉眠前将夏生托付给他青梅竹马水菜萌，夏生与水菜萌之后结为夫妻，但二人仍一直牵挂沉睡的亚托莉。夏生重新拾起过去的机器人技术，让世界迎来技术奇点，机器人不再作为劳力而是被当作朋友被人类接受。夏生当年的朋友也各有建树。在夏生弥留之时，“伊甸”完成了使命，被定于第二日沉没。夏生通过自己一部分已被电脑化的大脑将意识连接到通往“伊甸”的网络上，随即唤醒已沉睡60年的亚托莉。最后夏生与亚托莉在电脑模拟出的海边悬崖上度过了各自最后的一日时光。
 
-## 画面
+## 图片
 
 ![atri-mdm_p1](https://unpkg.com/galgame/img/atri-mdm_p1.webp)
 
@@ -52,7 +52,7 @@ updated: 2024-09-13 05:03:00
 
 ![atri-mdm_p5](https://unpkg.com/galgame/img/atri-mdm_p5.webp)
 
-## 外部链接
+## 链接
 
 - [游戏官网](https://atri-mdm.com/)
 - [Steam商店界面](https://store.steampowered.com/app/1230140/ATRI_My_Dear_Moments/)
@@ -61,11 +61,11 @@ updated: 2024-09-13 05:03:00
 - [动画官网](https://atri-anime.com/)
 - [动画推特](https://twitter.com/ATRI_anime)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/Vosd)，密码：`touchgal`
 2. [TouchGAL](https://touchgal.net/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/YaRUa)，密码：`touchgal`

@@ -59,7 +59,7 @@ updated: 2024-03-28 18:46:00
 要是这个暑假，能永远这么下去就好了。
 那时，少年不禁这样想到。
 
-## 游戏画面
+## 图片
 
 ![summer-rb_p1](https://unpkg.com/galgame/img/summer-rb_p1.webp)
 
@@ -102,7 +102,7 @@ updated: 2024-03-28 18:46:00
 - [岬镜子](https://mzh.moegirl.org.cn/%E5%B2%AC%E9%95%9C%E5%AD%90)：[高本惠](https://mzh.moegirl.org.cn/%E9%AB%98%E6%9C%AC%E6%83%A0)
 - [稻荷](https://mzh.moegirl.org.cn/%E7%A8%BB%E8%8D%B7)：[铃木木乃美](https://mzh.moegirl.org.cn/%E9%93%83%E6%9C%A8%E6%9C%A8%E4%B9%83%E7%BE%8E)
 
-## 外部链接
+## 链接
 
 - **（日文）**[游戏官网](http://key.visualarts.gr.jp/summer/)
 - **（日文）**[ReflectionBlue官网](https://key.visualarts.gr.jp/summer_rb/index.html)
@@ -112,11 +112,11 @@ updated: 2024-03-28 18:46:00
 - [App Store上的Summer Pockets](https://itunes.apple.com/cn/app/summer-pockets/id1444587492)
 - [Steam上的Summer Pockets](https://store.steampowered.com/app/897220/Summer_Pockets/)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 [稻荷ACG](https://sakustar.moe/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=475&index=0&i=0)
 

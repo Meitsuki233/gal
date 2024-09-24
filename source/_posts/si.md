@@ -51,7 +51,7 @@ updated: 2024-04-03 23:57:00
 
 游戏采取文字冒险模式，玩家须操作女主角美亚探索整栋洋馆，找出逃离洋馆的方法，依据玩家选择的剧情选项，将触发不同事件。
 
-## 游戏画面
+## 图片
 
 ![si_p1](https://unpkg.com/galgame/img/si_p1.webp)
 
@@ -59,15 +59,15 @@ updated: 2024-04-03 23:57:00
 
 ![si_p3](https://unpkg.com/galgame/img/si_p3.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**【R-18/猎奇】[游戏官网](http://bug-system.com/product/02_si/top.html)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/lxqF7)
 2. [TouchGAL](https://www.touchgal.com/) & `KRKR` 下载分流：[点击下载](https://pan.touchgal.net/s/1y2SX)

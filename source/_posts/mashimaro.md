@@ -52,7 +52,7 @@ author: WTY
 
 在充满个性的大家的围绕下，像棉花糖一样甜蜜又软绵绵的生活开始了——
 
-## 画面
+## 图片
 
 ![mashimaro_p1](https://unpkg.com/galgame/img/mashimaro_p1.webp)
 
@@ -86,11 +86,11 @@ author: WTY
 
 - [游戏官方网站](http://www.web-marmalade.com/products/mashimaro/index.html)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/ZrIa)，密码：`touchgal`
 2. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/KkxHv)，密码：`hikarinagi.com`

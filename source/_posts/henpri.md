@@ -48,7 +48,7 @@ updated: 2024-05-20 19:30:00
 
 被称作“变态”们的性犯罪者聚集的监狱，对任何人来说都绝非乐园——
 
-## 画面
+## 图片
 
 ![henpri_p1](https://unpkg.com/galgame/img/henpri_p1.webp)
 
@@ -56,15 +56,15 @@ updated: 2024-05-20 19:30:00
 
 ![henpri_p3](https://unpkg.com/galgame/img/henpri_p3.webp)
 
-## 外部链接
+## 链接
 
 - [官方网址](https://qruppo.com/products/henpri/)**（日文）**
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows` 【机翻】：[点击下载](https://pan.touchgal.net/s/Qp7U6)，删除 `HENPRI.pfs.099` 就是日文原版
 2. [烟郁Galgame](https://yanyugal.top/) & `Tyranor`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ty/%E5%8F%98%E6%80%81%E7%9B%91%E7%8B%B1.7z)，密码：`烟郁频道`、`lumouweinb`

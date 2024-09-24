@@ -31,7 +31,7 @@ updated: 2024-09-14 21:56:00
 
 “我的妹妹绝不会叫人起床、做早饭、洗衣服；不仅这样，近期非常藐视我，还把我当笨蛋看待，也完全不理会我，也不听我讲话。像这样贤妻良母的举动，是不可能发生的。还有，要我继续说的话，我的妹妹哪有这么可爱！”抱着这个想法的哥哥高坂京介（17岁）和妹妹[高坂桐乃](https://zh.wikipedia.org/wiki/高坂桐乃)（14岁）兄妹两人的关系近几年处于[代沟](https://zh.wikipedia.org/wiki/代溝)的状态，京介认为这种关系今后可能会一直持续下去。某日在门口捡到从来没看过的[魔法少女](https://zh.wikipedia.org/wiki/魔法少女)动画《星尘☆小魔女梅露露》（星くず☆うぃっちメルル）的[DVD](https://zh.wikipedia.org/wiki/DVD)盒子，里面竟然不是动画的DVD，而是[成人游戏](https://zh.wikipedia.org/wiki/成人遊戲)《和妹妹谈恋爱吧♪》（妹と恋しよっ♪）的[光碟](https://zh.wikipedia.org/wiki/光碟)。京介在晚餐时用梅露露的话题试探谁是光碟的物主，得到父母充满偏见的否定意见以及桐乃的不安表情。发生许多事情后桐乃说出自己的一切，得知原来自己的妹妹迷上[萌](https://zh.wikipedia.org/wiki/萌)系动画以及[美少女游戏](https://zh.wikipedia.org/wiki/美少女遊戲)中的妹系角色。得知桐乃这不为人知的天大秘密后，京介平凡、庸俗的人生就在今晚开始新的变化。
 
-## 画面
+## 图片
 
 ![oreimo_p1](https://unpkg.com/galgame/img/oreimo_p1.webp)
 
@@ -53,7 +53,7 @@ updated: 2024-09-14 21:56:00
 
 ![oreimo_p10](https://unpkg.com/galgame/img/oreimo_p10.webp)
 
-## 外部链接
+## 链接
 
 - [电击文库《我的妹妹不可能这么可爱》官网](http://oreimo.dengeki.com/)
 - [动画第一季官网](https://www.oreimo-anime.com/1st/)
@@ -65,11 +65,11 @@ updated: 2024-09-14 21:56:00
 - [きりりん的X（前Twitter）账户](https://twitter.com/kirino_kousaka)
 - [黒猫的X（前Twitter）账户](https://twitter.com/kuroneko_daten)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 ### 携带版
 

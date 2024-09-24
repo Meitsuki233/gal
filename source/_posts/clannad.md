@@ -35,7 +35,7 @@ updated: 2024-04-01 12:26:40
 
 在某个小镇，主角冈崎朋也因为家庭的因素而丧失了生活在这个地方的希望；与春原阳平为朋友，在光坂高等学校过着潦倒的生活，盼望终有一天能够离开所在的小镇，*[还有马桶盖子](https://zh.moegirl.org.cn/还有马桶盖子)*。在高三的一个早晨，通往学校的坡道前发现了一个止步不前的女孩，在朋也认识了这个名为[古河渚](https://zh.moegirl.org.cn/古河渚)的女孩后，他的生活开始有了重大的变化……
 
-## 游戏画面
+## 图片
 
 ![clannad_p1](https://unpkg.com/galgame/img/clannad_p1.webp)
 
@@ -43,7 +43,7 @@ updated: 2024-04-01 12:26:40
 
 ![clannad_p3](https://unpkg.com/galgame/img/clannad_p3.webp)
 
-## 外部链接
+## 链接
 
 - [CLANNAD官方网页](http://clannad.prpage.jp/)
 - [剧场版 CLANNAD OFFICIAL SITE](http://www.clannad-movie.jp/)
@@ -52,11 +52,11 @@ updated: 2024-04-01 12:26:40
 - [Steam 上的 CLANNAD](https://store.steampowered.com/app/324160)
 - [Steam 上的 CLANNAD Side Stories](https://store.steampowered.com/app/420100)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流【官中HD】：[点击下载](https://sakustar.moe/download?post_id=307&index=1&i=0)
 2. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流【汉化组】：[点击下载](https://sakustar.moe/download?post_id=307&index=0&i=0)

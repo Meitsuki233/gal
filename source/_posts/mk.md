@@ -71,7 +71,7 @@ updated: 2024-04-07 23:34:00
 
 物語は大きく歪んでいく……。
 
-## 游戏画面
+## 图片
 
 ![mk_p1](https://unpkg.com/galgame/img/mk_p1.webp)
 
@@ -79,16 +79,16 @@ updated: 2024-04-07 23:34:00
 
 ![mk_p3](https://unpkg.com/galgame/img/mk_p3.webp)
 
-## 外部链接
+## 链接
 
 - **（日文）**【R-18/猎奇】[游戏官网](http://bug-system.com/product/04_mk/)
 - **（日文）**[誠也の部屋攻略](https://seiya-saiga.com/game/bugsystem/manakashi.html)
 
-## 注意事项
+## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-## 下载分流
+## 分流
 
 1. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/7NxxTX)
 2. [TouchGAL](https://www.touchgal.com/) & `KRKR` 下载分流：[点击下载](https://pan.touchgal.net/s/GjQ8cX)
