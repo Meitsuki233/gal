@@ -1,6 +1,13 @@
-body {
+body:before {
+    content: '';
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
     background: url('https://www.imaegoo.com/img/cute.webp');
-    background-attachment: fixed;
+    opacity: 0.3;
+    z-index: -1;
 }
 
 .aplayer-list, .aplayer-list-index, .aplayer-list-title, .aplayer-list-author, .aplayer-title, .aplayer-info, .aplayer-music *, .aplayer-icon {

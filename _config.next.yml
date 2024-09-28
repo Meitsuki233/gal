@@ -111,6 +111,7 @@ menu:
   投稿: /post/ || fas fa-pen
   友链: /links/ || fas fa-link
   捐赠: /donate/ || fas fa-hand-holding-dollar
+  广告: /ad/ || fa fa-rectangle-ad
   about: /about/ || fa fa-user
 
 # Enable / Disable menu icons / item badges.
@@ -213,7 +214,7 @@ toc:
   # Automatically add list number to toc.
   number: true
   # If true, all words will placed on next lines if header width longer then sidebar width.
-  wrap: true
+  wrap: false
   # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
   expand_all: false
   # Maximum heading depth of generated toc.
