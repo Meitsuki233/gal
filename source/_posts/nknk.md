@@ -21,7 +21,7 @@ categories:
   - - KRKR
   - - Android
 date: 2024-05-02 19:58:30
-updated: 2024-05-18 23:30:00
+updated: 2024-10-02 02:35:40
 ---
 
 ![nknk](https://unpkg.com/galgame/img/nknk.webp)
@@ -73,9 +73,13 @@ updated: 2024-05-18 23:30:00
 
 ## 分流
 
-1. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%E6%AD%BB%E9%A6%862)，密码：`lumouweinb`、`烟郁频道`
-2. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://www.touchgal.org/36214.html)
-3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `KRKR`：[点击下载](https://zi0.cc/,%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC+KR%E3%80%91[ADV][AI%E7%BF%BB%E8%AF%91]%E6%AD%BB%E3%81%AB%E9%80%9D%E3%81%8F%E9%A8%8E%E5%A3%AB%E3%80%81%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E9%9F%BF%E3%81%8F%E6%96%AD%E6%9C%AB%E9%AD%94%E3%80%81%E6%AD%BB%E9%A6%862?from=search)
-4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-2%E3%80%91/.%E5%85%B6%E4%BB%96/BUG_SYSTEM02%E6%AD%BB%E9%A6%86_%E9%80%9D%E5%8E%BB%E7%9A%84%E4%BD%A0%EF%BC%8C%E9%A6%86%E9%87%8C%E8%8B%8F%E9%86%92%E7%9A%84%E7%BD%AA%E6%81%B6%E6%BF%92%E6%AD%BB%E8%BD%AE%E5%9B%9E%E7%9A%84%E5%8D%BF%E4%BA%8E%E9%A6%86%E4%B8%AD%E8%90%8C%E7%94%9F%E7%9A%84%E6%86%8E%E6%81%B6%E6%AD%BB%E3%81%AB%E9%80%9D%E3%81%8F%E5%90%9B%E3%80%81%E9%A4%A8%E3%81%AB%E8%8A%BD%E5%90%B9%E3%81%8F%E6%86%8E%E6%82%AA.rar?from=search)
-5. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2BKR%E3%80%91%5BADV%5D%5BAI%E7%BF%BB%E8%AF%91%5D%E6%AD%BB%E3%81%AB%E9%80%9D%E3%81%8F%E9%A8%8E%E5%A3%AB%E3%80%81%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E9%9F%BF%E3%81%8F%E6%96%AD%E6%9C%AB%E9%AD%94%E3%80%81%E6%AD%BB%E9%A6%862/%E3%80%90KRKR%E3%80%91%E3%80%90AI%E7%BF%BB%E8%AF%91%E3%80%91%E6%AD%BB%E3%81%AB%E9%80%9D%E3%81%8F%E9%A8%8E%E5%A3%AB%20%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E9%9F%BF%E3%81%8F%E6%96%AD%E6%9C%AB%E9%AD%94%EF%BC%8F%E9%80%9D%E5%8E%BB%E7%9A%84%E9%AA%91%E5%A3%AB%EF%BC%8C%E5%BC%82%E4%B8%96%E7%95%8C%E4%B8%AD%E8%BF%A5%E5%93%8D%E7%9A%84%E6%96%AD%E6%9C%AB%E9%AD%94.zip?sign=BuAWiBkdV2FUIPojt44DWO67QBcyqHFe2ehTvgM69uw=:0)
-6. [绮梦](https://acgs.one/) & `Windows` + `KRKR` + `Android`：[点击下载](https://acgs.one/down_html/?url=game/%E6%AD%BB%E9%A6%862&name=%E6%AD%BB%E9%A6%862)，密码：`绮梦`
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/YPL6Ca)，需要转区运行，不然会有BUG，可尝试使用网盘内的免转区启动器
+2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/yMqu7)
+3. [NekoGAL](https://www.nekogal.com/) & `KRKR`：[点击下载](https://pan.nekogal.top/s/0YKHV)
+4. [NekoGAL](https://www.nekogal.com/) & `Android`：[点击下载](https://pan.nekogal.top/s/N25Sx)
+5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/9zxsg)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/82W5UZ)，密码：`hikarinagi.com`
+7. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%AD%BB%E3%81%AB%E9%80%9D%E3%81%8F%E9%A8%8E%E5%A3%AB%20%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E9%9F%BF%E3%81%8F%E6%96%AD%E6%9C%AB%E9%AD%94.7z)
+8. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `KRKR`：[点击下载](https://zi0.cc/,%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC+KR%E3%80%91[ADV][AI%E7%BF%BB%E8%AF%91]%E6%AD%BB%E3%81%AB%E9%80%9D%E3%81%8F%E9%A8%8E%E5%A3%AB%E3%80%81%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E9%9F%BF%E3%81%8F%E6%96%AD%E6%9C%AB%E9%AD%94%E3%80%81%E6%AD%BB%E9%A6%862)
+9. [绮梦](https://acgs.one/) & `Windows` + `KRKR` + `Android`：[点击下载](https://acgs.one/game/493.html)，密码：`绮梦`
+10. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/PC/galgame/%E6%AD%BB%E9%A6%862)，密码：`lumouweinb`、`烟郁频道`
