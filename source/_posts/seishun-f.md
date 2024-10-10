@@ -5,7 +5,6 @@ tags:
   - Purple-software
   - 紫社
   - 妹
-  - 妹妹
   - 黑长直
   - 2020
 categories:

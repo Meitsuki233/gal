@@ -4,7 +4,6 @@ abbrlink: 769
 tags:
   - FrontWing
   - 前翼社
-  - 短篇
   - 治愈
   - 幼驯染
   - 奇幻

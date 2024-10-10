@@ -10,7 +10,6 @@ tags:
   - 奈須きのこ
   - 武内崇
   - 奇幻
-  - 短篇
   - 2001
 categories:
   - - Windows

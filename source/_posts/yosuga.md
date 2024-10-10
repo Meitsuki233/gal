@@ -9,7 +9,7 @@ tags:
   - 兄妹
   - Sphere
   - 穹妹
-  - 妹妹
+  - 妹
   - 妹控
 categories:
   - - Windows
