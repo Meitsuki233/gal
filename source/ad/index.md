@@ -1,7 +1,7 @@
 ---
 title: 补魔广告
 date: 2024-09-28 12:36:27
-updated: 2024-09-28 13:10:30
+updated: 2024-10-11 00:00:00
 comments: false
 ---
 
@@ -11,11 +11,9 @@ comments: false
 
 {% lg /images/logo.svg %}
 一元机场 | https://xn--4gq62f52gdss.ink/#/register?code=WO0mrSfp | ...
-三分机场 | https://shop.sanfen.co/#/register?code=uaXpWFoL | ... | https://shop.sanfen.co/theme/Bob-Theme-Argon/favicon.ico
-狗狗加速 | https://Fp9SOy.dg7.top/#/register?code=q3SCfHiE | 狗狗加速.com | https://www.dg6.top/theme/default/assets/favicons/android-icon-192x192.png
-速云梯 | https://suyunti981.xyz/auth/register?code=Xy1X | ... | https://suyunti.com/favicon.ico
-NTHU | https://nthu.cc/#/register?code=aNmoRTlr | NTHU.CC
+NTHU | https://www.nthu.cc/#/register?code=aNmoRTlr | NTHU.CC
 MESL | https://in.mesl.cloud/#/register?code=ShZZijKA | ... | https://in.mesl.cloud/theme/aurora-mesl/favicon.svg
-XFX | https://27jtez.xfxcloud.icu/#/register?code=w5ipzDiy | ...
+XFX | https://www.xfx.life/#/register?code=w5ipzDiy | ...
+狗狗加速 | https://go.dginv.click/#/register?code=q3SCfHiE | 狗狗加速.com | https://xn--yfrp36ea9901a.com/images/logo.svg
 % test | test | test | test
 {% endlg %}
