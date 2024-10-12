@@ -1,7 +1,7 @@
 ---
 title: 友情链接
 date: 2024-08-25 09:25:12
-updated: 2024-09-28 00:00:00
+updated: 2024-10-12 00:00:00
 comments: false
 ---
 
@@ -27,6 +27,8 @@ Koyso | https://koyso.com/ | 单机游戏下载网站，提供最新，热门的
 BYRUTOR | https://byruthub.org/ | Cкачать игры на ПК [последние версии 2024] через торрент бесплатно | https://byruthub.org/favicon.png
 NekoGAL | https://www.nekogal.com/ | Galgame传递者 | https://www.nekogal.com/wp-content/uploads/2023/11/favneko.png
 Hikarinagi | https://www.hikarinagi.com/ | 一个ACGN文化社区，免费获取Galgame等资源，无限制地交流和分享
+新生 • 稻荷ACG | https://amoebi.com/ | 新生版稻荷ACG，除了有GalGame也没别的了，全部免费，GAL作品几乎都能找到 | https://amoebi.com/favicon.ico
+彼岸星露 | https://yugal.cc/ | 那些暗潮汹涌的 见不得人的 无法诉之于口的才是我真正的生活 | https://yugal.cc/images/favicon.ico
 % test | test | test | test
 {% endlg %}
 
