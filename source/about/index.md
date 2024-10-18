@@ -1,9 +1,11 @@
 ---
 title: 关于本站
 date: 2024-01-27 21:53:55
-updated: 2024-09-02 00:00:00
+updated: 2024-10-19 00:00:00
 comments: false
 ---
+
+![asuna](https://registry.npmmirror.com/js-asuna/latest/files/pic/Asuna/Asuna16x9.webp)
 
 ## 维护理念
 
@@ -12,6 +14,10 @@ comments: false
 ## 交流社群
 
 Telegram：[FullDiveSAO](https://t.me/FullDiveSAO)
+
+## 电子邮箱
+
+E-mail：[i@saop.cc](mailto:i@saop.cc)
 
 ## 订阅本站
 
