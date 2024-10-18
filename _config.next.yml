@@ -688,7 +688,7 @@ comments:
   style: tabs
   # Choose a comment system to be displayed by default.
   # Available values: disqus | disqusjs | changyan | livere | gitalk | utterances
-  active: valine
+  active:
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
@@ -701,10 +701,10 @@ comments:
     #gitalk:
     #  order: -2
     giscus:
-      text: 切换 giscus 评论
+      text: 点此切换至 giscus 评论系统
       order: -1
     valine:
-      text: 切换 Valine 评论
+      text: 点此切换至 Valine 评论系统
       order: -2
 
 # Disqus
