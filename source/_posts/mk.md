@@ -90,9 +90,9 @@ updated: 2024-04-07 23:34:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.com/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/7NxxTX)
-2. [TouchGAL](https://www.touchgal.com/) & `KRKR` 下载分流：[点击下载](https://pan.touchgal.net/s/GjQ8cX)
-3. [稻荷ACG](https://sakustar.moe/) & `Windows` 下载分流：[点击下载](https://alpha.zrflie3.pw/PC-2/CLEAR%20RAVE/BUG%20SYSTEM/%E7%9C%9F%E7%88%B1%E7%9A%84%E7%99%BE%E5%90%88%E8%A2%AB%E6%9F%93%E6%88%90%E7%BA%A2%E8%89%B2.7z)
+1. [TouchGAL](https://touchgal.net/) & `Windows` 下载分流：[点击下载](https://pan.touchgal.net/s/7NxxTX)
+2. [TouchGAL](https://touchgal.net/) & `KRKR` 下载分流：[点击下载](https://pan.touchgal.net/s/GjQ8cX)
+3. [稻荷ACG](https://amoebi.com/) & `Windows` 下载分流：[点击下载](https://alpha.zrflie3.pw/PC-2/CLEAR%20RAVE/BUG%20SYSTEM/%E7%9C%9F%E7%88%B1%E7%9A%84%E7%99%BE%E5%90%88%E8%A2%AB%E6%9F%93%E6%88%90%E7%BA%A2%E8%89%B2.7z)
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` 下载分流：[点击下载](https://pan.jlbx.xyz/?s=%E7%9C%9F%E7%88%B1%E7%99%BE%E5%90%88)，密码：终点
 5. [迷迭香写代码](https://rosmontis.com/) & `Windows` 下载分流：[点击下载](https://drive.rosmontis.com/s/2QZSD)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压
 6. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `KRKR` + `Android` 下载分流：[点击下载](https://zi0.cc/,%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC+%E5%AE%89%E5%8D%93%E3%80%91%E6%9F%93%E6%88%90%E7%BA%A2%E8%89%B2%E7%9A%84%E7%9C%9F%E7%88%B1%E7%99%BE%E5%90%88?from=search)

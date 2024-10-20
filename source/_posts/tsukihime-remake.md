@@ -75,5 +75,5 @@ updated: 2024-07-31 01:45:00
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/DprwSx)，密码：`tsukihime3`
-2. [稻荷ACG](https://sakustar.me/) & `Windows`：[点击下载](https://sakustar.me/art/8298)
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/DprwSx)，密码：`tsukihime3`
+2. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/8298)

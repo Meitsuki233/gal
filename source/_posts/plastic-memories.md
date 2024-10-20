@@ -74,6 +74,6 @@ updated: 2024-02-23 03:16:00
 
 ### 外站下载
 
-[稻荷ACG](https://sakustar.moe/) & Windows下载分流5：[点击下载](https://sakustar.moe/download?post_id=190&index=0&i=0)
+[稻荷ACG](https://amoebi.com/) & Windows下载分流5：[点击下载](https://sakustar.moe/download?post_id=190&index=0&i=0)
 
 [迷迭香的博客](https://rosmontis.com/) & Windows下载分流6：[点击下载](https://drivez.rosmontis.com/s/kV1Ux)，密码：rosmontis

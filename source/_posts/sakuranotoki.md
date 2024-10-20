@@ -45,8 +45,8 @@ updated: 2024-08-17 01:34:40
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/vZyAsW)
-2. [TouchGAL](https://www.touchgal.com/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/V57GId)
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/vZyAsW)
+2. [TouchGAL](https://touchgal.net/) & `Tyranor`：[点击下载](https://pan.touchgal.net/s/V57GId)
 3. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Tyranor`：[点击下载](https://pan.t-satoru.top/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81/%E6%A8%B1%E4%B9%8B%E5%88%BB)，密码：`三司绫濑天下第一`
 4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%A8%B1%E4%B9%8B%E5%88%BB.7z)
 5. [烟郁Galgame](https://yanyugal.top/) & `Tyranor`：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/ty/%E6%A8%B1%E4%B9%8B%E5%88%BB)，密码：`烟郁频道`、`lumouweinb`
@@ -54,4 +54,4 @@ updated: 2024-08-17 01:34:40
 7. [绮梦](https://acgs.one/) & `Windows` + `Tyranor`：[点击下载](https://acgs.one/game/455.html)，密码：`绮梦`
 8. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/7642)，密码：`量子acg`、`lzacg.top`
 9. [量子ACG](https://lzacg.org/) & `Tyranor`：[点击下载](https://lzacg.org/7772)，密码：`量子acg`、`lzacg.top`
-10. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.club/art/13317)
+10. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.club/art/13317)

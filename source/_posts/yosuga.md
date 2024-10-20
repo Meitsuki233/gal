@@ -121,5 +121,5 @@ updated: 2024-09-17 21:14:00
 17. [梓澪の妙妙屋](https://zi0.cc/) & `PSP`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/.%E5%85%B6%E4%BB%96/%E6%A8%A1%E6%8B%9F%E5%99%A8/%E3%80%90PSP%E3%80%91%E7%BC%98%E4%B9%8B%E7%A9%BA.iso?from=search)
 18. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/536)，密码：`量子acg`、`lzacg.top`
 19. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/yuanzhikong.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-20. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/191)
-21. [稻荷ACG](https://sakustar.com/) & `ONS`：[点击下载](https://sakustar.com/art/583)
+20. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/191)
+21. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.com/art/583)

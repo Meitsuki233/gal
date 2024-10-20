@@ -27,10 +27,12 @@ E-mail：[i@saop.cc](mailto:i@saop.cc)
 
 ## 永久网址
 
-找不到网址的时候可到这里看最新网址：[AdingApkgg/gal-site](https://github.com/AdingApkgg/gal-site/blob/main/README.md)
+找不到网址的时候可到这里看最新网址：
+[AdingApkgg/gal-site](https://github.com/AdingApkgg/gal-site/blob/main/README.md)
 收藏以上回家链，避免忘记归家路~
 
 ## 开放源码
 
 本站大部分源码已开源至 GitHub 社区，
-有兴趣探索本站的原理可访问：[AdingApkgg/vns](https://github.com/AdingApkgg/vns)
+有兴趣探索本站的原理可访问：
+[AdingApkgg/vns](https://github.com/AdingApkgg/vns)

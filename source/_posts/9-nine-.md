@@ -73,74 +73,6 @@ updated: 2024-09-23 04:07:30
 
 ![9-nine-_p9](https://unpkg.com/galgame/img/9-nine-_p9.webp)
 
-![9-nine-_p10](https://unpkg.com/galgame/img/9-nine-_p10.webp)
-
-![9-nine-_p11](https://unpkg.com/galgame/img/9-nine-_p11.webp)
-
-![9-nine-_p12](https://unpkg.com/galgame/img/9-nine-_p12.webp)
-
-![9-nine-_p13](https://unpkg.com/galgame/img/9-nine-_p13.webp)
-
-![9-nine-_p14](https://unpkg.com/galgame/img/9-nine-_p14.webp)
-
-![9-nine-_p15](https://unpkg.com/galgame/img/9-nine-_p15.webp)
-
-![9-nine-_p16](https://unpkg.com/galgame/img/9-nine-_p16.webp)
-
-![9-nine-_p17](https://unpkg.com/galgame/img/9-nine-_p17.webp)
-
-![9-nine-_p18](https://unpkg.com/galgame/img/9-nine-_p18.webp)
-
-![9-nine-_p19](https://unpkg.com/galgame/img/9-nine-_p19.webp)
-
-![9-nine-_p20](https://unpkg.com/galgame/img/9-nine-_p20.webp)
-
-![9-nine-_p21](https://unpkg.com/galgame/img/9-nine-_p21.webp)
-
-![9-nine-_p22](https://unpkg.com/galgame/img/9-nine-_p22.webp)
-
-![9-nine-_p23](https://unpkg.com/galgame/img/9-nine-_p23.webp)
-
-![9-nine-_p24](https://unpkg.com/galgame/img/9-nine-_p24.webp)
-
-![9-nine-_p25](https://unpkg.com/galgame/img/9-nine-_p25.webp)
-
-![9-nine-_p26](https://unpkg.com/galgame/img/9-nine-_p26.webp)
-
-![9-nine-_p27](https://unpkg.com/galgame/img/9-nine-_p27.webp)
-
-![9-nine-_p28](https://unpkg.com/galgame/img/9-nine-_p28.webp)
-
-![9-nine-_p29](https://unpkg.com/galgame/img/9-nine-_p29.webp)
-
-![9-nine-_p30](https://unpkg.com/galgame/img/9-nine-_p30.webp)
-
-![9-nine-_p31](https://unpkg.com/galgame/img/9-nine-_p31.webp)
-
-![9-nine-_p32](https://unpkg.com/galgame/img/9-nine-_p32.webp)
-
-![9-nine-_p33](https://unpkg.com/galgame/img/9-nine-_p33.webp)
-
-![9-nine-_p34](https://unpkg.com/galgame/img/9-nine-_p34.webp)
-
-![9-nine-_p35](https://unpkg.com/galgame/img/9-nine-_p35.webp)
-
-![9-nine-_p36](https://unpkg.com/galgame/img/9-nine-_p36.webp)
-
-![9-nine-_p37](https://unpkg.com/galgame/img/9-nine-_p37.webp)
-
-![9-nine-_p38](https://unpkg.com/galgame/img/9-nine-_p38.webp)
-
-![9-nine-_p39](https://unpkg.com/galgame/img/9-nine-_p39.webp)
-
-![9-nine-_p40](https://unpkg.com/galgame/img/9-nine-_p40.webp)
-
-![9-nine-_p41](https://unpkg.com/galgame/img/9-nine-_p41.webp)
-
-![9-nine-_p42](https://unpkg.com/galgame/img/9-nine-_p42.webp)
-
-![9-nine-_p43](https://unpkg.com/galgame/img/9-nine-_p43.webp)
-
 ## 链接
 
 - [9-nine-九次九日九重色官方网站](http://palette.clearrave.co.jp/product/kokoiro/)（[页面存档备份](https://web.archive.org/web/20190827221340/http://palette.clearrave.co.jp/product/kokoiro/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）
@@ -176,8 +108,8 @@ updated: 2024-09-23 04:07:30
 12. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【樱空】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D%209-nine-%20%E3%81%93%E3%81%93%E3%81%AE%E3%81%A4%E3%81%93%E3%81%93%E3%81%AE%E3%81%8B%E3%81%93%E3%81%93%E3%81%AE%E3%81%84%E3%82%8D%20%209-nine-%E4%B9%9D%E6%AC%A1%E4%B9%9D%E6%97%A5%E4%B9%9D%E9%87%8D%E8%89%B2%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%20%5B%E6%A8%B1%E7%A9%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=KCNJxQBsr7mYhwifHoCN1OwWntI_h-AsF9Mhh31M4F0=:0)
 13. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3637)，密码：`量子acg`、`lzacg.top`
 14. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2173)，密码：`量子acg`、`lzacg.top`
-15. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/41)
-16. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/565)
+15. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/41)
+16. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/565)
 17. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/9-nine-jiucijiurijiuzhongse.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 天色天歌天籁音
@@ -196,8 +128,8 @@ updated: 2024-09-23 04:07:30
 12. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【默示】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8%209-nine-%E5%A4%A9%E8%89%B2%E5%A4%A9%E9%9F%B3%E5%A4%A9%E6%AD%8C%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E9%BB%98%E7%A4%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=JXwIYZ4S9ddOQ154yfQDij6qBwYJOloTQTHNbfE4xLc=:0)
 13. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3636)，密码：`量子acg`、`lzacg.top`
 14. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2174)，密码：`量子acg`、`lzacg.top`
-15. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/44)
-16. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/566)
+15. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/44)
+16. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/566)
 17. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/9-nine-tiansetiangetianlaiyin.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 春色春恋春熙风
@@ -216,8 +148,8 @@ updated: 2024-09-23 04:07:30
 12. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【樱空】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C9-nine-%E6%98%A5%E8%89%B2%E6%98%A5%E6%81%8B%E6%98%A5%E7%86%99%E9%A3%8E%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%A8%B1%E7%A9%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=M_WgepUdRkMdU1JhSOJ9sQeZ_aOlgagrmrd-gmBNfpE=:0)
 13. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3635)，密码：`量子acg`、`lzacg.top`
 14. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2175)，密码：`量子acg`、`lzacg.top`
-15. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/46)
-16. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/567)
+15. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/46)
+16. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/567)
 17. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/9-nine-chunsechunlianchunxifeng.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 雪色雪花雪之痕
@@ -235,8 +167,8 @@ updated: 2024-09-23 04:07:30
 11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【樱空】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D%209-nine-%E3%82%86%E3%81%8D%E3%81%84%E3%82%8D%E3%82%86%E3%81%8D%E3%81%AF%E3%81%AA%E3%82%86%E3%81%8D%E3%81%AE%E3%81%82%E3%81%A8%20%20%E9%9B%AA%E8%89%B2%E9%9B%AA%E8%8A%B1%E9%9B%AA%E4%BD%99%E7%97%95%20V1.1%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%A8%B1%E7%A9%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=QB43zcoy4aedsGQDd6pouYNeNt59yyDpWIgDIneP8As=:0)
 12. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3631)，密码：`量子acg`、`lzacg.top`
 13. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/3626)，密码：`量子acg`、`lzacg.top`
-14. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/48)
-15. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/568)
+14. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/48)
+15. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/568)
 
 ### 新章 New Episode
 
@@ -253,8 +185,8 @@ updated: 2024-09-23 04:07:30
 11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【樱空】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/27/%5B%E3%81%B1%E3%82%8C%E3%81%A3%E3%81%A8%5D%209%20-Nine-%20New%20Episode%20%209-nine-%20%E6%96%B0%E7%AB%A0%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%A8%B1%E7%A9%BA%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=-xV7Kk_7jpd9QY0-V9d7XZmQBdHX39vfEXgM2jCZiy4=:0)
 12. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/3630)，密码：`量子acg`、`lzacg.top`
 13. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/3625)，密码：`量子acg`、`lzacg.top`
-14. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/50)
-15. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/571)
+14. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/50)
+15. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/571)
 
 ### 9-nine- 系列合集 Series
 

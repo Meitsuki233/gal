@@ -71,5 +71,5 @@ updated: 2024-09-04 09:20:00
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/dxVytb)
 2. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/288.html)，密码：`绮梦`
-3. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/13619)
+3. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/13619)
 4. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/7781)，密码：`量子acg`、`lzacg.top`

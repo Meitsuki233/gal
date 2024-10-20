@@ -85,24 +85,6 @@ updated: 2024-09-17 21:42:30
 
 ![higurashi_p9](https://unpkg.com/galgame/img/higurashi_p9.webp)
 
-![higurashi_p10](https://unpkg.com/galgame/img/higurashi_p10.webp)
-
-![higurashi_p11](https://unpkg.com/galgame/img/higurashi_p11.webp)
-
-![higurashi_p12](https://unpkg.com/galgame/img/higurashi_p12.webp)
-
-![higurashi_p13](https://unpkg.com/galgame/img/higurashi_p13.webp)
-
-![higurashi_p14](https://unpkg.com/galgame/img/higurashi_p14.webp)
-
-![higurashi_p15](https://unpkg.com/galgame/img/higurashi_p15.webp)
-
-![higurashi_p16](https://unpkg.com/galgame/img/higurashi_p16.webp)
-
-![higurashi_p17](https://unpkg.com/galgame/img/higurashi_p17.webp)
-
-![higurashi_p18](https://unpkg.com/galgame/img/higurashi_p18.webp)
-
 ## 链接
 
 - [07th Expansion官方网站](http://07th-expansion.net/) （[页面存档备份](https://web.archive.org/web/20120213175255/http://07th-expansion.net/)，存于[互联网档案馆](https://zh.wikipedia.org/wiki/互联网档案馆)）

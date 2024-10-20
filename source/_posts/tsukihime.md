@@ -99,11 +99,11 @@ updated: 2024-07-31 00:03:20
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/gGndcL)
-2. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/P38CR)
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/gGndcL)
+2. [TouchGAL](https://touchgal.net/) & `ONS`：[点击下载](https://pan.touchgal.net/s/P38CR)
 3. [绮梦](https://acgs.one/) & `Windows` + `ONS`：[点击下载](https://acgs.one/game/215.html)，密码：`绮梦`
 4. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `ONS`：[点击下载](https://pan.jlbx.xyz/?s=%E6%9C%88%E5%A7%AC)，密码：`终点`
-5. [稻荷ACG](https://sakustar.me/) & `Windows`：[点击下载](https://sakustar.me/art/372)
+5. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/372)
 6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[001229][TYPE-MOON]%20%E6%9C%88%E5%A7%AC%20v1.6.rar)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/2/29/%5BTYPE-MOON%5D%20%E6%9C%88%E5%A7%AC%EF%BC%88%E5%8E%9F%E7%89%88%EF%BC%89%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%EF%BC%8820230115%E7%AB%8B%E7%BB%98CG%E6%9B%BF%E6%8D%A2%E9%87%8D%E5%88%B6%E7%89%88%EF%BC%89.zip?sign=jhF-nVYHGXJviysHFAkvzmWYvY5xfc7qJAItrqfkVUI=:0)
 8. [梓澪の妙妙屋](https://zi0.cc/) & `ONS`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90ONS%E5%90%88%E9%9B%86%E3%80%91/%5BTYPE-MOON%5D%E6%9C%88%E5%A7%AC.7z?sign=_wBXDFdV4PIt-Sprx-dvBv9iqczoXqcRX7aWjdURyzo=:0)

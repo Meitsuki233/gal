@@ -75,7 +75,7 @@ updated: 2024-09-24 00:26:30
 3. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E6%9E%9C%E7%84%B6%E5%9C%A8%E6%B8%B8%E6%88%8F%E9%87%8C%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E6%81%8B%E7%88%B1%E7%89%A9%E8%AF%AD%E4%B9%9F%E6%9C%89%E9%97%AE%E9%A2%98.7z)
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/15/%5BMAGES%5D%20%E3%82%84%E3%81%AF%E3%82%8A%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%A7%E3%82%82%E4%BF%BA%E3%81%AE%E9%9D%92%E6%98%A5%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1%E3%81%AF%E3%81%BE%E3%81%A1%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E6%81%8B%E7%88%B1%E7%89%A9%E8%AF%AD%E5%9C%A8%E6%B8%B8%E6%88%8F%E4%B8%AD%E4%B9%9F%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98%E3%80%82%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%98%A5%E7%89%A9%E6%B0%AE%E6%B0%94%E5%8D%96%E9%B6%B8%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=swmRlLGxTGLvai37lKQ656iF12iFDbhhoJJEiQXUsT0=:0)
 5. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/5790)，密码：`量子acg`、`lzacg.top`
-6. [稻荷ACG](https://sakustar.com/) & `Windows` + `macOS` + `Linux` + `Android` + `iOS`：[点击下载](https://sakustar.com/art/9333)
+6. [稻荷ACG](https://amoebi.com/) & `Windows` + `macOS` + `Linux` + `Android` + `iOS`：[点击下载](https://sakustar.com/art/9333)
 
 ### 续篇
 
@@ -85,7 +85,7 @@ updated: 2024-09-24 00:26:30
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/15/%5BMAGES%5D%20%E3%82%84%E3%81%AF%E3%82%8A%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%A7%E3%82%82%E4%BF%BA%E3%81%AE%E9%9D%92%E6%98%A5%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1%E3%81%AF%E3%81%BE%E3%81%A1%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E7%B6%9A%20%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E6%81%8B%E7%88%B1%E7%89%A9%E8%AF%AD%E5%9C%A8%E6%B8%B8%E6%88%8F%E4%B8%AD%E4%B9%9F%E6%9E%9C%E7%84%B6%E6%9C%89%E9%97%AE%E9%A2%98%E3%80%82%E7%BB%AD%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%98%A5%E7%89%A9%E6%B0%AE%E6%B0%94%E5%8D%96%E9%B6%B8%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=j5KtJ6FctYPJpi1jH1pIl9yxiAWY2JbbTxcaDvXdDKY=:0)
 5. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E6%9E%9C%E7%84%B6%E5%9C%A8%E6%B8%B8%E6%88%8F%E4%B8%AD%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E6%81%8B%E7%88%B1%E7%89%A9%E8%AF%AD%E4%B9%9F%E6%9C%89%E9%97%AE%E9%A2%98%E3%80%82%E7%BB%AD.7z)，密码：`lumouweinb`、`烟郁频道`
 6. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/5789)，密码：`量子acg`、`lzacg.top`
-7. [稻荷ACG](https://sakustar.com/) & `Windows` + `macOS` + `Linux` + `Android` + `iOS`：[点击下载](https://sakustar.com/art/9338)
+7. [稻荷ACG](https://amoebi.com/) & `Windows` + `macOS` + `Linux` + `Android` + `iOS`：[点击下载](https://sakustar.com/art/9338)
 
 ### 合集
 

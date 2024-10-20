@@ -69,7 +69,7 @@ updated: 2024-08-27 14:50:00
 7. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/Tiny%20Dungeon%EF%BD%9EBIRTH%20for%20YOURS.7z)
 8. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[110729][Rosebleu]%20Tiny%20Dungeon%20%EF%BD%9E%20BIRTH%20for%20YOURS%20%EF%BD%9E.rar)
 9. [失落小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/Tiny%20Dungeon3%20%E7%A5%9E%E6%97%8F%E7%AF%87.zip)
-10. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/2818)
-11. [稻荷ACG](https://sakustar.com/) & `ONS`：[点击下载](https://sakustar.com/art/3684)
+10. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/2818)
+11. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.com/art/3684)
 12. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4805)，密码：`量子acg`、`lzacg.top`
 13. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/tiny-dungeon-birth-for-yours.html)，密码：`忧郁的弟弟`、`忧郁的loli`

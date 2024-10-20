@@ -78,6 +78,6 @@ updated: 2024-08-27 14:40:00
 8. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[100625][Rosebleu]%20Tiny%20Dungeon%20%EF%BD%9E%20BLACK%20and%20WHITE%20%EF%BD%9E.rar)
 9. [失落小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/Tiny%20Dungeon1%20%E9%AD%94%E6%97%8F%E7%AF%87.zip)
 10. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4805)，密码：`量子acg`、`lzacg.top`
-11. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/2828)
-12. [稻荷ACG](https://sakustar.com/) & `ONS`：[点击下载](https://sakustar.com/art/3686)
+11. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/2828)
+12. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.com/art/3686)
 13. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/tiny-dungeon-black-and-white.html)，密码：`忧郁的弟弟`、`忧郁的loli`

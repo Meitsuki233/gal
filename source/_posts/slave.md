@@ -63,8 +63,8 @@ O島…從沖繩的水座島只要開快艇30分鐘就能到達的小小離島�
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7v6HX)
-2. [TouchGAL](https://www.touchgal.com/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mZksx)
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7v6HX)
+2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mZksx)
 3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B)，密码：`终点`、`书想工作室`
 4. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.7z)，密码：`烟郁频道`
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%2C%E3%80%90RPG-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B%EF%BC%88%E5%86%B2%E7%BB%B3%E5%A5%B4%E9%9A%B6%E5%B2%9B%EF%BC%89/PC-%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.zip?sign=eWeH5EqIYe3C7z4kpnLrdkDtYWoRdo5kIedUIV_J7PE=:0)

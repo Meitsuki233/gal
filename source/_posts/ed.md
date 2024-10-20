@@ -77,6 +77,6 @@ updated: 2024-08-27 15:00:00
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/20/%5BRosebleu%5D%20Tiny%20Dungeon1~4%E5%8F%8A%E7%BB%AD%E4%BD%9C%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%EF%BC%AB%EF%BC%91%26%E7%9C%9F%E7%BA%AF%E7%88%B1%E5%90%8C%E5%A5%BD%E4%BC%9A%5D.zip?sign=yY0-zpBUfbSH-wNZdCtZ0_q1grGX9DlvUWTHVICXHzM=:0)
 5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/Endless%20Dungeon.7z)
 6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[140328][Rosebleu]%20Endless%20Dungeon.rar)
-7. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/3687)
+7. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/3687)
 8. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4805)，密码：`量子acg`、`lzacg.top`
 9. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/dungeonsdolls.html)，密码：`忧郁的弟弟`、`忧郁的loli`

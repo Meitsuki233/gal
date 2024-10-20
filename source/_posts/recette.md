@@ -107,5 +107,5 @@ author: WTY
 16. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/025/%E7%B3%96%E8%B0%83.apk?sign=O3o6KNTcSjlSVpKy67rV1WBqPiySUJ2xQJw2Uj5NMek=:0)
 17. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/529)，密码：`量子acg`、`lzacg.top`
 18. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/3439)，密码：`量子acg`、`lzacg.top`
-19. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/944)
-20. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/11086)
+19. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/944)
+20. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/11086)

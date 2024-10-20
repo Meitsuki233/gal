@@ -63,72 +63,6 @@ updated: 2024-10-03 01:48:30
 
 ![nekopara_p9](https://unpkg.com/galgame/img/nekopara_p9.webp)
 
-![nekopara_p10](https://unpkg.com/galgame/img/nekopara_p10.webp)
-
-![nekopara_p11](https://unpkg.com/galgame/img/nekopara_p11.webp)
-
-![nekopara_p12](https://unpkg.com/galgame/img/nekopara_p12.webp)
-
-![nekopara_p13](https://unpkg.com/galgame/img/nekopara_p13.webp)
-
-![nekopara_p14](https://unpkg.com/galgame/img/nekopara_p14.webp)
-
-![nekopara_p15](https://unpkg.com/galgame/img/nekopara_p15.webp)
-
-![nekopara_p16](https://unpkg.com/galgame/img/nekopara_p16.webp)
-
-![nekopara_p17](https://unpkg.com/galgame/img/nekopara_p17.webp)
-
-![nekopara_p18](https://unpkg.com/galgame/img/nekopara_p18.webp)
-
-![nekopara_p19](https://unpkg.com/galgame/img/nekopara_p19.webp)
-
-![nekopara_p20](https://unpkg.com/galgame/img/nekopara_p20.webp)
-
-![nekopara_p21](https://unpkg.com/galgame/img/nekopara_p21.webp)
-
-![nekopara_p22](https://unpkg.com/galgame/img/nekopara_p22.webp)
-
-![nekopara_p23](https://unpkg.com/galgame/img/nekopara_p23.webp)
-
-![nekopara_p24](https://unpkg.com/galgame/img/nekopara_p24.webp)
-
-![nekopara_p25](https://unpkg.com/galgame/img/nekopara_p25.webp)
-
-![nekopara_p26](https://unpkg.com/galgame/img/nekopara_p26.webp)
-
-![nekopara_p27](https://unpkg.com/galgame/img/nekopara_p27.webp)
-
-![nekopara_p28](https://unpkg.com/galgame/img/nekopara_p28.webp)
-
-![nekopara_p29](https://unpkg.com/galgame/img/nekopara_p29.webp)
-
-![nekopara_p30](https://unpkg.com/galgame/img/nekopara_p30.webp)
-
-![nekopara_p31](https://unpkg.com/galgame/img/nekopara_p31.webp)
-
-![nekopara_p32](https://unpkg.com/galgame/img/nekopara_p32.webp)
-
-![nekopara_p33](https://unpkg.com/galgame/img/nekopara_p33.webp)
-
-![nekopara_p34](https://unpkg.com/galgame/img/nekopara_p34.webp)
-
-![nekopara_p35](https://unpkg.com/galgame/img/nekopara_p35.webp)
-
-![nekopara_p36](https://unpkg.com/galgame/img/nekopara_p36.webp)
-
-![nekopara_p37](https://unpkg.com/galgame/img/nekopara_p37.webp)
-
-![nekopara_p38](https://unpkg.com/galgame/img/nekopara_p38.webp)
-
-![nekopara_p39](https://unpkg.com/galgame/img/nekopara_p39.webp)
-
-![nekopara_p40](https://unpkg.com/galgame/img/nekopara_p40.webp)
-
-![nekopara_p41](https://unpkg.com/galgame/img/nekopara_p41.webp)
-
-![nekopara_p42](https://unpkg.com/galgame/img/nekopara_p42.webp)
-
 ## 概要
 
 巧克力与香草为绘师sayori的个人社团NEKOWORKs中的原创角色兼[看板娘](https://zh.wikipedia.org/wiki/看板娘)。早在2009年7月13日，NEKOPARA的设计者兼sayori便在[pixiv](https://zh.wikipedia.org/wiki/Pixiv)发放出巧克力和香草的插图，随后几年也以她们为中心陆续推出原创同人作品。
@@ -200,8 +134,8 @@ NEKOPARA特点为引进[E-mote](https://zh.wikipedia.org/wiki/E-mote)系统，�
 9. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/%E5%AE%89%E5%8D%93/KRKR/%E3%80%90KRKR%E3%80%91%E3%80%901%E3%80%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E5%85%B0%E9%A6%99%E5%AD%90.7z?from=search)
 10. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/018/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B01.apk?sign=ufdQPip5gtaHC8G0tWSr3cuFfRziSMf4Y_Brf2Pic1E=:0)
 11. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2159)，密码：`量子acg`、`lzacg.top`
-12. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/230)
-13. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/594)
+12. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/230)
+13. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/594)
 
 ### Vol.0 水无月猫娘们的日常 水無月ネコたちの日常！
 
@@ -215,8 +149,8 @@ NEKOPARA特点为引进[E-mote](https://zh.wikipedia.org/wiki/E-mote)系统，�
 8. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/018/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B00.apk?sign=371Ej3S9U6w4lkH0DUxK6txo0ewjo38o33-fHbl48Fk=:0)
 9. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B00.7z)，密码：`lumouweinb`、`烟郁频道`
 10. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/nekopara-vol-0-vol-0.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-11. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/228)
-12. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/593)
+11. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/228)
+12. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/593)
 
 ### Vol.2 姐妹猫的砂糖 姉妹ネコのシュクレ
 
@@ -230,8 +164,8 @@ NEKOPARA特点为引进[E-mote](https://zh.wikipedia.org/wiki/E-mote)系统，�
 8. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B02.7z)，密码：`lumouweinb`、`烟郁频道`
 9. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/nekopara-vol-2-vol-2.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 10. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2160)，密码：`量子acg`、`lzacg.top`
-11. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/232)
-12. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/595)
+11. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/232)
+12. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/595)
 
 ### Vol.3 绽香猫娘姊妹 ネコたちのアロマティゼ
 
@@ -240,7 +174,7 @@ NEKOPARA特点为引进[E-mote](https://zh.wikipedia.org/wiki/E-mote)系统，�
 3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/rv4U0)，密码：`hikarinagi.com`
 4. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/gRDux)，密码：`hikarinagi.com`
 5. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/nekopara-vol-3.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-6. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/234)
+6. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/234)
 
 ### Extra 小猫之日的约定 仔ネコの日の約束 前传 番外
 
@@ -257,8 +191,8 @@ NEKOPARA特点为引进[E-mote](https://zh.wikipedia.org/wiki/E-mote)系统，�
 11. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B0%E7%95%AA%E5%A4%96.7z)，密码：`lumouweinb`、`烟郁频道`
 12. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/nekopara-extra.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 13. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2129)，密码：`量子acg`、`lzacg.top`
-14. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/241)
-15. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/599)
+14. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/241)
+15. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/599)
 
 ### Vol.4 猫与西点师的圣诞节 ～ネコとパティシエのノエル～
 
@@ -269,8 +203,8 @@ NEKOPARA特点为引进[E-mote](https://zh.wikipedia.org/wiki/E-mote)系统，�
 5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `KRKR`：[点击下载](https://pan.himoe.uk/s/0w3CD)，密码：`hikarinagi.com`
 6. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/NEKOPARA%20Vol.%204.7z)
 7. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/%E5%AE%89%E5%8D%93/KRKR/%E3%80%90krkr%E3%80%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B0%204.7z?from=search)
-8. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/239)
-9. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/598)
+8. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/239)
+9. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/598)
 
 ### 合集
 

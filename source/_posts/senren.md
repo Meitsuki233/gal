@@ -196,8 +196,8 @@ updated: 2024-10-02 12:08:30
 20. [失落小站](https://www.shinnku.com/) & `Windows` 【城彩修正】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1(%E5%9F%8E%E5%BD%A9%E4%BF%AE%E6%AD%A3).7z)
 21. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E3%80%90krkr%E3%80%91%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1.7z)
 22. [失落小站](https://www.shinnku.com/) & `Android`：[点击下载](https://www.shinnku.com/api/download/0/apk/%E5%86%B7%E7%8B%90/1001-1500/1322-%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1.apk)
-23. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/112)
-24. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/575)
+23. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/112)
+24. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/575)
 25. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/929)，密码：`量子acg`、`lzacg.top`
 26. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/956)，密码：`量子acg`、`lzacg.top`
 27. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2423)，密码：`量子acg`、`lzacg.top`

@@ -120,6 +120,6 @@ updated: 2024-07-22 02:05:00
 21. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/938)，密码：`量子acg`、`lzacg.top`
 22. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/949)，密码：`量子acg`、`lzacg.top`
 23. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2094)，密码：`量子acg`、`lzacg.top`
-24. [稻荷ACG](https://sakustar.me/) & `Windows`：[点击下载](https://sakustar.me/art/110)
-25. [稻荷ACG](https://sakustar.me/) & `KRKR`：[点击下载](https://sakustar.me/art/574)
+24. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/110)
+25. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.me/art/574)
 26. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=riddle)，密码：`终点`

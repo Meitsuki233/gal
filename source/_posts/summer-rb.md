@@ -118,9 +118,9 @@ updated: 2024-03-28 18:46:00
 
 ## 分流
 
-[稻荷ACG](https://sakustar.moe/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=475&index=0&i=0)
+[稻荷ACG](https://amoebi.com/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=475&index=0&i=0)
 
-[稻荷ACG](https://sakustar.moe/) & 安卓下载分流2：[点击下载](https://sakustar.moe/download?post_id=6519&index=0&i=0)
+[稻荷ACG](https://amoebi.com/) & 安卓下载分流2：[点击下载](https://sakustar.moe/download?post_id=6519&index=0&i=0)
 
 [姬路白雪](https://jlbx.xyz/) & Windows下载分流3：[点击下载](https://pan.jlbx.xyz/?s=Summer%20Pockets%20REFLECTION%20BLUE)，密码：终点
 
@@ -128,9 +128,9 @@ updated: 2024-03-28 18:46:00
 
 [迷迭香的博客](https://rosmontis.com/) & Windows下载分流5：[点击下载](https://drive.rosmontis.com/s/rP4CM)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压
 
-[TouchGAL](https://www.touchgal.com/) & Windows下载分流6：[点击下载](https://pan.touchgal.net/s/P8hR)，密码：touchgal
+[TouchGAL](https://touchgal.net/) & Windows下载分流6：[点击下载](https://pan.touchgal.net/s/P8hR)，密码：touchgal
 
-[TouchGAL](https://www.touchgal.com/) & 安卓下载分流7：[点击下载](https://pan.touchgal.net/s/md9Ux)，密码：touchgal
+[TouchGAL](https://touchgal.net/) & 安卓下载分流7：[点击下载](https://pan.touchgal.net/s/md9Ux)，密码：touchgal
 
 [天遊二次元](https://www.tiangal.com/) & Windows磁力BT链下载分流8：[点击下载](magnet:?xt=urn:btih:dce43de260587486f24c1a416e0fc80ce6d2a423)，密码：tiangal
 

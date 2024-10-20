@@ -95,5 +95,5 @@ updated: 2024-09-23 01:25:00
 13. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%8C%AE%E7%BB%99%E7%A5%9E%E6%98%8E%E8%88%AC%E7%9A%84%E4%BD%A0%20Extended%20Edition/%E3%80%90KRKR%E3%80%91%E3%80%90%E9%AB%98%E5%8E%8B%E6%B1%89%E5%8C%96%E3%80%91%E7%8C%AE%E7%BB%99%E7%A5%9E%E6%98%8E%E8%88%AC%E7%9A%84%E4%BD%A0%20Extended%20Edition.zip?sign=zfkyiAJmetiWiQPwhufYpEkYB-K_NC8ro8ZFR16Z_PU=:0)
 14. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/5665)，密码：`量子acg`、`lzacg.top`
 15. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/5864)，密码：`量子acg`、`lzacg.top`
-16. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/8463)
-17. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/8469)
+16. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/8463)
+17. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/8469)

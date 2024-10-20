@@ -63,5 +63,5 @@ updated: 2024-09-25 02:44:00
 5. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/game/549.html)，密码：`绮梦`
 6. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/8064)，密码：`量子acg`、`lzacg.top`
 7. [量子ACG](https://lzacg.org/) & `Tyranor`：[点击下载](https://lzacg.org/8078)，密码：`量子acg`、`lzacg.top`
-8. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/13325)
-9. [稻荷ACG](https://sakustar.com/) & `Tyranor`：[点击下载](https://sakustar.com/art/13940)
+8. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/13325)
+9. [稻荷ACG](https://amoebi.com/) & `Tyranor`：[点击下载](https://sakustar.com/art/13940)

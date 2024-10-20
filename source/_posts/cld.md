@@ -104,7 +104,7 @@ Clover Day's是ALcot公司的第14部作品，不仅是做为该公司于PC平�
 8. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=clover)，密码：`终点`
 9. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/396)，密码：`量子acg`、`lzacg.top`
 10. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2194)，密码：`量子acg`、`lzacg.top`
-11. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/495)
+11. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/495)
 12. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/clover-days.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 增强版
@@ -121,5 +121,5 @@ Clover Day's是ALcot公司的第14部作品，不仅是做为该公司于PC平�
 10. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=clover)，密码：`终点`
 11. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/4022)，密码：`量子acg`、`lzacg.top`
 12. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2193)，密码：`量子acg`、`lzacg.top`
-13. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.com/art/5765)
+13. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.com/art/5765)
 14. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/clover-days-plus.html)，密码：`忧郁的弟弟`、`忧郁的loli`

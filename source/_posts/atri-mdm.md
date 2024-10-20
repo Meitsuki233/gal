@@ -80,7 +80,7 @@ updated: 2024-09-13 05:03:00
 11. [梓澪の妙妙屋](https://zi0.cc/) & `Tyranor`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90Tyranor%E5%90%88%E9%9B%86%E3%80%91/ATRI%E3%80%90%E5%AE%98%E4%B8%AD%E3%80%91.rar?sign=LsghhlcP0bx2jPmyJcCj69VqwIyUrVdtEYQSHIm8Av0=:0)
 12. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/360)，密码：`量子acg`、`lzacg.top`
 13. [量子ACG](https://lzacg.org/) & `KRKR`：[点击下载](https://lzacg.org/2186)，密码：`量子acg`、`lzacg.top`
-14. [稻荷ACG](https://sakustar.com/) & `Windows`：[点击下载](https://sakustar.com/art/125)
-15. [稻荷ACG](https://sakustar.com/) & `KRKR`：[点击下载](https://sakustar.club/art/3659)
-16. [稻荷ACG](https://sakustar.com/) & `Android`：[点击下载](https://sakustar.club/art/5203)
+14. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.com/art/125)
+15. [稻荷ACG](https://amoebi.com/) & `KRKR`：[点击下载](https://sakustar.club/art/3659)
+16. [稻荷ACG](https://amoebi.com/) & `Android`：[点击下载](https://sakustar.club/art/5203)
 17. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/ATRI%20-My%20Dear%20Moments-.7z)，密码：`lumouweinb`、`烟郁频道`

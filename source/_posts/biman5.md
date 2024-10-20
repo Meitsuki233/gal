@@ -104,8 +104,8 @@ updated: 2024-06-09 01:58:30
 
 ## 分流
 
-1. [TouchGAL](https://www.touchgal.com/) & `Windows`：[点击下载](https://pan.touchgal.net/s/1wVIX)
-2. [TouchGAL](https://www.touchgal.com/) & `ONS`：[点击下载](https://pan.touchgal.net/s/xg5HO)
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/1wVIX)
+2. [TouchGAL](https://touchgal.net/) & `ONS`：[点击下载](https://pan.touchgal.net/s/xg5HO)
 3. [Koyso](https://koyso.com/) & `Windows`：[点击下载](https://koyso.com/game/460)
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%2C%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C%E7%B3%BB%E5%88%971-5/PC/5-%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C5%EF%BC%9A%E5%A4%A9%E9%81%93%E4%B8%8E%E8%BF%B7%E5%AE%AB%E7%9A%84%E5%B0%91%E5%A5%B3.zip?sign=YNL2FQTQ1F1lFY0yW0rVkPaft6VC8sBrVAVG4eZqv44=:0)
 5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/ADV%EF%BC%88%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%EF%BC%89/PC%E5%A4%A7%E4%BD%9CADV%E4%B8%AD%E6%96%87%E5%8A%A8%E6%80%81%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C5%EF%BC%9A%E7%90%86%E4%B8%8E%E8%BF%B7%E5%AE%AE%E7%9A%84%E5%B0%91%E5%A5%B3?from=search)
@@ -119,7 +119,7 @@ updated: 2024-06-09 01:58:30
 13. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C5-%E7%90%86%E4%B8%8E%E8%BF%B7%E5%AE%AB%E7%9A%84%E5%B0%91%E5%A5%B3.7z)
 14. [失落小站](https://www.shinnku.com/) & `ONS`：[点击下载](https://www.shinnku.com/api/download/0/ons/%E7%BE%8E%E5%B0%91%E5%A5%B3%E4%B8%87%E5%8D%8E%E9%95%9C5v3.0.zip)
 15. [迷迭香的博客](https://rosmontis.com/) & `Windows`：[点击下载](https://drive.rosmontis.com/s/W2oU7)，密码：`rosmontis`，去掉 `.rosmontis` 后缀名再解压
-16. [稻荷ACG](https://sakustar.moe/) & `Windows`：[点击下载](https://sakustar.me/art/225)
-17. [稻荷ACG](https://sakustar.moe/) & `ONS`：[点击下载](https://sakustar.me/art/592)
+16. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://sakustar.me/art/225)
+17. [稻荷ACG](https://amoebi.com/) & `ONS`：[点击下载](https://sakustar.me/art/592)
 18. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://acgs.one/game/53.html)，密码：`acgs`、`绮梦`
 19. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/6059)，密码：`量子acg`、`lzacg.top`

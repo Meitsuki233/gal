@@ -66,5 +66,5 @@ updated: 2024-10-02 16:09:10
 10. [失落小站](https://www.shinnku.com/) & `Windows` 【全HS修正 7z.002】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%A4%A9%E6%B4%A5%E7%BD%AA/%E5%A4%A9%E6%B4%A5%E7%BD%AA(%E5%85%A8HS%E4%BF%AE%E6%AD%A3).7z.002)
 11. [失落小站](https://www.shinnku.com/) & `Windows` 【全HS修正 7z.003】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%A4%A9%E6%B4%A5%E7%BD%AA/%E5%A4%A9%E6%B4%A5%E7%BD%AA(%E5%85%A8HS%E4%BF%AE%E6%AD%A3).7z.003)
 12. [失落小站](https://www.shinnku.com/) & `Windows` 【全HS修正 7z.004】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%A4%A9%E6%B4%A5%E7%BD%AA/%E5%A4%A9%E6%B4%A5%E7%BD%AA(%E5%85%A8HS%E4%BF%AE%E6%AD%A3).7z.004)
-13. [稻荷ACG](https://sakustar.com/) & `Windows` 【绿茶汉化组】：[点击下载](https://sakustar.com/art/7576)
+13. [稻荷ACG](https://amoebi.com/) & `Windows` 【绿茶汉化组】：[点击下载](https://sakustar.com/art/7576)
 14. [量子ACG](https://lzacg.org/) & `Windows` 【绿茶汉化组 HS汉化补全】：[点击下载](https://lzacg.org/5548)，密码：`量子acg`、`lzacg.top`
