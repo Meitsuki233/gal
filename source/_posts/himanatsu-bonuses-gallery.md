@@ -1,5 +1,5 @@
 ---
-title: （画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品／（画集・設定資料集）向日葵の教会と長い夏休み オフィシャルアートワークス
+title: （画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品／（画集・設定資料集）向日葵の教会と長い夏休み オフィシャルアートワークス／向日葵的教会与长夏假期／向日葵教会和漫长的暑假
 abbrlink: 33924
 tags:
   - 枕社
@@ -13,13 +13,13 @@ date: 2024-02-10 03:00:00
 updated: 2024-03-30 21:56:00
 ---
 
-![himanatsu-bonuses-settings-gallery](https://unpkg.com/galgame/img/himanatsu-bonuses-settings-gallery.webp)
+![himanatsu-bonuses-gallery](https://unpkg.com/galgame/img/himanatsu-bonuses-gallery.webp)
 
 （画集・设定资料集）向日葵的教会与长长的暑假 官方艺术作品
 
-（画集・設定資料集）向日葵の教会と長い夏休み オフィシャルアートワークス
-
 <!-- more -->
+
+（画集・設定資料集）向日葵の教会と長い夏休み オフィシャルアートワークス
 
 ## 提示
 

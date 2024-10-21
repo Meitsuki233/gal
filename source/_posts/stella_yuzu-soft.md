@@ -22,7 +22,7 @@ date: 2024-02-10 23:42:00
 updated: 2024-07-29 21:24:00
 ---
 
-![stella](https://unpkg.com/galgame/img/stella.webp)
+![stella_yuzu-soft](https://unpkg.com/galgame/img/stella_yuzu-soft.webp)
 
 **星光咖啡馆与死神之蝶**（日语：**喫茶（カフェ）ステラと死神の蝶**、英语：***Café Stella and the Reapers' Butterflies***）是由[柚子社](https://zh.moegirl.org.cn/柚子社)制作的[Galgame](https://zh.moegirl.org.cn/Galgame)。
 
@@ -59,17 +59,17 @@ updated: 2024-07-29 21:24:00
 
 ## 图片
 
-![stella_p1](https://unpkg.com/galgame/img/stella_p1.webp)
+![stella_yuzu-soft_p1](https://unpkg.com/galgame/img/stella_yuzu-soft_p1.webp)
 
-![stella_p2](https://unpkg.com/galgame/img/stella_p2.webp)
+![stella_yuzu-soft_p2](https://unpkg.com/galgame/img/stella_yuzu-soft_p2.webp)
 
-![stella_p3](https://unpkg.com/galgame/img/stella_p3.webp)
+![stella_yuzu-soft_p3](https://unpkg.com/galgame/img/stella_yuzu-soft_p3.webp)
 
-![stella_p4](https://unpkg.com/galgame/img/stella_p4.webp)
+![stella_yuzu-soft_p4](https://unpkg.com/galgame/img/stella_yuzu-soft_p4.webp)
 
-![stella_p5](https://unpkg.com/galgame/img/stella_p5.webp)
+![stella_yuzu-soft_p5](https://unpkg.com/galgame/img/stella_yuzu-soft_p5.webp)
 
-![stella_p6](https://unpkg.com/galgame/img/stella_p6.webp)
+![stella_yuzu-soft_p6](https://unpkg.com/galgame/img/stella_yuzu-soft_p6.webp)
 
 ## 创作相关
 
