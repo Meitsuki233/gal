@@ -350,17 +350,17 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 ### 01 寻找小光
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/rnN9sy)
-2. [TouchGAL](https://touchgal.net/) & `Windows` 【重制版】：[点击下载](https://pan.touchgal.net/s/oVvF2)
-3. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows` 【重制版】：[点击下载](https://www.ttloli.com/lansi01-zhongzhiban.html)，密码：`忧郁的弟弟`、`忧郁的loli`
-4. [NekoGAL](https://www.nekogal.com/) & `Windows` 【重制版】：[点击下载](https://pan.nekogal.top/s/AK4ul)
+2. [TouchGAL](https://touchgal.net/) & `Windows`【重制版】：[点击下载](https://pan.touchgal.net/s/oVvF2)
+3. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`【重制版】：[点击下载](https://www.ttloli.com/lansi01-zhongzhiban.html)，密码：`忧郁的弟弟`、`忧郁的loli`
+4. [NekoGAL](https://www.nekogal.com/) & `Windows`【重制版】：[点击下载](https://pan.nekogal.top/s/AK4ul)
 5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/pkrHN)，密码：`hikarinagi.com`
 6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/v2mVIj)，密码：`hikarinagi.com`
-7. [失落小站](https://www.shinnku.com/) & `Windows` 【重制版】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF01%20%E5%AF%BB%E6%89%BE%E5%B0%8F%E5%85%89%20%E9%87%8D%E5%88%B6%E7%89%88.7z)
-8. [失落小站](https://www.shinnku.com/) & `Windows` 【摘要版】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF1%E6%91%98%E8%A6%81%E7%89%88.7z)
-9. [失落小站](https://www.shinnku.com/) & `Windows` 【摘要版】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[040827][ALICESOFT]%20%E5%85%B0%E6%96%AF%EF%BC%91%E6%91%98%E8%A6%81%E7%89%88.rar)
+7. [失落小站](https://www.shinnku.com/) & `Windows`【重制版】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF01%20%E5%AF%BB%E6%89%BE%E5%B0%8F%E5%85%89%20%E9%87%8D%E5%88%B6%E7%89%88.7z)
+8. [失落小站](https://www.shinnku.com/) & `Windows`【摘要版】：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF1%E6%91%98%E8%A6%81%E7%89%88.7z)
+9. [失落小站](https://www.shinnku.com/) & `Windows`【摘要版】：[点击下载](https://www.shinnku.com/api/download/zd/0001-0500/[040827][ALICESOFT]%20%E5%85%B0%E6%96%AF%EF%BC%91%E6%91%98%E8%A6%81%E7%89%88.rar)
 10. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[130927][ALICESOFT]%20%E5%85%B0%E6%96%AF01%20V1.0.rar)
-11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【摘要版】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BAliceSoft%5D%20Rance%201%20-%20Digest%20Edition%20%20%E5%85%B0%E6%96%AF%EF%BC%91%E6%91%98%E8%A6%81%E7%89%88%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%8D%A1%E6%8B%89%E4%BF%9D%E6%8A%A4%E5%8D%8F%E4%BC%9A%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=6oyBHbsb1CYIp-P_FnxDLhlX1qumlnKXEowL2_pyQeM=:0)
-12. [稻荷ACG](https://amoebi.com/) & `Windows` 【重制版】：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF01+%E5%AF%BB%E6%89%BE%E5%B0%8F%E5%85%89+%E9%87%8D%E5%88%B6%E7%89%88.7z)
+11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【摘要版】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BAliceSoft%5D%20Rance%201%20-%20Digest%20Edition%20%20%E5%85%B0%E6%96%AF%EF%BC%91%E6%91%98%E8%A6%81%E7%89%88%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%8D%A1%E6%8B%89%E4%BF%9D%E6%8A%A4%E5%8D%8F%E4%BC%9A%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=6oyBHbsb1CYIp-P_FnxDLhlX1qumlnKXEowL2_pyQeM=:0)
+12. [稻荷ACG](https://amoebi.com/) & `Windows`【重制版】：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF01+%E5%AF%BB%E6%89%BE%E5%B0%8F%E5%85%89+%E9%87%8D%E5%88%B6%E7%89%88.7z)
 
 ### 02 反叛的少女们
 
@@ -371,7 +371,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF02%20%E5%8F%8D%E5%8F%9B%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC.7z)
 6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/0501-1000/[091218][ALICESOFT]%20%E5%85%B0%E6%96%AF02%20V1.1.rar)
 7. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF02+%E5%8F%8D%E5%8F%9B%E7%9A%84%E5%B0%91%E5%A5%B3%E4%BB%AC.7z)
-8. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【集锦】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E5%90%88%E9%9B%86/2024/04/%5B%E3%82%A2%E3%83%AA%E3%82%B9%E3%82%BD%E3%83%95%E3%83%88%20%26%20Alpharobo%20%26%20BabaJeanmel%5D%20%E3%83%A9%E3%83%B3%E3%82%B9II%20%E5%85%B0%E6%96%AF%EF%BC%92%E9%9B%86%E9%94%A6%20%5B%E5%8D%A1%E6%8B%89%E4%BF%9D%E6%8A%A4%E5%8D%8F%E4%BC%9A%5D.zip?sign=Zy9ATJiLJgBpBG0i8tqM4FZQjBQOdNu6NTPgbfQCvGk=:0)
+8. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【集锦】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E5%90%88%E9%9B%86/2024/04/%5B%E3%82%A2%E3%83%AA%E3%82%B9%E3%82%BD%E3%83%95%E3%83%88%20%26%20Alpharobo%20%26%20BabaJeanmel%5D%20%E3%83%A9%E3%83%B3%E3%82%B9II%20%E5%85%B0%E6%96%AF%EF%BC%92%E9%9B%86%E9%94%A6%20%5B%E5%8D%A1%E6%8B%89%E4%BF%9D%E6%8A%A4%E5%8D%8F%E4%BC%9A%5D.zip?sign=Zy9ATJiLJgBpBG0i8tqM4FZQjBQOdNu6NTPgbfQCvGk=:0)
 9. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`：[点击下载](https://www.ttloli.com/lansi2-fanpandeshaonvmen.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 03 利萨斯陷落
@@ -383,7 +383,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 5. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E5%85%B0%E6%96%AF03%20%E5%88%A9%E8%90%A8%E6%96%AF%E9%99%B7%E8%90%BD.7z)
 6. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1001-1500/[150828][ALICESOFT]%20%E5%85%B0%E6%96%AF03.rar)
 7. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/%E5%85%B0%E6%96%AF/%E5%85%B0%E6%96%AF03+%E5%88%A9%E8%90%A8%E6%96%AF%E9%99%B7%E8%90%BD.7z)
-8. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows` 【重制版】：[点击下载](https://www.ttloli.com/lansi03-zhongzhiban.html)，密码：`忧郁的弟弟`、`忧郁的loli`
+8. [我的Galgame资源发布站](https://www.ttloli.com/) & `Windows`【重制版】：[点击下载](https://www.ttloli.com/lansi03-zhongzhiban.html)，密码：`忧郁的弟弟`、`忧郁的loli`
 
 ### 04 教团的遗产
 
@@ -419,7 +419,7 @@ LP7年，兰斯一行在找圣女怪物的途中误入荷鲁斯的装置沉睡�
 2. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/qJ2te)
 3. [Hikarinagi](https://www.hikarinagi.com/) & `Windows`：[点击下载](https://pan.himoe.uk/s/M861S0)，密码：`hikarinagi.com`
 4. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/0/win/%E9%AC%BC%E7%95%9C%E7%8E%8B%E5%85%B0%E6%96%AF.7z)
-5. [失落小站](https://www.shinnku.com/) & `Windows` 【汉化测试版】：[点击下载](https://www.shinnku.com/api/download/zd/2001-2500/[961219][ALICESOFT]%20%E9%AC%BC%E7%95%9C%E5%85%B0%E6%96%AF%E6%B1%89%E5%8C%96%E6%B5%8B%E8%AF%95%E7%89%88.rar)
+5. [失落小站](https://www.shinnku.com/) & `Windows`【汉化测试版】：[点击下载](https://www.shinnku.com/api/download/zd/2001-2500/[961219][ALICESOFT]%20%E9%AC%BC%E7%95%9C%E5%85%B0%E6%96%AF%E6%B1%89%E5%8C%96%E6%B5%8B%E8%AF%95%E7%89%88.rar)
 
 ### 5D 孤单的少女
 

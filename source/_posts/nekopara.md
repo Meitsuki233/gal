@@ -209,9 +209,9 @@ NEKOPARA特点为引进[E-mote](https://zh.wikipedia.org/wiki/E-mote)系统，�
 ### 合集
 
 1. [绮梦](https://acgs.one/) & `Windows` + `KRKR`：[点击下载](https://acgs.one/game/50.html)，密码：`acgs`、`绮梦`
-2. [姬路白雪](https://jlbx.xyz/) & `Windows` 【1 0 2 3 Extra】：[点击下载](https://pan.jlbx.xyz/?s=%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B0)，密码：`终点`
+2. [姬路白雪](https://jlbx.xyz/) & `Windows`【1 0 2 3 Extra】：[点击下载](https://pan.jlbx.xyz/?s=%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B0)，密码：`终点`
 3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `KRKR`：[点击下载](https://zi0.cc/,%E3%80%90ADV-%E5%86%92%E9%99%A9%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC+%E5%AE%89%E5%8D%93%E3%80%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E9%A6%99%E5%AD%90%E5%85%B0)
-4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` 【1 0 2 3 4】：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/%E3%80%90PC%E3%80%91/%E3%80%90PC%E3%80%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E5%85%B0%E9%A6%99%E5%AD%90)
+4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【1 0 2 3 4】：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-1%E3%80%91/AVG%EF%BC%88%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4%EF%BC%89/%E3%80%90PC%E3%80%91/%E3%80%90PC%E3%80%91%E5%B7%A7%E5%85%8B%E5%8A%9B%E4%B8%8E%E5%85%B0%E9%A6%99%E5%AD%90)
 5. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/299)，密码：`量子acg`、`lzacg.top`
-6. [量子ACG](https://lzacg.org/) & `KRKR` 【0 2】：[点击下载](https://lzacg.org/2153)，密码：`量子acg`、`lzacg.top`
-7. [烟郁Galgame](https://yanyugal.top/) & `KRKR` 【1 0 2 Extra 4】：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E7%8C%AB%E5%A8%98%E4%B9%90%E5%9B%AD)，密码：`lumouweinb`、`烟郁频道`
+6. [量子ACG](https://lzacg.org/) & `KRKR`【0 2】：[点击下载](https://lzacg.org/2153)，密码：`量子acg`、`lzacg.top`
+7. [烟郁Galgame](https://yanyugal.top/) & `KRKR`【1 0 2 Extra 4】：[点击下载](https://yanyugal.top/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E7%8C%AB%E5%A8%98%E4%B9%90%E5%9B%AD)，密码：`lumouweinb`、`烟郁频道`
