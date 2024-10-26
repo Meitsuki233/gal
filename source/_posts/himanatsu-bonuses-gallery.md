@@ -3,9 +3,6 @@ title: （画集・设定资料集）向日葵的教会与长长的暑假 官方
 abbrlink: 33924
 tags:
   - 枕社
-  - 特典
-  - 画集
-  - 设定资料集
   - 2013
 categories:
   - Other

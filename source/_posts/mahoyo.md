@@ -3,10 +3,6 @@ title: 魔法使之夜／魔法使いの夜／魔法师之夜／Witch on the Hol
 abbrlink: 36858
 tags:
   - TYPE-MOON
-  - 型月
-  - 奈须蘑菇
-  - 奈須きのこ
-  - 无限延期
   - 奇幻
   - 演出
   - 战斗

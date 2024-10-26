@@ -3,12 +3,8 @@ title: 前勇者派对：屈服的奴隶教育／元勇者パーティ― 屈服
 abbrlink: 8629
 tags:
   - もみもみスタジオ
-  - 高潮脸
-  - 阿黑颜
-  - 拘束
-  - 监禁
-  - 洗脑
-  - 潮吹
+  - 拔作
+  - 同人
   - 2021
 categories:
   - - Windows
@@ -32,7 +28,7 @@ updated: 2024-04-03 00:00:00
 游戏属于轻度慎重的凌褥教育，主要体现在拘束、电击、C眠这种类型。
 画风非常不错，剧情也相当好，最新的精翻汉化，质量上乘强烈推荐！
 
-## 剧情简介
+## 剧情
 
 主要内容大概就是打败魔王的勇者小队被邪恶的一伙人盯上。
 队伍里的女孩们一个个被崔眠控制，并进行了各种开发。
@@ -49,6 +45,6 @@ updated: 2024-04-03 00:00:00
 
 ## 分流
 
-1. [次元宝藏君](https://cybzacg.xyz/) & `Windows` 下载分流：[点击下载](https://pan.baidu.com/s/1TfW6gr8qLI8yV01KNz65bg?pwd=pimv)，提取码：pimv，解压码：cybz，将后缀改成 `.7z` 再解压
-2. [TouchGAL](https://touchgal.net/) & `Android` 下载分流：[点击下载](https://pan.touchgal.net/s/gynqsL)
-3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `Android` 下载分流：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-2%E3%80%91/%E3%80%90%E5%82%AC%E7%9C%A0RPG%E6%B1%89%E5%8C%96%E8%B0%83%E6%95%99%E6%80%A7%E5%A5%B4%E3%80%91%E5%89%8D%E5%8B%87%E8%80%85%E6%B4%BE%E5%AF%B9%EF%BC%9A%E5%B1%88%E6%9C%8D%E7%9A%84%E5%A5%B4%E9%9A%B6%E6%95%99%E8%82%B2?from=search)
+1. [次元宝藏君](https://cybzacg.xyz/) & `Windows`：[点击下载](https://pan.baidu.com/s/1TfW6gr8qLI8yV01KNz65bg?pwd=pimv)，提取码：pimv，解压码：cybz，将后缀改成 `.7z` 再解压
+2. [TouchGAL](https://touchgal.net/) & `Android`：[点击下载](https://pan.touchgal.net/s/gynqsL)
+3. [梓澪の妙妙屋](https://zi0.cc/) & `Windows` + `Android`：[点击下载](https://zi0.cc/.%E3%80%90%E5%A4%8F%E9%A3%8E%E3%80%91/.%E3%80%90%E5%A4%8F%E9%A3%8E-2%E3%80%91/%E3%80%90%E5%82%AC%E7%9C%A0RPG%E6%B1%89%E5%8C%96%E8%B0%83%E6%95%99%E6%80%A7%E5%A5%B4%E3%80%91%E5%89%8D%E5%8B%87%E8%80%85%E6%B4%BE%E5%AF%B9%EF%BC%9A%E5%B1%88%E6%9C%8D%E7%9A%84%E5%A5%B4%E9%9A%B6%E6%95%99%E8%82%B2?from=search)

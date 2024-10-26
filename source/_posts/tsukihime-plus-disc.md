@@ -3,12 +3,7 @@ title: 月姫 PLUS-DISC／つきひめ／Tsukihime PLUS-DISK／月姫
 abbrlink: 58472
 tags:
   - TYPE-MOON
-  - 型月
-  - 月世界
   - FD
-  - 奈须蘑菇
-  - 奈須きのこ
-  - 武内崇
   - 奇幻
   - 2001
 categories:

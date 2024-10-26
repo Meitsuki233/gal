@@ -1,18 +1,17 @@
 ---
-title: 冲绳奴隶岛／重生萝莉岛／沖縄スレイブアイランド
+title: 重生萝莉岛／冲绳奴隶岛／沖縄スレイブアイランド
 abbrlink: 16642
 tags:
   - Underground-Campaign
-  - UGCP
-  - BL
   - 重口
-  - 暖人心田
-  - 基
+  - 恶心
+  - 变态
   - 十二神器
   - 拔作
-  - 猎奇
   - 感人
+  - 猎奇
   - 萝莉
+  - 同人
   - 社保
   - 2010
 categories:
@@ -20,18 +19,10 @@ categories:
   - - KRKR
   - - Android
 date: 2024-04-21 23:35:00
-updated: 2024-04-21 23:35:00
+updated: 2024-10-27 04:44:15
 ---
 
 ![slave](https://unpkg.com/galgame/img/slave.webp)
-
-《**冲绳奴隶岛**》（[日语](https://zh.moegirl.org.cn/日语)：沖縄スレイブアイランド）是游戏工作室**Underground Campaign**(简称“UGCP”)制作的一部**极度重口味的[㚻向](https://zh.moegirl.org.cn/㚻向)[拔作](https://zh.moegirl.org.cn/拔作)**，于2010年3月19日发售。
-
-<!-- more -->
-
-另有《**冲绳萝莉岛**》《**重生萝莉岛**》等[钓鱼](https://zh.moegirl.org.cn/钓鱼(网络用语))用恶搞名称。不会真[有人](https://zh.moegirl.org.cn/有人)觉得这[游戏](https://zh.moegirl.org.cn/游戏)有[萝莉](https://zh.moegirl.org.cn/萝莉)的存在吧？
-
-## 游戏描述
 
 O島…從沖繩的水座島只要開快艇30分鐘就能到達的小小離島…
 
@@ -45,7 +36,7 @@ O島…從沖繩的水座島只要開快艇30分鐘就能到達的小小離島�
 
 染上了ＸＸ的白色與絕望的藍色的、肉慾的度假勝地…
 
-## 图片
+<!-- more -->
 
 ![slave_p1](https://unpkg.com/galgame/img/slave_p1.webp)
 
@@ -55,7 +46,7 @@ O島…從沖繩的水座島只要開快艇30分鐘就能到達的小小離島�
 
 ## 链接
 
-- **（日文）**[官网链接](http://ugcp.sakura.ne.jp/slave/index.html)（开幕雷击，请当心）
+- [官网](https://ugcp.sakura.ne.jp/slave/)
 
 ## 提示
 
@@ -63,14 +54,17 @@ O島…從沖繩的水座島只要開快艇30分鐘就能到達的小小離島�
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/7v6HX)
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/xQAOIO)
 2. [TouchGAL](https://touchgal.net/) & `KRKR`：[点击下载](https://pan.touchgal.net/s/mZksx)
-3. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B)，密码：`终点`、`书想工作室`
-4. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.7z)，密码：`烟郁频道`
-5. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%2C%E3%80%90RPG-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B%EF%BC%88%E5%86%B2%E7%BB%B3%E5%A5%B4%E9%9A%B6%E5%B2%9B%EF%BC%89/PC-%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.zip?sign=eWeH5EqIYe3C7z4kpnLrdkDtYWoRdo5kIedUIV_J7PE=:0)
-6. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%2C%E3%80%90RPG-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B%EF%BC%88%E5%86%B2%E7%BB%B3%E5%A5%B4%E9%9A%B6%E5%B2%9B%EF%BC%89/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.apk?sign=0n3fZmiKgSsumvhChkzSE9QM-OQadqV7Cv2IqWpH-kM=:0)
-7. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/008/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.apk?sign=WnRAYqG9rWEdPfcqRomxrlcdPmYioWvzkWKRCQ8OLN8=:0)
-8. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90KRKR%E5%90%88%E9%9B%86%E3%80%91/2/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.exe?from=search)
-9. [绮梦](https://acgs.one/) & `Windows`：[点击下载](https://acgs.one/down_html/?url=game/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B&name=%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B)，密码：`acgs`、`绮梦`
-10. [绮梦](https://acgs.one/) & `KRKR`：[点击下载](https://acgs.one/down_html/?url=game/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B_KRKR&name=%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9BKRKR)，密码：`acgs`、`绮梦`
-11. [绮梦](https://acgs.one/) & `Android`：[点击下载](https://acgs.one/down_html/?url=game/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B_%E5%AE%89%E5%8D%93%E7%9B%B4%E8%A3%85&name=%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B%E5%AE%89%E5%8D%93%E7%9B%B4%E8%A3%85)，密码：`acgs`、`绮梦`
+3. [失落小站](https://www.shinnku.com/) & `KRKR`：[点击下载](https://www.shinnku.com/api/download/0/krkr/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.7z)
+4. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/7678)，密码：`量子acg`、`lzacg.top`
+5. [猫猫网盘](https://pan.catcat.blog/) & `Windows`【小柳勇造后援会】：[点击下载](https://pan.catcat.blog/d/GalGame/SP%E5%90%8E%E7%AB%AF1%5BGalGame%E5%88%86%E5%8C%BA%5D/%E6%B1%89%E5%8C%96%E6%B8%B8%E6%88%8F%E6%9C%88%E4%BB%BD%E5%90%88%E9%9B%86-%E7%A6%BB%E6%95%A3/2024%E5%B9%B4%E6%B1%89%E5%8C%96%E5%90%88%E9%9B%86/06/%E6%96%B0%E6%B1%89%E5%8C%96%E4%BD%9C%E5%93%81/%5BUnderground%20Campaign%5D%20%E6%B2%96%E7%B8%84%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%96%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%20%E5%86%B2%E7%BB%B3%E5%A5%B4%E9%9A%B6%E5%B2%9B%20%5B%E5%B0%8F%E6%9F%B3%E5%8B%87%E9%80%A0%E5%90%8E%E6%8F%B4%E4%BC%9A%5D/%5BUnderground%20Campaign%5D%20%E6%B2%96%E7%B8%84%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%96%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%20%E5%86%B2%E7%BB%B3%E5%A5%B4%E9%9A%B6%E5%B2%9B%20%5B%E5%B0%8F%E6%9F%B3%E5%8B%87%E9%80%A0%E5%90%8E%E6%8F%B4%E4%BC%9A%5D.rar?sign=JuBsVqNDsF-7NRM5x1Be5JNmtaFYSyD9RAviifzPdxc=:0)
+6. [姬路白雪](https://pan.jlbx.xyz/) & `Windows` + `KRKR`：[点击下载](https://pan.jlbx.xyz/?s=%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B)，密码：`终点`、`书想工作室`
+7. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/PC/%E5%8D%81%E4%BA%8C%E7%A5%9E%E5%99%A8/1.%E5%9C%B0%E7%8B%B1%E6%B7%B1%E6%B8%8A%E2%80%94%E5%86%B2%E7%BB%B3%E5%A5%B4%E9%9A%B6%E5%B2%9B.rar)，密码：`烟郁频道`
+8. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.7z)，密码：`lumouweinb`、`烟郁频道`
+9. [绮梦](https://acgs.one/) & `Windows` + `KRKR` + `Android`：[点击下载](https://acgs.one/game/114514.html)，密码：`acgs`、`绮梦`
+10. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【小柳勇造后援会】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E5%90%88%E9%9B%86/2024/06/%5BUnderground%20Campaign%5D%20%E6%B2%96%E7%B8%84%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%96%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%20%E5%86%B2%E7%BB%B3%E5%A5%B4%E9%9A%B6%E5%B2%9B%20%5B%E5%B0%8F%E6%9F%B3%E5%8B%87%E9%80%A0%E5%90%8E%E6%8F%B4%E4%BC%9A%5D.zip?sign=LIMncPV9uoCJx-anNqRDyn-wCxlW3emM6TO971XKlQw=:0)
+11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%2C%E3%80%90RPG-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B%EF%BC%88%E5%86%B2%E7%BB%B3%E5%A5%B4%E9%9A%B6%E5%B2%9B%EF%BC%89/PC-%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.zip?sign=eWeH5EqIYe3C7z4kpnLrdkDtYWoRdo5kIedUIV_J7PE=:0)
+12. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%2C%E3%80%90RPG-%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E6%B8%B8%E6%88%8F%E3%80%91/%E3%80%90PC%2B%E5%AE%89%E5%8D%93%E3%80%91%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B%EF%BC%88%E5%86%B2%E7%BB%B3%E5%A5%B4%E9%9A%B6%E5%B2%9B%EF%BC%89/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.apk?sign=0n3fZmiKgSsumvhChkzSE9QM-OQadqV7Cv2IqWpH-kM=:0)
+13. [梓澪の妙妙屋](https://zi0.cc/) & `KRKR`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90KRKR%E5%90%88%E9%9B%86%E3%80%91/2/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.exe?sign=ioyKWXkBqG-Q0Qv7pmlkX30OsUQTrB2RfB68m-T5FVU=:0)，密码：`91白嫖网`、`书想工作室`
+14. [梓澪の妙妙屋](https://zi0.cc/) & `Android`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%BD%92%20%E6%A1%A3%E3%80%91/%E3%80%90%E5%AE%89%E5%8D%93%E5%90%88%E9%9B%86%E3%80%91/008/%E9%87%8D%E7%94%9F%E8%90%9D%E8%8E%89%E5%B2%9B.apk?sign=WnRAYqG9rWEdPfcqRomxrlcdPmYioWvzkWKRCQ8OLN8=:0)

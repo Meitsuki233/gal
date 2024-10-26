@@ -14,7 +14,6 @@ tags:
   - 催泪
   - 校园
   - 战斗
-  - 跳票
   - 2015
 categories:
   - Windows

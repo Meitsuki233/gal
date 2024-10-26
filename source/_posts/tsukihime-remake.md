@@ -3,11 +3,6 @@ title: 月姫 -A piece of blue glass moon-／Tsukihime Remake／月姬R 一片�
 abbrlink: 9169
 tags:
   - TYPE-MOON
-  - 型月
-  - 月世界
-  - 有生之年
-  - 奈须蘑菇
-  - 奈須きのこ
   - 奇幻
   - 战斗
   - 悬疑
