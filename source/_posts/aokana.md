@@ -85,10 +85,10 @@ updated: 2024-10-27 03:13:40
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
-- TouchGAL 【仅移动端问题】：
+- [TouchGAL](https://touchgal.net/) 【仅移动端问题】：
   - 直装版无CG鉴赏模式，移植版有全功能
   - 补丁使用方法：解压后把obb文件和游戏本体自带的obb放到一起
-- 失落小站 > README.md
+- [失落小站](https://www.shinnku.com/) > [README.md](https://www.shinnku.com/api/download/0/win/%E8%8B%8D%E4%B9%8B%E5%BD%BC%E6%96%B9%E7%9A%84%E5%9B%9B%E9%87%8D%E5%A5%8F&%E8%8B%8D%E8%93%9D%E5%BD%BC%E7%AB%AF%E7%9A%84%E5%9B%9B%E9%87%8D%E5%A5%8F/README.md)
   - 区别：
     - Steam版的最高分辨率是2560×1440，提升到了2K。
     - Steam版是游戏原作的内容，完备版（Perfect Edition）中增加的新剧情，
