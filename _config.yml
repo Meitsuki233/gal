@@ -224,7 +224,8 @@ valine:
   appKey: "OvpvXLKwajI2qYE4XsNMokpW"
   serverURLs: "https://valine.saop.cc"
   placeholder: "昵称栏输入 QQ 号即可获取头像与邮箱..\n评论支持标准的 Markdown 全语法~"
-  avatar_cdn: 'https://dn-qiniu-avatar.qbox.me/avatar/'
+  avatar: 'identicon'
+  avatar_cdn: 'https://weavatar.com/avatar/'
   pageSize: 20
   visitor: false
   comment_count: false # If false, comment count will only be displayed in post page, not in home page
