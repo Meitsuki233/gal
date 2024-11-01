@@ -5,25 +5,22 @@ tags:
   - Key
   - 键社
   - 棒球社
+  - 催泪
   - 纯爱
-  - 恋爱
-  - 唯美
   - 治愈
-  - 可爱
-  - 2018
-  - 2019
-  - 2020
-  - 2021
-  - 2022
-  - 白毛
-  - 青春
+  - 剧情
+  - 亲情
   - 泣
+  - 恋爱
+  - 萝莉
+  - 2018
+  - 2020
 categories:
   - - Windows
   - - Android
 author: 秋生GE
 date: 2024-02-02 00:30:00
-updated: 2024-03-28 18:46:00
+updated: 2024-11-01 22:15:00
 ---
 
 <style>
@@ -43,11 +40,11 @@ updated: 2024-03-28 18:46:00
 
 <!-- more -->
 
-## 游戏简介
+## 简介
 
 《**Summer Pockets**》是[Visual Art's](https://zh.wikipedia.org/wiki/Visual_Art's)游戏品牌[Key](https://zh.wikipedia.org/wiki/Key_(遊戲品牌))制作并于2018年6月29号发售的一部[美少女游戏](https://zh.wikipedia.org/wiki/美少女游戏)。2016年12月9日，Key官方推特公布形象封面与四位女主角的人设草图等初步情报，这部作品的主题句是“唯有那份眩目，未曾忘却（眩しさだけは　忘れなかった。）”，讲述了男主角和岛上的女孩在[濑户内海](https://zh.wikipedia.org/wiki/濑户内海)的一个名为鸟白岛的[离岛](https://zh.wikipedia.org/wiki/离岛)上相遇和交流发生的故事。2019年12月7日，Key宣布推出追加角色与剧情等的扩充版游戏《**Summer Pockets REFLECTION BLUE**》，并于2020年6月26日发售。2021年12月29日VISUAL ARTS于时间特番直播中正式宣布《Summer Pockets》将改编成[动画](https://zh.wikipedia.org/wiki/日本動畫)。
 
-## 剧情简介
+## 剧情
 
 为了整理祖母的遗物，男主角[鹰原羽伊里](https://moegirl.uk/%E9%B9%B0%E5%8E%9F%E7%BE%BD%E4%BE%9D%E9%87%8C)利用暑假来到了鸟白岛。
 在整理祖母遗物的过程中，渐渐的回忆起了儿时的记忆，并且在初次接触的海岛生活中，由一开始的困惑，慢慢变得适应了起来。
@@ -71,37 +68,6 @@ updated: 2024-03-28 18:46:00
 
 ![summer-rb_p5](https://unpkg.com/galgame/img/summer-rb_p5.webp)
 
-## STAFF
-
-- 原案：[麻枝准](https://zh.moegirl.org.cn/麻枝准)
-- 制作人：丘野塔也
-- 监督：魁
-- 原画：[Na-Ga](https://zh.moegirl.org.cn/Na-Ga)、[和泉つばす](https://zh.moegirl.org.cn/和泉つばす)、永山ゆうのん、ふむゆん、えんぎよし(SD)
-- 剧本：[新岛夕](https://zh.moegirl.org.cn/新岛夕)、魁、ハサマ
-- 音乐：[折户伸治](https://zh.moegirl.org.cn/折户伸治)、[麻枝准](https://zh.moegirl.org.cn/麻枝准)、どんまる、竹下智博、[水月陵](https://zh.moegirl.org.cn/水月陵)
-
-## CAST
-
-### 主要角色
-
-- [鹰原羽依里](https://moegirl.uk/%E9%B9%B0%E5%8E%9F%E7%BE%BD%E4%BE%9D%E9%87%8C)：[千叶翔也](https://mzh.moegirl.org.cn/%E5%8D%83%E5%8F%B6%E7%BF%94%E4%B9%9F)
-- [鸣濑白羽](https://moegirl.uk/%E9%B8%A3%E6%BF%91%E7%99%BD%E7%BE%BD)：[小原好美](https://mzh.moegirl.org.cn/%E5%B0%8F%E5%8E%9F%E5%A5%BD%E7%BE%8E)
-- [空门苍](https://moegirl.uk/%E7%A9%BA%E9%97%A8%E8%8B%8D)：[高森奈津美](https://mzh.moegirl.org.cn/%E9%AB%98%E6%A3%AE%E5%A5%88%E6%B4%A5%E7%BE%8E)
-- [久岛鸥](https://moegirl.uk/%E4%B9%85%E5%B2%9B%E9%B8%A5)：[岭内知美](https://mzh.moegirl.org.cn/%E5%B2%AD%E5%86%85%E7%9F%A5%E7%BE%8E)
-- [䌷 文德斯](https://moegirl.uk/%E4%8C%B7%E6%96%87%E5%BE%B7%E6%96%AF)：[岩井映美里](https://mzh.moegirl.org.cn/%E5%B2%A9%E4%BA%95%E6%98%A0%E7%BE%8E%E9%87%8C)
-- [野村美希](https://moegirl.uk/%E9%87%8E%E6%9D%91%E7%BE%8E%E5%B8%8C)：[一宫朔](https://mzh.moegirl.org.cn/%E4%B8%80%E5%AE%AB%E6%9C%94)
-- [水织静久](https://moegirl.uk/%E6%B0%B4%E7%BB%87%E9%9D%99%E4%B9%85)：[小山茉美](https://mzh.moegirl.org.cn/%E5%B0%8F%E5%B1%B1%E8%8C%89%E7%BE%8E#.E6.B8.B8.E6.88.8F)
-- [神山识](https://mzh.moegirl.org.cn/%E7%A5%9E%E5%B1%B1%E8%AF%86)：[菲鲁兹·蓝](https://mzh.moegirl.org.cn/%E8%8F%B2%E9%B2%81%E5%85%B9%C2%B7%E8%93%9D)
-- [加藤羽未](https://mzh.moegirl.org.cn/%E5%8A%A0%E8%97%A4%E7%BE%BD%E6%9C%AA)：[田中爱美](https://mzh.moegirl.org.cn/%E7%94%B0%E4%B8%AD%E7%88%B1%E7%BE%8E)
-
-### 其他角色
-
-- 三谷良一：[熊谷健太郎](https://mzh.moegirl.org.cn/%E7%86%8A%E8%B0%B7%E5%81%A5%E5%A4%AA%E9%83%8E)
-- 加纳天善：[滨田洋平](https://mzh.moegirl.org.cn/%E6%BB%A8%E7%94%B0%E6%B4%8B%E5%B9%B3)
-- 鸣濑小鸠：[白石稔](https://mzh.moegirl.org.cn/%E7%99%BD%E7%9F%B3%E7%A8%94)
-- [岬镜子](https://mzh.moegirl.org.cn/%E5%B2%AC%E9%95%9C%E5%AD%90)：[高本惠](https://mzh.moegirl.org.cn/%E9%AB%98%E6%9C%AC%E6%83%A0)
-- [稻荷](https://mzh.moegirl.org.cn/%E7%A8%BB%E8%8D%B7)：[铃木木乃美](https://mzh.moegirl.org.cn/%E9%93%83%E6%9C%A8%E6%9C%A8%E4%B9%83%E7%BE%8E)
-
 ## 链接
 
 - **（日文）**[游戏官网](http://key.visualarts.gr.jp/summer/)
@@ -116,24 +82,46 @@ updated: 2024-03-28 18:46:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
+- [失落小站](https://www.shinnku.com/) > [README.md](https://www.shinnku.com/api/download/0/win/Summer%20Pockets/README.md)
+  - Summer Pockets REFLECTION BLUE 为 Summer Pockets 的加强版，加强的有点多，看了下攻略，吓到我了。内置全 CG 存档和攻略
+  - Summer Pockets 两个版本的区别：据汉化组说稍有不同，部分文本进行了增减，汉化组重新润色校对
+  - Summer Pockets REFLECTION BLUE 文件校验码
+    - MD5:4f7f047fa84ea973921589798fa4c431
+    - SHA1:8228b2396e4d2553518ea1bc13dc54e6aa025383
+    - SHA256:af5ad6babd8866092f366c1070ce2795dc99085cb0d12145be6e6eb41bed1149
+    - CRC32:32acc488
+  - Summer Pockets (Steam 汉化版) 文件校验码
+    - MD5:0495831a2cb8e23e39055a4b9e2315c7
+    - SHA1:e3e2c9a49d1fc6661aaea30992af53943bcf2830
+    - SHA256:e45f46d4d376a51024f39f4e3a1e66eed1b43bea5fdf956f2269bb141c9e057b
+    - CRC32:d1993753
+  - Summer Pockets (硬盘汉化版 v2.1) 文件校验码
+    - MD5:315e579132b3cbe972e88010ce98921c
+    - SHA1:3584405c4e02c774339ffa67ffd057230ebed4a7
+    - SHA256:d078e05af968bbbfb90362a04a306f66cbcee7914fe98700483eff8dfa6d4725
+    - CRC32:3820b224
+
 ## 分流
 
-[稻荷ACG](https://amoebi.com/) & Windows下载分流1：[点击下载](https://sakustar.moe/download?post_id=475&index=0&i=0)
-
-[稻荷ACG](https://amoebi.com/) & 安卓下载分流2：[点击下载](https://sakustar.moe/download?post_id=6519&index=0&i=0)
-
-[姬路白雪](https://jlbx.xyz/) & Windows下载分流3：[点击下载](https://pan.jlbx.xyz/?s=Summer%20Pockets%20REFLECTION%20BLUE)，密码：终点
-
-[烟郁Galgame](https://yanyugal.top/) & 安卓下载分流4：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%A4%8F%E6%97%A5%E5%8F%A3%E8%A2%8B%20REFLECTION%20BLUE.7z)，密码：烟郁频道
-
-[迷迭香的博客](https://rosmontis.com/) & Windows下载分流5：[点击下载](https://drive.rosmontis.com/s/rP4CM)，密码：rosmontis，去掉 `.rosmontis` 后缀名再解压
-
-[TouchGAL](https://touchgal.net/) & Windows下载分流6：[点击下载](https://pan.touchgal.net/s/P8hR)，密码：touchgal
-
-[TouchGAL](https://touchgal.net/) & 安卓下载分流7：[点击下载](https://pan.touchgal.net/s/md9Ux)，密码：touchgal
-
-[天遊二次元](https://www.tiangal.com/) & Windows磁力BT链下载分流8：[点击下载](magnet:?xt=urn:btih:dce43de260587486f24c1a416e0fc80ce6d2a423)，密码：tiangal
-
-[梓澪の妙妙屋](https://zi0.cc/) & Windows下载分流9：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%E3%80%91key%E7%A4%BE%E7%B3%BB%E5%88%97%E4%BD%9C%E5%93%81/Summer%20Pockets%20REFLECTION%20BLUE.zip?sign=sLJwMKc5SVori7wmhI2_b7obtTMF6rSJZ6ye9uCMPc4=:0)
-
-[梓澪の妙妙屋](https://zi0.cc/) & Windows下载分流10：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part24/KEY/%E6%B1%89%E5%8C%96%E7%89%88/%5B200626%5D%5BKey%5D%20Summer%20Pockets%20REFLECTION%20BLUE.rar?sign=7GTw16-VL_DsiRdHudmcatwtryjIMbc0fmByNDcxF_w=:0)
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/P8hR)，密码：`touchgal`
+2. [TouchGAL](https://touchgal.net/) & `Android`：[点击下载](https://pan.touchgal.net/s/md9Ux)，密码：`touchgal`
+3. [NekoGAL](https://www.nekogal.com/) & `Windows`：[点击下载](https://pan.nekogal.top/s/91fL)
+4. [NekoGAL](https://www.nekogal.com/) & `Android`：[点击下载](https://pan.nekogal.top/s/e2RTG)
+5. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `Android`：[点击下载](https://pan.himoe.uk/s/y2RCz)，密码：`hikarinagi.com`
+6. [Hikarinagi](https://www.hikarinagi.com/) & `Windows` + `Android`：[点击下载](https://pan.himoe.uk/s/wp2mtz)，密码：`hikarinagi.com`
+7. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【枫笛&夏日纯臻 双版本最终版】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/12/%5BKey%5D%20Summer%20Pockets%20Reflection%20Blue%20%E5%8F%8C%E7%89%88%E6%9C%AC%E6%9C%80%E7%BB%88%E7%89%88%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%9E%AB%E7%AC%9B%26%E5%A4%8F%E6%97%A5%E7%BA%AF%E8%87%BB%5D.zip?sign=zyJxNH2y6gl8vzDSFi8llfS-35naGrws9PtUNB-KAjc=:0)
+8. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【夏日纯臻汉化组 V2.0 最终版】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/13/%5BKey%5D%20Summer%20Pockets%20Reflection%20Blue%20V2.0%E6%9C%80%E7%BB%88%E7%89%88%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E5%A4%8F%E6%97%A5%E7%BA%AF%E8%87%BB%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=yEnCcAIawL9a2dhQjXWcbgtfmVjSbVLPGvUpwOThoCk=:0)
+9. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`【V1.04 枫笛汉化组】：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/12/%5BKEY%5D%20Summer%20Pockets%20Reflection%20Blue%20V1.04%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%5D.zip?sign=FckHwX3VblnaOmQY1UzLet7VvTLGX_ri1ZhDAAPiHgw=:0)
+10. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E6%B1%89%E5%8C%96galgame%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86/%E6%B1%89%E5%8C%96%E4%BC%9A%E7%A4%BE%E5%90%88%E9%9B%86%E9%83%A8%E5%88%86%20part24/KEY/%E6%B1%89%E5%8C%96%E7%89%88/%5B200626%5D%5BKey%5D%20Summer%20Pockets%20REFLECTION%20BLUE.rar?sign=7GTw16-VL_DsiRdHudmcatwtryjIMbc0fmByNDcxF_w=:0)
+11. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E3%80%90PC%E3%80%91key%E7%A4%BE%E7%B3%BB%E5%88%97%E4%BD%9C%E5%93%81/Summer%20Pockets%20REFLECTION%20BLUE.zip?sign=sLJwMKc5SVori7wmhI2_b7obtTMF6rSJZ6ye9uCMPc4=:0)
+12. [稻荷ACG](https://amoebi.com/) & `Windows`：[点击下载](https://download.zrflie1.pw/PC/Summer+Pockets+REFLECTION+BLU.zip)
+13. [稻荷ACG](https://amoebi.com/) & `Android`：[点击下载](https://download.zrflie1.pw/APK/%E5%A4%8F%E6%97%A5%E5%8F%A3%E8%A2%8Breflection+blue.zip)
+14. [失落小站](https://www.shinnku.com/) & `Windows`【双汉化版】：[点击下载](https://www.shinnku.com/api/download/0/win/Summer%20Pockets/Summer%20Pockets%20REFLECTION%20BLUE(%E5%8F%8C%E6%B1%89%E5%8C%96%E7%89%88).7z)
+15. [失落小站](https://www.shinnku.com/) & `Windows`：[点击下载](https://www.shinnku.com/api/download/zd/1501-2000/[200626][Key]%20Summer%20Pockets%20REFLECTION%20BLUE.rar)
+16. [姬路白雪](https://pan.jlbx.xyz/) & `Windows`：[点击下载](https://pan.jlbx.xyz/?s=Summer%20Pockets%20REFLECTION%20BLUE)，密码：`终点`
+17. [姬路白雪](https://pan.jlbx.xyz/) & `Android`：[点击下载](https://pan.jlbx.xyz/?s=%E5%A4%8F%E6%97%A5%E5%8F%A3%E8%A2%8B%20%E8%94%9A%E8%93%9D%E5%9B%9E%E5%BF%86)，密码：`终点`
+18. [烟郁Galgame](https://yanyugal.top/) & `Windows`：[点击下载](https://yanyugal.top/d/disk1/PC/key/Summer%20Pockets%20REFLECTION%20BLUE.rar)，密码：`烟郁频道`
+19. [烟郁Galgame](https://yanyugal.top/) & `Android`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/%E7%9B%B4%E8%A3%85%E5%AE%89%E8%A3%85%E5%8C%85/%E5%A4%8F%E6%97%A5%E5%8F%A3%E8%A2%8B%20REFLECTION%20BLUE.7z)，密码：`lumouweinb`、`烟郁频道`
+20. [小鳥遊暁の会员制餐厅](https://t-satoru.top/) & `Android`：[点击下载](https://pan.t-satoru.top/d/ode5/Galgames/%E3%80%90%E8%87%AA%E5%B0%81%E5%8C%85%E3%80%91%E9%9A%8F%E7%BC%98%E5%88%86%E4%BA%AB/SPRB/SPRB_Flix_v1.0.5_FINALE_od.rar)，密码：`三司绫濑天下第一`
+21. [绮梦](https://acgs.one/) & `Windows` + `Android`：[点击下载](https://acgs.one/game/4.html)，密码：`acgs`、`绮梦`
+22. [量子ACG](https://lzacg.org/) & `Windows`：[点击下载](https://lzacg.org/481)，密码：`量子acg`、`lzacg.top`
