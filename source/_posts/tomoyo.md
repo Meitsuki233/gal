@@ -4,13 +4,10 @@ title: >-
   ~It's a Wonderful Life~
 abbrlink: 35239
 tags:
-  - Key
-  - 键社
-  - 棒球社
+  - Key／键社／棒球社
   - 恋爱
   - 感人
   - 催泪
-  - 崩坏
   - 致郁
   - 纯爱
   - FD

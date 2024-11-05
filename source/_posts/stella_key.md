@@ -4,13 +4,10 @@ title: >-
   End After Story: Diary of a Faint Hope
 abbrlink: 32557
 tags:
-  - Key
-  - 键社
-  - 棒球社
+  - Key／键社／棒球社
   - 科幻
   - 末世
   - 催泪
-  - 废土
   - 亲情
   - 剧情
   - 机器人

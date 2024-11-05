@@ -2,15 +2,9 @@
 title: 秽翼的尤斯蒂娅／穢翼のユースティア／Eustia of the Tarnished Wings／Aiyoku no Eustia／脏翅膀
 abbrlink: 19213
 tags:
-  - AUGUST
-  - 架空世界
-  - 生存
-  - 人性
-  - 爱
+  - AUGUST／八月社
+  - 爱情
   - 人生
-  - 八月社
-  - 脏翅膀
-  - 意义
   - 致郁
   - 剧情
   - 纯爱

@@ -3,12 +3,8 @@ title: 歌月十夜
 abbrlink: 37614
 tags:
   - TYPE-MOON
-  - 奈须蘑菇
-  - 奈須きのこ
-  - 武内崇
   - 同人
   - FD
-  - 健速
   - 2001
 categories:
   - - Windows

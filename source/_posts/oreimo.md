@@ -2,8 +2,7 @@
 title: 我的妹妹哪有这么可爱！／我的妹妹不可能那么可爱／俺妹／Oreimo／俺の妹がこんなに可愛いわけがない／携带版 Disc 不可能出续作 哪有可能继续
 abbrlink: 48695
 tags:
-  - 万代南梦宫
-  - Bandai-Namco
+  - Bandai-Namco／万代南梦宫
   - 妹
   - 妹控
   - 恋爱

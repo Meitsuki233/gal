@@ -2,9 +2,7 @@
 title: CLANNAD Side Stories／CLANNAD 被光守望着的坡道／CLANNAD 光見守る坂道で
 abbrlink: 49152
 tags:
-  - Key
-  - 键社
-  - 棒球社
+  - Key／键社／棒球社
   - 恋爱
   - 爱情
   - 催泪

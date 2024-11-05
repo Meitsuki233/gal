@@ -2,9 +2,7 @@
 title: マブラヴ／Muv-Luv
 abbrlink: 1361
 tags:
-  - âge
-  - アージュ
-  - Age
+  - âge／アージュ／Age
   - 燃
   - 战斗
   - 日常
@@ -12,7 +10,7 @@ tags:
   - 校园
   - 纯爱
   - 恋爱
-  - 幼驯染
+  - 青梅竹马
   - 2003
 categories:
   - Windows

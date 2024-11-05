@@ -2,9 +2,7 @@
 title: Angel Beats! -1st beat-／天使的脉动／天使的心跳／围殴天使／神仙打架／仙人跳／Angel Beast／エンジェルビーツ!／AB!
 abbrlink: 6688
 tags:
-  - Key
-  - 键社
-  - 棒球社
+  - Key／键社／棒球社
   - 动作
   - 喜剧
   - 奇幻

@@ -2,10 +2,10 @@
 title: 沙耶之歌／沙耶の唄／the song of saya
 abbrlink: 23102
 tags:
-  - Nitro+
+  - Nitro+／NITRO PLUS／ニトロプラス／n+／氮正
   - 感人
   - 猎奇
-  - 黑暗
+  - 黑暗系
   - 恋爱
   - 十二神器
   - 2003

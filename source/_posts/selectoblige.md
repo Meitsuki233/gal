@@ -2,16 +2,13 @@
 title: 天选庶民的真命之选／セレクトオブリージュ／Select Oblige
 abbrlink: 30665
 tags:
-  - Madosoft
-  - まどそふと
-  - 窗社
+  - Madosoft／窗社／まどそふと
   - 废萌
   - 妹
-  - 幼驯染
+  - 青梅竹马
   - 萝莉
   - 纯爱
-  - 萌作
-  - 捆绑
+  - 萌
   - 2024
 categories:
   - - Windows

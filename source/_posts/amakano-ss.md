@@ -2,10 +2,9 @@
 title: 甜蜜女友SS／アマカノ～Second Season～／Amakano ~Second Season~
 abbrlink: 35788
 tags:
-  - 海豹社
-  - あざらしそふと
+  - 海豹社／あざらしそふと
   - 纯爱
-  - 甜作
+  - 甜蜜
   - 拔作
   - 日系
   - 白发

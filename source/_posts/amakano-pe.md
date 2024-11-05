@@ -2,9 +2,8 @@
 title: 甜蜜女友／アマカノ~Perfect Edition~／Amakano
 abbrlink: 2041
 tags:
-  - 海豹社
-  - あざらしそふと
-  - 甜作
+  - 海豹社／あざらしそふと
+  - 甜蜜
   - 纯爱
   - 拔作
   - 黑长直

@@ -2,8 +2,7 @@
 title: euphoria／ユーフォリア／偷稅病／樂園 普通 HD 高清 重置 重制 Remaster
 abbrlink: 41785
 tags:
-  - CLOCKUP
-  - 钟表社
+  - CLOCKUP／钟表社
   - 猎奇
   - 重口
   - 和泉万夜

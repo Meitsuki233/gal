@@ -2,12 +2,9 @@
 title: 美好的每一天～不连续的存在～ HD／素晴日／素晴らしき日々～不連続存在～／Wonderful Everyday Down the Rabbit-Hole
 abbrlink: 36400
 tags:
-  - KeroQ
-  - ケロQ
+  - KeroQ／ケロQ
   - 恋爱
   - 校园
-  - 惊悚
-  - 电波
   - 哲学
   - 十二神器
   - 2010

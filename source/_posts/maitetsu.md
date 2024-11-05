@@ -2,15 +2,18 @@
 title: 爱上火车LastRun!!／铁路浪漫谭／まいてつ／Maitetsu／我的铁路／余铁
 abbrlink: 3355
 tags:
-  - Lose
-  - Lost
-  - 萝莉社
-  - 炼铜
+  - Lose／Lost／萝莉社
   - 萝莉
-  - 治愈
-  - 火车娘
+  - 动态CG
+  - 幼女
+  - 废萌
+  - 妹
+  - 拔作
+  - 义妹
+  - 后宫
+  - 足交
+  - 纯爱
   - 2016
-  - 2018
   - 2020
 categories:
   - - Windows

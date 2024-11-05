@@ -2,8 +2,7 @@
 title: 天津罪／アマツツミ／Amatsutsumi
 abbrlink: 24262
 tags:
-  - Purple-software
-  - 紫社
+  - Purple-software／紫社
   - 奇幻
   - 拔作
   - 妹

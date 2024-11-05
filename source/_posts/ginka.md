@@ -2,10 +2,9 @@
 title: GINKA／银花
 abbrlink: 769
 tags:
-  - FrontWing
-  - 前翼社
+  - FrontWing／前翼社
   - 治愈
-  - 幼驯染
+  - 青梅竹马
   - 奇幻
   - 悬疑
   - 民俗
@@ -13,7 +12,7 @@ tags:
   - 白毛
   - 废萌
   - 神秘
-  - 萌作
+  - 萌
   - 恋爱
   - 巫女
   - 枕社

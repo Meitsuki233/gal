@@ -4,8 +4,7 @@ title: >-
   Kanojo／Koikake
 abbrlink: 65510
 tags:
-  - 'Us:track'
-  - ユーストラック
+  - 'Us:track／ユーストラック'
   - 恋爱
   - 治愈
   - 纯爱

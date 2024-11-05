@@ -2,9 +2,7 @@
 title: CLANNAD／CLANNAD HD Edition／Kuranado／クラナド／小镇家族／家族／团子大家族／克兰娜德／人生
 abbrlink: 18459
 tags:
-  - Key
-  - 键社
-  - 棒球社
+  - Key／键社／棒球社
   - 恋爱
   - 爱情
   - 催泪

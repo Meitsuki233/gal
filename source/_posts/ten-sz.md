@@ -2,8 +2,7 @@
 title: 天使纷扰／天使☆嚣嚣 RE-BOOT!／天使☆騒々 RE-BOOT!
 abbrlink: 27018
 tags:
-  - Yuzu-Soft
-  - 柚子社
+  - Yuzu-Soft／柚子社
   - 纯爱
   - 恋爱
   - 校园

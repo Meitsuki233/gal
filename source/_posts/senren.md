@@ -2,16 +2,12 @@
 title: 千恋＊万花／千戀＊萬花／千変万化／Senren * Banka：A Thousand Colors of Love
 abbrlink: 10953
 tags:
-  - Yuzu-Soft
-  - 柚子社
+  - Yuzu-Soft／柚子社
   - 纯爱
   - 恋爱
   - 喜剧
   - 奇幻
-  - 和风
-  - 田园
-  - 幼刀
-  - 甜作
+  - 甜蜜
   - 巫女
   - 废萌
   - 2016

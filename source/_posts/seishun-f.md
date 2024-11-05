@@ -2,8 +2,7 @@
 title: 玻璃青春／青春玻璃渣／青春フラジャイル／Seishun Fragile／Seishun Furajairu／青フラ／Aofura
 abbrlink: 42695
 tags:
-  - Purple-software
-  - 紫社
+  - Purple-software／紫社
   - 妹
   - 黑长直
   - 2020

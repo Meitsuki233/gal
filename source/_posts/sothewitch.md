@@ -2,8 +2,7 @@
 title: 魔女的夜宴／サノバウィッチ／魔宴／Sabbat of the Witch
 abbrlink: 61936
 tags:
-  - Yuzu-Soft
-  - 柚子社
+  - Yuzu-Soft／柚子社
   - 纯爱
   - 恋爱
   - 校园

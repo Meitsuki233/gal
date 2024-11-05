@@ -4,21 +4,15 @@ title: >-
   Shuuhen -Belle Époque-
 abbrlink: 64573
 tags:
-  - Navel
-  - ネーブル
-  - 橘子社
-  - 近月社
-  - 臍橙社
+  - Navel／ネーブル／橘子社／近月社／臍橙社
   - 恋爱
   - 女装
   - 伪娘
   - 妹控
-  - 近月
   - 妹
   - FD
   - 纯爱
   - 实妹
-  - 大小姐
   - 2016
 categories:
   - Windows

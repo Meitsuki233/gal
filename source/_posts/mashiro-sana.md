@@ -4,11 +4,9 @@ title: >-
   Edition-
 abbrlink: 3699
 tags:
-  - Palette
-  - 调色板
-  - ぱれっと
+  - Palette／调色板／ぱれっと
   - 废萌
-  - 甜作
+  - 甜蜜
   - 纯爱
   - 傲娇
   - FD

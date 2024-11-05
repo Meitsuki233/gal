@@ -2,8 +2,7 @@
 title: ISLAND／アイランド
 abbrlink: 38317
 tags:
-  - FrontWing
-  - 前翼社
+  - FrontWing／前翼社
   - 轮回
   - 人妻
   - 悬疑

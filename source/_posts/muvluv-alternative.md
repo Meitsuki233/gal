@@ -2,19 +2,13 @@
 title: マブラヴ オルタネイティヴ／Muv-Luv Alternative
 abbrlink: 462
 tags:
-  - âge
-  - アージュ
-  - Age
+  - âge／アージュ／Age
   - 燃
-  - 战争
   - 机器人
-  - 外星人
   - 泣
   - 致郁
   - 科幻
-  - 萝卜
-  - 机战
-  - 幼驯染
+  - 青梅竹马
   - 2006
 categories:
   - Windows

@@ -2,17 +2,14 @@
 title: School Days／スクールデイズ／日在校园／校园的日子／在校时光／SD／スクイズ／HQ
 abbrlink: 12162
 tags:
-  - Overflow
-  - 0verflow
-  - オーバーフロー
-  - 人渣
-  - 番茄酱
+  - Overflow／0verflow／オーバーフロー
   - 黑暗系
   - 拔作
   - 校园
   - 三角恋
   - 动态CG
   - NTR
+  - 致郁
   - 2005
   - 2007
   - 2008
