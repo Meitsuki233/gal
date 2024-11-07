@@ -11,31 +11,6 @@ comments: false
 - <span id="timeDate">天数载入中..</span><span id="times">时分秒载入中..</span>
 - 站长将以最低成本维护本站，力求稳定存活长久
 
-<script data-pjax>
-  function initializeRuntimeCounter() {
-    var start = new Date("2024/01/27 21:52:00");
-    function update() {
-      var now = new Date();
-      now.setTime(now.getTime() + 250);
-      var days = (now - start) / 1000 / 60 / 60 / 24;
-      var dnum = Math.floor(days);
-      var hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;
-      var hnum = Math.floor(hours).toString().padStart(2, '0');
-      var minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;
-      var mnum = Math.floor(minutes).toString().padStart(2, '0');
-      var seconds = (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;
-      var snum = Math.round(seconds).toString().padStart(2, '0');
-
-      document.getElementById("timeDate").innerHTML = "距今已艰难运行了&nbsp" + dnum + "&nbsp天&nbsp";
-      document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";
-    }
-    update();
-    setInterval(update, 1000);
-  }
-  document.addEventListener("DOMContentLoaded", initializeRuntimeCounter);
-  document.addEventListener("pjax:complete", initializeRuntimeCounter);
-</script>
-
 ## 通讯方式
 
 1. Telegram：[FullDiveSAO](https://t.me/FullDiveSAO)
