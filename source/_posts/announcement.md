@@ -6,10 +6,27 @@ categories:
 sticky: 10
 comments: false
 date: 2024-04-04 19:40:00
-updated: 2024-10-18 00:00:00
+updated: 2024-11-07 00:00:00
 ---
 
-![atri](/img/atri.webp)
+<script src="https://registry.npmmirror.com/hls.js/latest/files/dist/hls.min.js"></script>
+<video id="demoVideo" controls></video>
+<script>
+    const demoVideo = document.getElementById('demoVideo');
+    const demoVideoSrc = 'https://permalink.dogevideo.com/player/get.m3u8?vcode=8ec6a3c21ef8b370&userId=5960&vtype=10&flsign=b827f306af73e84d20714e416cea6ead&ext=.m3u8';
+    demoVideo.poster = '/img/atri.webp';
+    demoVideo.volume = 0.7;
+    if (Hls.isSupported()) {
+        const hls = new Hls();
+        hls.loadSource(demoVideoSrc);
+        hls.attachMedia(demoVideo);
+    }
+    else if (demoVideo.canPlayType('application/vnd.apple.mpegurl')) {
+        demoVideo.src = demoVideoSrc;
+    }
+</script>
+
+> bilibili 视频演示：[bilibili.com/video/BV1YYDSYwExS](https://www.bilibili.com/video/BV1YYDSYwExS/?share_source=copy_web&vd_source=fad28c3dbd9214bb50e66f8dd77d9f46)
 
 ## 基本帮助
 
