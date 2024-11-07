@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css">
 <script async src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js"></script>
+<script async src="https://registry.npmmirror.com/hls.js/latest/files/dist/hls.min.js"></script>
 <p><span id="timeDate">天数载入中..</span><span id="times">时分秒载入中..</span></p>
 <script>
 // Aplayer默认关闭歌词
@@ -87,6 +88,26 @@ copyrightAuthor.addEventListener("mouseover", (event) => {
 copyrightAuthor.addEventListener("mouseout", (event) => {
   copyrightAuthor.style.textDecoration = "none";
 });
+</script>
+<script data-pjax>
+    function initHls() {
+        const demoVideo = document.getElementById('demoVideo');
+        if (!demoVideo) return;
+
+        const demoVideoSrc = demoVideo.getAttribute('data-src');
+        demoVideo.volume = 0.7;
+
+        if (Hls.isSupported()) {
+            const hls = new Hls();
+            hls.loadSource(demoVideoSrc);
+            hls.attachMedia(demoVideo);
+        } else if (demoVideo.canPlayType('application/vnd.apple.mpegurl')) {
+            demoVideo.src = demoVideoSrc;
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", initHls);
+    document.addEventListener("pjax:complete", initHls);
 </script>
 <link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css">
 <div class="aplayer" data-id="8464409595" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true" data-order="random" data-volume="0.3" data-mutex="true" data-listMaxHeight="36vh"></div>
