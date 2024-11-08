@@ -1,7 +1,7 @@
 ---
 title: 关于本站
 date: 2024-01-27 21:53:55
-updated: 2024-11-08 00:00:00
+updated: 2024-11-09 00:00:00
 comments: false
 ---
 
@@ -30,6 +30,7 @@ comments: false
 
 ## 开放源码
 
+由 [Hexo](https://hexo.io/zh-cn/) 框架与 [NexT](https://theme-next.js.org/) 主题强力驱动！
 本站大部分源码已开源至 GitHub 社区，
 有兴趣探索本站的原理可访问：
 [AdingApkgg/vns](https://github.com/AdingApkgg/vns)

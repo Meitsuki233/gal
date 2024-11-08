@@ -6,12 +6,14 @@ categories:
 sticky: 10
 comments: false
 date: 2024-04-04 19:40:00
-updated: 2024-11-08 00:00:00
+updated: 2024-11-09 00:00:00
 ---
 
-<video id="demoVideo" controls data-src="https://permalink.dogevideo.com/player/get.m3u8?vcode=8ec6a3c21ef8b370&userId=5960&vtype=10&flsign=b827f306af73e84d20714e416cea6ead&ext=.m3u8" poster="/img/atri.webp"></video>
+![atri](/img/atri.webp)
 
-> B站视频演示：[bilibili.com/video/BV1YYDSYwExS](https://www.bilibili.com/video/BV1YYDSYwExS/?share_source=copy_web&vd_source=fad28c3dbd9214bb50e66f8dd77d9f46)
+<!-- <video id="demoVideo" controls data-src="https://permalink.dogevideo.com/player/get.m3u8?vcode=8ec6a3c21ef8b370&userId=5960&vtype=10&flsign=b827f306af73e84d20714e416cea6ead&ext=.m3u8" poster=""></video>
+
+> B站视频演示：[bilibili.com/video/BV1YYDSYwExS](https://www.bilibili.com/video/BV1YYDSYwExS/?share_source=copy_web&vd_source=fad28c3dbd9214bb50e66f8dd77d9f46) -->
 
 ## 基本帮助
 
@@ -29,6 +31,10 @@ updated: 2024-11-08 00:00:00
 12. `Windows` 请用 [7-Zip](https://sparanoid.com/lab/7z/) 或 [Bandizip](https://www.bandisoft.com/bandizip/)、[WinRAR](https://www.win-rar.com/) 等专业解压缩工具解压资源，不然极有可能导致解压失败。
 13. `Android` 推荐这些解压缩软件解压资源：[MT管理器](https://mt2.cn/)、[ZA](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&pcampaignid=web_share)、[ES文件浏览器](http://www.estrongs.com/)
 14. `BT 磁力` 等链接请使用 `Windows` 的 [qBittorrent](https://github.com/c0re100/qBittorrent-Enhanced-Edition) 或 `Android` 的 [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&pcampaignid=web_share) 软件工具下载
+
+## 使用演示
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113441243205169&bvid=BV1YYDSYwExS&cid=26655394707&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" autoplay="0" t="8"></iframe>
 
 ## 问卷调查
 
