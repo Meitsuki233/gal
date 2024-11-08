@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css">
   <script async="async" src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js"></script>
-  {# <script async="async" src="https://registry.npmmirror.com/hls.js/latest/files/dist/hls.min.js"></script> #}
   <script>
     function removelrc() {
       const lrcIcon = document.querySelector(".aplayer-icon-lrc");
@@ -23,72 +22,47 @@
       childList: true,
       subtree: true
     };
-    {
-      # observer.observe(document, observerConfig);
-      {
-        function initHls() {
-          const demoVideo = document.getElementById('demoVideo');
-          const demoVideoSrc = demoVideo.getAttribute('data-src');
-          demoVideo.volume = 0.7;
-          if (Hls.isSupported()) {
-            const hls = new Hls();
-            hls.loadSource(demoVideoSrc);
-            hls.attachMedia(demoVideo);
-          } else if (demoVideo.canPlayType('application/vnd.apple.mpegurl')) {
-            demoVideo.src = demoVideoSrc;
-          }
-        }
+    function initializeRuntimeCounter() {
+      const start = new Date("2024/01/27 21:52:00");
+      function update() {
+        const now = new Date();
+        now.setTime(now.getTime() + 250);
+        const days = (now - start) / 1000 / 60 / 60 / 24;
+        const dnum = Math.floor(days);
+        const hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;
+        const hnum = Math
+          .floor(hours)
+          .toString()
+          .padStart(2, '0');
+        const minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;
+        const mnum = Math
+          .floor(minutes)
+          .toString()
+          .padStart(2, '0');
+        const seconds = (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;
+        const snum = Math
+          .round(seconds)
+          .toString()
+          .padStart(2, '0');
+        document.getElementById("timeDate").innerHTML = "距今已艰难运行了&nbsp" + dnum + "&nbsp天&nbsp";
+        document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";
       }
-      document
-        .addEventListener('DOMContentLoaded', initHls)
-        document
-        .addEventListener('pjax:send', initHls)
-        document
-        .addEventListener('pjax:complete', initHls)
-      document
-      .addEventListener('pjax:success', initHls)#
-  }
-  function initializeRuntimeCounter() {
-    var start = new Date("2024/01/27 21:52:00");
-    function update() {
-      var now = new Date();
-      now.setTime(now.getTime() + 250);
-      var days = (now - start) / 1000 / 60 / 60 / 24;
-      var dnum = Math.floor(days);
-      var hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;
-      var hnum = Math
-        .floor(hours)
-        .toString()
-        .padStart(2, '0');
-      var minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;
-      var mnum = Math
-        .floor(minutes)
-        .toString()
-        .padStart(2, '0');
-      var seconds = (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;
-      var snum = Math
-        .round(seconds)
-        .toString()
-        .padStart(2, '0');
-      document.getElementById("timeDate").innerHTML = "距今已艰难运行了&nbsp" + dnum + "&nbsp天&nbsp";
-      document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";
+      update();
+      setInterval(update, 1000);
     }
-    update();
-    setInterval(update, 1000);
-  }
-  document.addEventListener("DOMContentLoaded", initializeRuntimeCounter);
-  document.addEventListener("pjax:complete", initializeRuntimeCounter);
-  const copyrightAuthor = document.querySelector(".copyright").querySelector(".author");
-  copyrightAuthor.addEventListener("click", (event) => {
-    window.open("https://ciallo.cc/");
-  });
-  copyrightAuthor.addEventListener("mouseover", (event) => {
-    copyrightAuthor.style.textDecoration = "underline";
-    copyrightAuthor.style.cursor = "pointer";
-  });
-  copyrightAuthor.addEventListener("mouseout", (event) => {
-    copyrightAuthor.style.textDecoration = "none";
-  });
+    document.addEventListener("DOMContentLoaded", initializeRuntimeCounter);
+    document.addEventListener("pjax:complete", initializeRuntimeCounter);
+    const copyrightAuthor = document.querySelector(".copyright").querySelector(".author");
+    copyrightAuthor.addEventListener("click", (event) => {
+      window.open("https://ciallo.cc/");
+    });
+    copyrightAuthor.addEventListener("mouseover", (event) => {
+      copyrightAuthor.style.textDecoration = "underline";
+      copyrightAuthor.style.cursor = "pointer";
+    });
+    copyrightAuthor.addEventListener("mouseout", (event) => {
+      copyrightAuthor.style.textDecoration = "none";
+    });
   </script>
   <link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css">
     <div
