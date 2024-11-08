@@ -34,7 +34,7 @@ updated: 2024-11-09 00:00:00
 
 ## 使用演示
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113441243205169&bvid=BV1YYDSYwExS&cid=26655394707&p=1&autoplay=0&t=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=113441243205169&bvid=BV1YYDSYwExS&cid=26655394707&p=1&autoplay=0&t=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 问卷调查
 
