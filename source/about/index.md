@@ -13,8 +13,8 @@ comments: false
 
 ## 通讯方式
 
-1. Telegram：[FullDiveSAO](https://t.me/FullDiveSAO)
-2. E-mail：[i@saop.cc](mailto:i@saop.cc)
+- Telegram：[FullDiveSAO](https://t.me/FullDiveSAO)
+- E-mail：[i@saop.cc](mailto:i@saop.cc)
 
 ## 订阅本站
 

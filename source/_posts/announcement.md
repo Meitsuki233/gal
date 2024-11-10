@@ -6,14 +6,10 @@ categories:
 sticky: 10
 comments: false
 date: 2024-04-04 19:40:00
-updated: 2024-11-09 00:00:00
+updated: 2024-11-11 00:00:00
 ---
 
 ![atri](/img/atri.webp)
-
-<!-- <video id="demoVideo" controls data-src="https://permalink.dogevideo.com/player/get.m3u8?vcode=8ec6a3c21ef8b370&userId=5960&vtype=10&flsign=b827f306af73e84d20714e416cea6ead&ext=.m3u8" poster=""></video>
-
-> B站视频演示：[bilibili.com/video/BV1YYDSYwExS](https://www.bilibili.com/video/BV1YYDSYwExS/?share_source=copy_web&vd_source=fad28c3dbd9214bb50e66f8dd77d9f46) -->
 
 ## 基本帮助
 
@@ -34,7 +30,9 @@ updated: 2024-11-09 00:00:00
 
 ## 使用演示
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=113441243205169&bvid=BV1YYDSYwExS&cid=26655394707&p=1&autoplay=0&t=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+> B站：[bilibili.com/video/BV1YYDSYwExS](https://www.bilibili.com/video/BV1YYDSYwExS/?share_source=copy_web&vd_source=fad28c3dbd9214bb50e66f8dd77d9f46)
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113441243205169&bvid=BV1YYDSYwExS&cid=26655394707&p=1&autoplay=0&t=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 问卷调查
 
