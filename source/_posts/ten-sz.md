@@ -15,7 +15,7 @@ categories:
   - - Windows
   - - KRKR
 date: 2024-01-30 22:00:00
-updated: 2024-07-11 02:00:00
+updated: 2024-07-17 07:19:30
 ---
 
 ![ten-sz](https://unpkg.com/galgame/img/ten-sz.webp)
@@ -100,6 +100,14 @@ updated: 2024-07-11 02:00:00
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
 1. `KRKR` 如果遇到点击存档按钮闪退的话，请使用右下角三条杠里面的系统菜单进行存档
+
+## 下载
+
+如果你的网络支持 `IPv6`，可尝试本站的 `AsunaCloud` 下载~
+一般手机的数据流量就支持 `IPv6`，如家宽无法下载请切换至数据流量！
+或者进入你的宽带光猫路由器后台打开 `IPv6` 的设置，具体设置方法可自行搜索
+
+1. [AsunaDrive](https://drive.saop.cc/) & `Windows` + `KRKR`：[点击下载](https://drive.saop.cc/VNS/%E5%A4%A9%E4%BD%BF%E7%BA%B7%E6%89%B0)
 
 ## 分流
 

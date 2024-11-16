@@ -18,7 +18,7 @@ categories:
   - - KRKR
   - - Android
 date: 2024-01-28 10:00:00
-updated: 2024-11-15 01:46:00
+updated: 2024-11-17 07:18:40
 ---
 
 ![senren](https://unpkg.com/galgame/img/senren.webp)
@@ -174,8 +174,7 @@ updated: 2024-11-15 01:46:00
 一般手机的数据流量就支持 `IPv6`，如家宽无法下载请切换至数据流量！
 或者进入你的宽带光猫路由器后台打开 `IPv6` 的设置，具体设置方法可自行搜索
 
-1. [AsunaCloud](https://cloud.saop.cc/) & `Windows`：[点击下载](https://cloud.saop.cc/s/wzir)
-2. [AsunaCloud](https://cloud.saop.cc/) & `KRKR`：[点击下载](https://cloud.saop.cc/s/1gTb)
+1. [AsunaDrive](https://drive.saop.cc/) & `Windows` + `KRKR`：[点击下载](https://drive.saop.cc/VNS/%E5%8D%83%E6%81%8B%E4%B8%87%E8%8A%B1)
 
 ## 分流
 

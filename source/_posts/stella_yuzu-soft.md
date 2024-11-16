@@ -16,7 +16,7 @@ categories:
   - - Windows
   - - KRKR
 date: 2024-02-10 23:42:00
-updated: 2024-07-29 21:24:00
+updated: 2024-11-17 07:20:20
 ---
 
 ![stella_yuzu-soft](https://unpkg.com/galgame/img/stella_yuzu-soft.webp)
@@ -111,6 +111,14 @@ updated: 2024-07-29 21:24:00
 ## 提示
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
+
+## 下载
+
+如果你的网络支持 `IPv6`，可尝试本站的 `AsunaCloud` 下载~
+一般手机的数据流量就支持 `IPv6`，如家宽无法下载请切换至数据流量！
+或者进入你的宽带光猫路由器后台打开 `IPv6` 的设置，具体设置方法可自行搜索
+
+1. [AsunaDrive](https://drive.saop.cc/) & `Windows` + `KRKR`：[点击下载](https://drive.saop.cc/VNS/%E6%98%9F%E5%85%89%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8E%E6%AD%BB%E7%A5%9E%E4%B9%8B%E8%9D%B6)
 
 ## 分流
 

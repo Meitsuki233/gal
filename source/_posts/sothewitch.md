@@ -17,7 +17,7 @@ categories:
   - - KRKR
   - - Android
 date: 2024-01-30 20:50:00
-updated: 2024-11-15 01:45:30
+updated: 2024-11-17 07:21:10
 ---
 
 ![sothewitch](https://unpkg.com/galgame/img/sothewitch.webp)
@@ -83,8 +83,7 @@ updated: 2024-11-15 01:45:30
 一般手机的数据流量就支持 `IPv6`，如家宽无法下载请切换至数据流量！
 或者进入你的宽带光猫路由器后台打开 `IPv6` 的设置，具体设置方法可自行搜索
 
-1. [AsunaCloud](https://cloud.saop.cc/) & `Windows`：[点击下载](https://cloud.saop.cc/s/Obte)
-2. [AsunaCloud](https://cloud.saop.cc/) & `KRKR`：[点击下载](https://cloud.saop.cc/s/P8CN)
+1. [AsunaDrive](https://drive.saop.cc/) & `Windows` + `KRKR`：[点击下载](https://drive.saop.cc/VNS/%E9%AD%94%E5%A5%B3%E7%9A%84%E5%A4%9C%E5%AE%B4)
 
 ## 分流
 
