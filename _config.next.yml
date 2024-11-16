@@ -111,6 +111,7 @@ menu:
   投稿: /post/ || fas fa-pen
   友链: /links/ || fas fa-link
   云盘: https://cloud.saop.cc/s/bphR || fas fa-cloud
+  网盘: https://drive.saop.cc/ || fas fa-hard-drive
   捐赠: /donate/ || fas fa-hand-holding-dollar
   广告: /ad/ || fa fa-rectangle-ad
   about: /about/ || fa fa-user
