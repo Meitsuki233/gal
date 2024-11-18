@@ -14,7 +14,7 @@ categories:
   - - ONS
   - - Android
 date: 2024-01-29 01:00:00
-updated: 2024-09-17 21:26:00
+updated: 2024-11-19 05:27:00
 ---
 
 ![haruka](https://unpkg.com/galgame/img/haruka.webp)
