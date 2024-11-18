@@ -81,6 +81,14 @@ updated: 2024-09-17 21:26:00
 
 > 基本帮助请参阅公告：[点我跳转](/p/announcement/)
 
+## 下载
+
+如果你的网络支持 `IPv6`，可尝试本站的 `AsunaDrive` 下载~
+一般手机的数据流量就支持 `IPv6`，如家宽无法下载请切换至数据流量！
+或者进入你的宽带光猫路由器后台打开 `IPv6` 的设置，具体设置方法可自行搜索
+
+1. [AsunaDrive](https://drive.saop.cc/) & `Windows` + `ONS` + `Android`：[点击下载](https://drive.saop.cc/VNS/%E6%82%A0%E4%B9%8B%E7%A9%BA)
+
 ## 分流
 
 1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/8XXig)，密码：`touchgal`
