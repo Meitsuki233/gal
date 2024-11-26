@@ -94,7 +94,7 @@ Clover Day's是ALcot公司的第14部作品，不仅是做为该公司于PC平�
 
 ### 通常版
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/kg2nTg)
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/kg2nTg)，密码：`touchgal`
 2. [Koyso](https://koyso.com/) & `Windows`：[点击下载](https://koyso.com/game/557)
 3. [烟郁Galgame](https://yanyugal.top/) & `KRKR`：[点击下载](https://yanyugal.top/d/disk1/%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%88%86%E4%BA%AB%EF%BC%88PC%EF%BC%86%E5%AE%89%E5%8D%93%EF%BC%89/%E5%AE%89%E5%8D%93/krkr/Clover%20Day%E2%80%99s.7z)，密码：`lumouweinb`、`烟郁频道`
 4. [梓澪の妙妙屋](https://zi0.cc/) & `Windows`：[点击下载](https://zi0.cc/d/%60%E3%80%90%E5%90%88%E9%9B%86%E7%B3%BB%E5%88%97%E3%80%91/%E5%8D%97%2BGalGame%E6%B1%89%E5%8C%96%E5%8C%BA%E5%85%A8%E5%8C%BA%E8%B5%84%E6%BA%90%E5%A4%87%E4%BB%BD/1/03/%5BALcot%5D%20Clover%20Day's%20%E6%B1%89%E5%8C%96%E7%A1%AC%E7%9B%98%E7%89%88%5B%E6%98%9F%E5%86%88%E5%9B%9B%E5%8F%B6%E8%8D%89%E8%B0%83%E5%85%BB%E4%B8%AD%E5%BF%83%5D.zip?sign=_3sT5g9_tHt1NlsGGZbKJF51x2jMGbtNXLFx2HIVqEY=:0)

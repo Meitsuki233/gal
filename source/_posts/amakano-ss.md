@@ -64,4 +64,4 @@ updated: 2024-09-04 09:16:00
 
 ## 分流
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/y3XAiY)
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/y3XAiY)，密码：`touchgal`

@@ -83,4 +83,4 @@ updated: 2024-09-04 09:15:00
 
 ### 完美版
 
-1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/qYJXib)
+1. [TouchGAL](https://touchgal.net/) & `Windows`：[点击下载](https://pan.touchgal.net/s/qYJXib)，密码：`touchgal`
