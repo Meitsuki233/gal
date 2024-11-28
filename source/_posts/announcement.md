@@ -6,10 +6,10 @@ categories:
 sticky: 10
 comments: false
 date: 2024-04-04 19:40:00
-updated: 2024-11-11 00:00:00
+updated: 2024-11-28 00:00:00
 ---
 
-![atri](/img/atri.webp)
+![enking](/img/enking.webp)
 
 ## 基本帮助
 
@@ -51,4 +51,4 @@ updated: 2024-11-11 00:00:00
   已招：`Asuna`、`秋生GE`、`WTY`、`searvee`、`OT63`
 - **测试**
   要求：下载资源运行，检查是生肉或熟肉，汉化组名，版本，以及有无 `BUG` 出现等..
-  已招：`Asuna`
+  已招：`Asuna`、`NEO`
