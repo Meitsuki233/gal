@@ -1,7 +1,7 @@
 ---
 title: 友情链接
 date: 2024-08-25 09:25:12
-updated: 2024-11-27 00:00:00
+updated: 2024-12-12 00:00:00
 comments: false
 ---
 
@@ -30,6 +30,8 @@ Koyso | https://koyso.com/ | 单机游戏下载网站，提供最新，热门的
 BYRUTOR | https://byruthub.org/ | Cкачать игры на ПК [последние версии 2024] через торрент бесплатно | https://byruthub.org/favicon.png
 彼岸星露 | https://yugal.cc/ | 那些暗潮汹涌的 见不得人的 无法诉之于口的才是我真正的生活 | https://yugal.cc/images/favicon.ico
 ACGN杂谈 | https://acgto363.life/ | Animation Comic Game Novel
+灵梦御所 | https://blog.reimu.net/ | 绅士的幻想乡 | https://blog.reimu.net/wp-content/uploads/2016/02/cropped-logo-192x192.png
+喵源领域 | https://www.nekotaku.me/ | 一个专注于高质量的Galgame分享网站 | https://www.nekotaku.me/wp-content/uploads/2023/11/lite_logo_256.webp
 % test | test | test | test
 {% endlg %}
 
