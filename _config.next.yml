@@ -707,12 +707,6 @@ comments:
     #  order: -1
     #gitalk:
     #  order: -2
-    giscus:
-      text: 点此使用 giscus 评论系统
-      order: -1
-    valine:
-      text: 点此使用 Valine 评论系统
-      order: -2
 
 # Disqus
 # For more information: https://disqus.com
