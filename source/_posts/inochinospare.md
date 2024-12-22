@@ -18,7 +18,7 @@ date: 2024-03-02 01:36:00
 updated: 2024-03-02 01:36:00
 ---
 
-![inochinospare](https://unpkg.com/galgame/img/inochinospare.webp)
+![inochinospare](https://static.saop.cc/vns/img/inochinospare.webp)
 
 《**生命的备件**》（日语：**生命のスペア**），另译**生命的备份**，是由[AKABEiSOFT3](https://zh.moegirl.org.cn/index.php?title=AKABEiSOFT3&action=edit&redlink=1)制作的一部[Galgame](https://zh.moegirl.org.cn/Galgame)。
 
@@ -66,9 +66,9 @@ updated: 2024-03-02 01:36:00
 
 ## 图片
 
-![inochinospare_p1](https://unpkg.com/galgame/img/inochinospare_p1.webp)
+![inochinospare_p1](https://static.saop.cc/vns/img/inochinospare_p1.webp)
 
-![inochinospare_p2](https://unpkg.com/galgame/img/inochinospare_p2.webp)
+![inochinospare_p2](https://static.saop.cc/vns/img/inochinospare_p2.webp)
 
 ## 链接
 

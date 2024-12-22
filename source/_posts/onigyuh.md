@@ -21,7 +21,7 @@ updated: 2024-03-31 01:23:00
 author: WTY
 ---
 
-![onigyuh](https://unpkg.com/galgame/img/onigyuh.webp)
+![onigyuh](https://static.saop.cc/vns/img/onigyuh.webp)
 
 《**お兄ちゃん、朝までずっとギュッてして！ 夜までもっとエッチして！**》
 
@@ -49,11 +49,11 @@ author: WTY
 
 ## 图片
 
-![onigyuh_p1](https://unpkg.com/galgame/img/onigyuh_p1.webp)
+![onigyuh_p1](https://static.saop.cc/vns/img/onigyuh_p1.webp)
 
-![onigyuh_p2](https://unpkg.com/galgame/img/onigyuh_p2.webp)
+![onigyuh_p2](https://static.saop.cc/vns/img/onigyuh_p2.webp)
 
-![onigyuh_p3](https://unpkg.com/galgame/img/onigyuh_p3.webp)
+![onigyuh_p3](https://static.saop.cc/vns/img/onigyuh_p3.webp)
 
 ## 特典代码
 
