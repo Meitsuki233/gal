@@ -6,10 +6,10 @@ categories:
 sticky: 10
 comments: false
 date: 2024-04-04 19:40:00
-updated: 2024-11-28 00:00:00
+updated: 2024-12-28 02:10:50
 ---
 
-![enking](/img/enking.webp)
+![enking](/img/kasugano-clinic.webp)
 
 ## 基本帮助
 
