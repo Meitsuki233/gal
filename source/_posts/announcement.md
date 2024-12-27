@@ -9,7 +9,7 @@ date: 2024-04-04 19:40:00
 updated: 2024-12-28 02:10:50
 ---
 
-![enking](/img/kasugano-clinic.webp)
+![春日野医院](/img/kasugano-clinic.webp)
 
 ## 基本帮助
 
