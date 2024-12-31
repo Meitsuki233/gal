@@ -10,6 +10,23 @@ body:before {
     z-index: -1;
 }
 
+.post-footer {
+    position: relative;
+    margin-top: 280px;
+}
+
+.post-footer:before {
+    content: ' ';
+    background: url('/img/skirt.webp') center / contain no-repeat;
+    height: 368px;
+    width: 100%;
+    display: block;
+    position: absolute;
+    top: -295px;
+    left: 0;
+    pointer-events: none;
+}
+
 .aplayer-list, .aplayer-list-index, .aplayer-list-title, .aplayer-list-author, .aplayer-title, .aplayer-info, .aplayer-music *, .aplayer-icon {
     background: var(--card-bg-color);
     color: var(--text-color) !important;
