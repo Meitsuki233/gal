@@ -1,81 +1,124 @@
 <link rel="stylesheet" href="https://registry.npmmirror.com/weblive2d/latest/files/waifu.css">
-<script async="async" src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js"></script>
-<script>
-  function removelrc() {
-    const lrcIcon = document.querySelector(".aplayer-icon-lrc");
-    if (! lrcIcon) {
-      return;
+  <script async="async" src="https://registry.npmmirror.com/weblive2d/latest/files/js/autoload.js"></script>
+  <script>
+    if (window.localStorage.getItem("fpson") == undefined || window.localStorage.getItem("fpson") == "1") {
+      var rAF = (function () {
+        return(window.requestAnimationFrame || window.webkitRequestAnimationFrame || function (callback) {
+          window.setTimeout(callback, 1000 / 60);
+        });
+      })();
+      var frame = 0;
+      var allFrameCount = 0;
+      var lastTime = Date.now();
+      var lastFameTime = Date.now();
+      var loop = function () {
+        var now = Date.now();
+        var fs = now - lastFameTime;
+        var fps = Math.round(1000 / fs);
+        lastFameTime = now;
+        allFrameCount++;
+        frame++;
+        if (now > 1000 + lastTime) {
+          var fps = Math.round((frame * 1000) / (now - lastTime));
+          if (fps <= 5) {
+            var kd = `<span style="color:#bd0000">卡成ppt🤢</span>`;
+          } else if (fps <= 15) {
+            var kd = `<span style="color:red">电竞级帧率😖</span>`;
+          } else if (fps <= 25) {
+            var kd = `<span style="color:orange">有点难受😨</span>`;
+          } else if (fps < 35) {
+            var kd = `<span style="color:#9338e6">不太流畅🙄</span>`;
+          } else if (fps <= 45) {
+            var kd = `<span style="color:#08b7e4">还不错哦😁</span>`;
+          } else {
+            var kd = `<span style="color:#39c5bb">十分流畅🤣</span>`;
+          }
+          document.getElementById("fps").innerHTML = `FPS:${fps} ${kd}`;
+          frame = 0;
+          lastTime = now;
+        }
+        rAF(loop);
+      };
+      loop();
+    } else {
+      document.getElementById("fps").style = "display:none!important";
     }
-    observer.disconnect();
-    setTimeout(() => {
-      lrcIcon.click();
-    }, 1);
-  }
-  const observer = new MutationObserver((mutationsList, observer) => {
-    for (let mutation of mutationsList) {
-      if (mutation.type === "childList") {
-        removelrc();
+    function removelrc() {
+      const lrcIcon = document.querySelector(".aplayer-icon-lrc");
+      if (! lrcIcon) {
+        return;
       }
+      observer.disconnect();
+      setTimeout(() => {
+        lrcIcon.click();
+      }, 1);
     }
-  });
-  const observerConfig = {
-    childList: true,
-    subtree: true
-  };
-  observer.observe(document, observerConfig);
-  function initializeRuntimeCounter() {
-    const start = new Date("2024/01/27 21:52:00");
-    function update() {
-      const now = new Date();
-      now.setTime(now.getTime() + 250);
-      const days = (now - start) / 1000 / 60 / 60 / 24;
-      const dnum = Math.floor(days);
-      const hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;
-      const hnum = Math
-        .floor(hours)
-        .toString()
-        .padStart(2, '0');
-      const minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;
-      const mnum = Math
-        .floor(minutes)
-        .toString()
-        .padStart(2, '0');
-      const seconds = (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;
-      const snum = Math
-        .round(seconds)
-        .toString()
-        .padStart(2, '0');
-      document.getElementById("timeDate").innerHTML = "距今已艰难运行了&nbsp" + dnum + "&nbsp天&nbsp";
-      document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";
+    const observer = new MutationObserver((mutationsList, observer) => {
+      for (let mutation of mutationsList) {
+        if (mutation.type === "childList") {
+          removelrc();
+        }
+      }
+    });
+    const observerConfig = {
+      childList: true,
+      subtree: true
+    };
+    observer.observe(document, observerConfig);
+    function initializeRuntimeCounter() {
+      const start = new Date("2024/01/27 21:52:00");
+      function update() {
+        const now = new Date();
+        now.setTime(now.getTime() + 250);
+        const days = (now - start) / 1000 / 60 / 60 / 24;
+        const dnum = Math.floor(days);
+        const hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;
+        const hnum = Math
+          .floor(hours)
+          .toString()
+          .padStart(2, '0');
+        const minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;
+        const mnum = Math
+          .floor(minutes)
+          .toString()
+          .padStart(2, '0');
+        const seconds = (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;
+        const snum = Math
+          .round(seconds)
+          .toString()
+          .padStart(2, '0');
+        document.getElementById("timeDate").innerHTML = "距今已艰难运行了&nbsp" + dnum + "&nbsp天&nbsp";
+        document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";
+      }
+      update();
+      setInterval(update, 1000);
     }
-    update();
-    setInterval(update, 1000);
-  }
-  document.addEventListener("DOMContentLoaded", initializeRuntimeCounter);
-  document.addEventListener("pjax:complete", initializeRuntimeCounter);
-  const copyrightAuthor = document.querySelector(".copyright").querySelector(".author");
-  copyrightAuthor.addEventListener("click", (event) => {
-    window.open("https://ciallo.cc/");
-  });
-  copyrightAuthor.addEventListener("mouseover", (event) => {
-    copyrightAuthor.style.textDecoration = "underline";
-    copyrightAuthor.style.cursor = "pointer";
-  });
-  copyrightAuthor.addEventListener("mouseout", (event) => {
-    copyrightAuthor.style.textDecoration = "none";
-  });
-</script>
-<link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css">
-<div
-  class="aplayer"
-  data-id="8464409595"
-  data-server="netease"
-  data-type="playlist"
-  data-fixed="true"
-  data-autoplay="false"
-  data-order="random"
-  data-volume="0.3"
-  data-mutex="true"
-  data-listmaxheight="36vh"></div>
-<script async="async" src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js"></script>
-<script async="async" src="https://npm.elemecdn.com/butterfly-extsrc/dist/Meting.min.js"></script>
+    document.addEventListener("DOMContentLoaded", initializeRuntimeCounter);
+    document.addEventListener("pjax:complete", initializeRuntimeCounter);
+    const copyrightAuthor = document.querySelector(".copyright").querySelector(".author");
+    copyrightAuthor.addEventListener("click", (event) => {
+      window.open("https://ciallo.cc/");
+    });
+    copyrightAuthor.addEventListener("mouseover", (event) => {
+      copyrightAuthor.style.textDecoration = "underline";
+      copyrightAuthor.style.cursor = "pointer";
+    });
+    copyrightAuthor.addEventListener("mouseout", (event) => {
+      copyrightAuthor.style.textDecoration = "none";
+    });
+  </script>
+  <span id="fps"></span>
+  <link rel="stylesheet" href="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.css">
+    <div
+      class="aplayer"
+      data-id="8464409595"
+      data-server="netease"
+      data-type="playlist"
+      data-fixed="true"
+      data-autoplay="false"
+      data-order="random"
+      data-volume="0.3"
+      data-mutex="true"
+      data-listmaxheight="36vh"></div>
+    <script async="async" src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/aplayer/1.10.1/APlayer.min.js"></script>
+    <script async="async" src="https://npm.elemecdn.com/butterfly-extsrc/dist/Meting.min.js"></script>

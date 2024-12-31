@@ -27,6 +27,22 @@ body:before {
     pointer-events: none;
 }
 
+#fps {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    z-index: 1919810;
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 0 2px;
+    border-top-left-radius: 4px;
+}
+
+@media (prefers-color-scheme: dark) {
+    #fps {
+        background-color: rgba(0, 0, 0, 0.72);
+    }
+}
+
 .aplayer-list, .aplayer-list-index, .aplayer-list-title, .aplayer-list-author, .aplayer-title, .aplayer-info, .aplayer-music *, .aplayer-icon {
     background: var(--card-bg-color);
     color: var(--text-color) !important;
@@ -37,6 +53,10 @@ body:before {
 }
 
 @media (max-width: 960px) {
+    #fps {
+        z-index: 1;
+    }
+
     .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
         left: -66px !important;
     }
