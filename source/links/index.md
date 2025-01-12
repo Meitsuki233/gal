@@ -1,7 +1,7 @@
 ---
 title: 友情链接
 date: 2024-08-25 09:25:12
-updated: 2025-01-12 00:00:00
+updated: 2025-01-13 00:00:00
 comments: false
 ---
 
@@ -28,12 +28,12 @@ Koyso | https://koyso.com/ | 单机游戏下载网站，提供最新，热门的
 沧水的网盘 | https://pan.cangshui.net/ | 一些 ONS 与十二神魔器资源，密码：god
 绯玉丸の小仓库 | http://feiyuwanovo.ysepan.com/ | 绯玉丸の小仓库专注收录各类网络黑科技~ | https://dlink.host/images/aHR0cHM6Ly9vbmVkcnYtbXkuc2hhcmVwb2ludC5jb20vOmk6L2cvcGVyc29uYWwvc3Rvcl9vbmVkcnZfb25taWNyb3NvZnRfY29tL0VjTGN2eFl0OW81QnRFS3BORi1zcXFZQmxSazI0ZlpfZTlqQzFWUWFJWUhLMHc.jpg
 BYRUTOR | https://byruthub.org/ | Cкачать игры на ПК [последние версии 2024] через торрент бесплатно | https://byruthub.org/favicon.png
-彼岸星露 | https://yugal.cc/ | 那些暗潮汹涌的 见不得人的 无法诉之于口的才是我真正的生活 | https://yugal.cc/images/favicon.ico
+彼岸星露 | https://yugal.cc/ | 那些暗潮汹涌的 见不得人的 无法诉之于口的才是我真正的生活
 ACGN杂谈 | https://acgto363.life/ | Animation Comic Game Novel
 灵梦御所 | https://blog.reimu.net/ | 绅士的幻想乡 | https://blog.reimu.net/wp-content/uploads/2016/02/cropped-logo-192x192.png
 喵源领域 | https://www.nekotaku.me/ | 一个专注于高质量的Galgame分享网站 | https://www.nekotaku.me/wp-content/uploads/2023/11/lite_logo_256.webp
-莉斯坦GalGame | https://www.limulu.fun/ | 一个简洁美观人性化的Gal站点 | https://img.listan.top/loho.png
-宅宅的妙妙屋 | https://www.justnainai.com/ | ACG二次元公益论坛 | https://www.justnainai.com/uploads/default/original/2X/8/858ed330f63ad13ae1ee3b04dfd3e4559b0151e7.png
+莉斯坦GalGame | https://www.limulu.fun/ | 一个简洁美观人性化的Gal站点
+宅宅的妙妙屋 | https://www.justnainai.com/ | ACG二次元公益论坛 | https://www.z4a.net/images/2025/01/12/1.png
 % test | test | test | test
 {% endlg %}
 
