@@ -5,16 +5,16 @@ updated: 2024-11-09 00:00:00
 comments: false
 ---
 
-![asuna](https://registry.npmmirror.com/js-asuna/latest/files/pic/Asuna/Asuna16x9.webp)
+![魔神フルーレティ](https://pic1.imgdb.cn/item/67878deed0e0a243d4f4892b.jpg)
 
-- 本站始建于 2024 年 01 月 27 日
+- 本站始建于 2025 年 01 月 15 日
 - <span id="timeDate">天数载入中..</span><span id="times">时分秒载入中..</span>
 - 站长将以最低成本维护本站，力求稳定存活长久
 
 ## 通讯方式
 
-- Telegram：[FullDiveSAO](https://t.me/FullDiveSAO)
-- E-mail：[i@saop.cc](mailto:i@saop.cc)
+- qq：[1448575360](tencent://message/?uin=1448575360&Site=qq&Menu=yes)
+- E-mail：[1448575360@qq.com](mailto:1448575360@qq.com)
 
 ## 订阅本站
 

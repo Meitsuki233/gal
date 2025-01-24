@@ -152,7 +152,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /img/avatar.webp #/images/avatar.gif
+  url: /img/avatar.jpg #/images/avatar.gif
   # If true, the avatar will be displayed in circle.
   rounded: false
   # If true, the avatar will be rotated with the cursor.
@@ -175,11 +175,9 @@ social:
   #YouTube: https://youtube.com/yourname || fab fa-youtube
   #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
-  GitHub: https://github.com/AdingApkgg || fab fa-github
-  bilibili: https://space.bilibili.com/1198037522 || fab fa-bilibili
-  Telegram: https://t.me/FullDiveSAO || fab fa-telegram
-  E-mail: mailto:i@saop.cc || fa fa-envelope
-  Twitter: https://twitter.com/AdingApkgg || fab fa-twitter
+  QQ: tencent://message/?uin=1448575360&Site=qq&Menu=yes || fab fa-qq
+  bilibili: https://space.bilibili.com/400873966 || fab fa-bilibili
+  E-mail: mailto:1448575360@qq.com || fa fa-envelope
   Feed: /atom.xml || fa fa-rss
 
 social_icons:
@@ -195,7 +193,6 @@ links_settings:
 
 links:
   #Title: https://example.com
-  参与问卷调查: https://www.wjx.cn/vm/Pp44mSC.aspx
   Galgame 入坑指南: https://zhuanlan.zhihu.com/p/650145197
   提问的智慧 - ryanhanwu: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
   vndb - 视觉小说数据库: https://vndb.org/
@@ -203,7 +200,7 @@ links:
   维基百科 - 自由的百科全书: https://wikipedia.org/
   萌娘百科 - 万物皆可萌的百科全书: https://moegirl.org.cn/
   Bangumi 番组计划: https://bgm.tv/
-  雨云 - 新一代云服务提供商: https://www.rainyun.com/NTM1MDU3_?s=VNS
+  月幕Galgame: https://www.ymgal.games/index
   2DFan: https://2dfan.com/
   鲲 Galgame 论坛: https://kungal.com/
   996.ICU - 工作 996，生病 ICU。: https://996.icu/
@@ -304,8 +301,8 @@ reward:
   #alipay: /images/alipay.png
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png
-  wechatpay: /img/wechatpay.webp
-  alipay: /img/alipay.webp
+  wechatpay: /img/weixin.jpg
+  alipay: /img/zhifubao.jpg
 
 # Subscribe through Telegram Channel, Twitter, etc.
 # Usage: `Key: permalink || icon` (Font Awesome)
