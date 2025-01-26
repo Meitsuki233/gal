@@ -13,7 +13,7 @@ timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://gal.saop.cc
+url: https://gal.mikuhitori.xyz
 permalink: p/:abbrlink/
 permalink_defaults:
   lang: zh-CN
@@ -123,7 +123,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repository: https://github.com/AdingApkgg/gal-site.git
+    repository: git@github.com:Meitsuki233/gal.git
     branch: main
   - type: cjh_google_url_submitter
   - type: cjh_bing_url_submitter
@@ -220,9 +220,9 @@ hexo_submit_urls_to_search_engine:
 # For more information: https://valine.js.org, https://github.com/xCss/Valine
 valine:
   enable: true
-  appId: "BnlZFCN5ghutLVVEX0el3pz3-MdYXbMMI"
-  appKey: "OvpvXLKwajI2qYE4XsNMokpW"
-  serverURLs: "https://valine.saop.cc"
+  appId: "vbCGmPiCS9NAXT2yal0F0p3j-MdYXbMMI"
+  appKey: "gnlLEqqCkWSemGVukyByZfu5"
+  serverURLs: "https://valine.mikuhitori.xyz"
   placeholder: "昵称栏输入 QQ 号即可获取头像与邮箱..\n评论支持标准的 Markdown 全语法~"
   avatar_cdn: "https://weavatar.com/avatar/"
   pageSize: 20
