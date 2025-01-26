@@ -110,8 +110,6 @@ menu:
   留言: /comments/ || fas fa-comment-dots
   投稿: /post/ || fas fa-pen
   友链: /links/ || fas fa-link
-  云盘: https://cloud.saop.cc/ || fas fa-cloud
-  网盘: https://drive.saop.cc/ || fas fa-hard-drive
   捐赠: /donate/ || fas fa-hand-holding-dollar
   广告: /ad/ || fa fa-rectangle-ad
   about: /about/ || fa fa-user
@@ -203,8 +201,8 @@ links:
   月幕Galgame: https://www.ymgal.games/index
   2DFan: https://2dfan.com/
   鲲 Galgame 论坛: https://kungal.com/
-  996.ICU - 工作 996，生病 ICU。: https://996.icu/
-  How To Cook - 程序员做饭指南: https://cook.aiursoft.cn/
+  萌游中文网-美少女游戏大全: https://moe.galge.uk/
+  誠也の部屋: https://seiya-saiga.com/
   萌 ICP 备 20235239 号: https://icp.gov.moe/?keyword=20235239
 
 # Table of Contents in the Sidebar
@@ -311,10 +309,8 @@ follow_me:
   #Telegram: https://t.me/channel_name || fab fa-telegram
   #WeChat: /images/wechat_channel.png || fab fa-weixin
   #RSS: /atom.xml || fa fa-rss
-  GitHub: https://github.com/AdingApkgg || fab fa-github
-  bilibili: https://space.bilibili.com/1198037522 || fab fa-bilibili
-  Telegram: https://t.me/FullDiveSAO || fab fa-telegram
-  Feed: /atom.xml || fa fa-rss
+  bilibili: https://space.bilibili.com/400873966 || fab fa-bilibili
+
 
 # Related popular posts
 # Dependencies: https://github.com/sergeyzwezdin/hexo-related-posts
@@ -326,7 +322,7 @@ related_posts:
 # Easily browse and edit blog source code online.
 post_edit:
   enable: true
-  url: https://github.com/AdingApkgg/vns/edit/main/source/
+  url: https://github.com/Meitsuki233/gal/tree/main/source/
   #url: https://github.com/user-name/repo-name/tree/branch-name/subdirectory-name/ # Link for view source
   #url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/ # Link for fork & edit
 
